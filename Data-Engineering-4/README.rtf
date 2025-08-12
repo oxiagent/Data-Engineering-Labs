@@ -1,117 +1,31 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2818
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\froman\fcharset0 Times-Roman;
-\f3\fmodern\fcharset0 Courier;\f4\fnil\fcharset0 .SFNS-Regular_wdth_opsz110000_GRAD_wght2580000;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red24\green26\blue30;\red255\green255\blue255;
-}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c12157\c13725\c15686;\cssrgb\c100000\c100000\c100000;
-}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
-{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
-{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
-\paperw11900\paperh16840\margl1440\margr1440\vieww12720\viewh7800\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\b\fs48 \cf0 \
 Ad Performance Analytics with Cassandra
-\f1\b0\fs24 \
-\
-\pard\pardeftab720\sa298\partightenfactor0
 
-\f0\b\fs36 \cf0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Technologies Used\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
-\ls1\ilvl0
-\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Apache Cassandra
-\f2\b0  \'96 NoSQL DB for horizontal scalability and performance.\
-\ls1\ilvl0
-\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 MySQL
-\f2\b0  \'96 Source database (used for staging raw advertising data).\
-\ls1\ilvl0
-\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Python
-\f2\b0  \'96 Data processing and ETL scripts.\
-\ls1\ilvl0
-\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Pandas & SQLAlchemy
-\f2\b0  \'96 For querying MySQL and preprocessing.\
-\ls1\ilvl0
-\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 uuid
-\f2\b0  \'96 For consistent UUID generation.\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+Technologies Used
+	•	Apache Cassandra – NoSQL DB for horizontal scalability and performance.
+	•	MySQL – Source database (used for staging raw advertising data).
+	•	Python – Data processing and ETL scripts.
+	•	Pandas & SQLAlchemy – For querying MySQL and preprocessing.
+	•	uuid – For consistent UUID generation.
 
-\f1 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
-\pard\pardeftab720\sa298\partightenfactor0
+Usage Instructions
+1. Prepare the environment
+docker-compose.yml (docker-compose up -d)
+pip install pandas sqlalchemy cassandra-driver
+2. Create Cassandra Tables
+Use the provided CQL scripts to create the required tables in Cassandra (Create_tables_queries.txt) . Alternatively, you can run the CREATE TABLE statements interactively via cqlsh.
+3. Populate Tables
+Run the Python scripts (inser_tables_CQL_queries.ipynb) to:
+	•	Connect to MySQL
+	•	Perform necessary transformations
+	•	Insert data into Cassandra tables
+Each script focuses on one table (e.g., populate_campaign_performance.py, populate_advertisers.py, etc.)
 
-\f0\b\fs36 \cf0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Usage Instructions\
-\pard\pardeftab720\sa280\partightenfactor0
+Notes
+	•	UUIDs are deterministically generated using uuid.uuid5() for consistency.
+	•	Cassandra's constraints (e.g., no ORDER BY without partition key) are considered in design.
+	•	ALLOW FILTERING is used cautiously and only when necessary.
+	•	Please, note that in the first lab normalized dataset was prepared by cutting data (70k raws left in each month). The document of data preparation is load_sample.ipynb. So it impacted the results of the Lab 4
 
-\fs28 \cf0 1. Prepare the environment\
-\pard\pardeftab720\sa240\partightenfactor0
+Screenshots 
 
-\f2\b0\fs24 \cf0 docker-compose.yml (\kerning1\expnd0\expndtw0 \outl0\strokewidth0 docker-compose up -d)\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-pip install pandas sqlalchemy cassandra-driver\
-\pard\pardeftab720\sa280\partightenfactor0
-
-\f0\b\fs28 \cf0 2. Create Cassandra Tables\
-\pard\pardeftab720\sa240\partightenfactor0
-
-\f2\b0\fs24 \cf0 Use the provided CQL scripts to create the required tables in Cassandra (Create_tables_queries.txt) .\uc0\u8232 Alternatively, you can run the 
-\f3\fs26 \strokec2 CREATE TABLE
-\f2\fs24 \strokec2  statements interactively via 
-\f3\fs26 \strokec2 cqlsh
-\f2\fs24 \strokec2 .\
-\pard\pardeftab720\sa280\partightenfactor0
-
-\f0\b\fs28 \cf0 3. Populate Tables\
-\pard\pardeftab720\partightenfactor0
-
-\f2\b0\fs24 \cf0 Run the Python scripts (inser_tables_CQL_queries.ipynb) to:\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
-\ls2\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Connect to MySQL\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Perform necessary transformations\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Insert data into Cassandra tables\
-\pard\pardeftab720\partightenfactor0
-\cf0 \strokec2 Each script focuses on one table (e.g., 
-\f3\fs26 \strokec2 populate_campaign_performance.py
-\f2\fs24 \strokec2 , 
-\f3\fs26 \strokec2 populate_advertisers.py
-\f2\fs24 \strokec2 , etc.)\
-\
-\pard\pardeftab720\sa298\partightenfactor0
-
-\f0\b\fs36 \cf0 Notes\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
-\ls3\ilvl0
-\f2\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 UUIDs are deterministically generated using 
-\f3\fs26 uuid.uuid5()
-\f2\fs24  for consistency.\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Cassandra's constraints (e.g., no 
-\f3\fs26 ORDER BY
-\f2\fs24  without partition key) are considered in design.\
-\ls3\ilvl0
-\f3\fs26 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 ALLOW FILTERING
-\f2\fs24  is used cautiously and only when necessary.\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\cf3 \cb4 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec3 Please, note that in the first lab normalized dataset was prepared by cutting data (70k raws left in each month). The document of data preparation is load_sample.ipynb. So it impacted the results of the Lab 4\
-\pard\tx720\pardeftab720\partightenfactor0
-
-\f4\b\fs30 \cf3 \
-
-\f0\fs36 Screenshots
-\f4\fs30  \
-\pard\tx720\pardeftab720\partightenfactor0
-
-\f2\b0\fs24 \cf0 \cb1 \strokec2 \
-}
