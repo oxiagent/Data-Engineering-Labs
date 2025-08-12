@@ -1,0 +1,7358 @@
+{
+  "task1_top5_campaigns_ctr_30d": [
+    {
+      "name": "Campaign_274",
+      "total_impressions": 21,
+      "total_clicks": 4.0,
+      "ctr": 0.19048
+    },
+    {
+      "name": "Campaign_170",
+      "total_impressions": 19,
+      "total_clicks": 2.0,
+      "ctr": 0.10526
+    },
+    {
+      "name": "Campaign_330",
+      "total_impressions": 76,
+      "total_clicks": 7.0,
+      "ctr": 0.09211
+    },
+    {
+      "name": "Campaign_684",
+      "total_impressions": 91,
+      "total_clicks": 8.0,
+      "ctr": 0.08791
+    },
+    {
+      "name": "Campaign_140",
+      "total_impressions": 297,
+      "total_clicks": 25.0,
+      "ctr": 0.08418
+    }
+  ],
+  "task2_top10_advertisers_spend_engagement": [
+    {
+      "name": "Advertiser_58",
+      "total_impressions": 2120,
+      "total_clicks": 117.0,
+      "ctr": 0.05519,
+      "total_spending": 4838.96
+    },
+    {
+      "name": "Advertiser_10",
+      "total_impressions": 1673,
+      "total_clicks": 88.0,
+      "ctr": 0.0526,
+      "total_spending": 3899.68
+    },
+    {
+      "name": "Advertiser_68",
+      "total_impressions": 1545,
+      "total_clicks": 79.0,
+      "ctr": 0.05113,
+      "total_spending": 3416.91
+    },
+    {
+      "name": "Advertiser_21",
+      "total_impressions": 1541,
+      "total_clicks": 64.0,
+      "ctr": 0.04153,
+      "total_spending": 3392.53
+    },
+    {
+      "name": "Advertiser_66",
+      "total_impressions": 1418,
+      "total_clicks": 70.0,
+      "ctr": 0.04937,
+      "total_spending": 3227.26
+    },
+    {
+      "name": "Advertiser_100",
+      "total_impressions": 1410,
+      "total_clicks": 66.0,
+      "ctr": 0.04681,
+      "total_spending": 3224.0
+    },
+    {
+      "name": "Advertiser_30",
+      "total_impressions": 1375,
+      "total_clicks": 71.0,
+      "ctr": 0.05164,
+      "total_spending": 3111.32
+    },
+    {
+      "name": "Advertiser_32",
+      "total_impressions": 1364,
+      "total_clicks": 68.0,
+      "ctr": 0.04985,
+      "total_spending": 3044.44
+    },
+    {
+      "name": "Advertiser_17",
+      "total_impressions": 1309,
+      "total_clicks": 49.0,
+      "ctr": 0.03743,
+      "total_spending": 3024.77
+    },
+    {
+      "name": "Advertiser_57",
+      "total_impressions": 1215,
+      "total_clicks": 51.0,
+      "ctr": 0.04198,
+      "total_spending": 2746.37
+    }
+  ],
+  "task3_cpc_cpm_per_campaign": [
+    {
+      "name": "Campaign_285",
+      "total_impressions": 132,
+      "total_clicks": 5.0,
+      "cpc": 62.77,
+      "cpm": 2377.58
+    },
+    {
+      "name": "Campaign_646",
+      "total_impressions": 363,
+      "total_clicks": 28.0,
+      "cpc": 30.0,
+      "cpm": 2313.69
+    },
+    {
+      "name": "Campaign_9",
+      "total_impressions": 528,
+      "total_clicks": 24.0,
+      "cpc": 50.37,
+      "cpm": 2289.72
+    },
+    {
+      "name": "Campaign_806",
+      "total_impressions": 151,
+      "total_clicks": 7.0,
+      "cpc": 52.87,
+      "cpm": 2450.79
+    },
+    {
+      "name": "Campaign_136",
+      "total_impressions": 280,
+      "total_clicks": 13.0,
+      "cpc": 49.17,
+      "cpm": 2282.96
+    },
+    {
+      "name": "Campaign_54",
+      "total_impressions": 137,
+      "total_clicks": 8.0,
+      "cpc": 39.74,
+      "cpm": 2320.36
+    },
+    {
+      "name": "Campaign_282",
+      "total_impressions": 152,
+      "total_clicks": 7.0,
+      "cpc": 48.53,
+      "cpm": 2235.13
+    },
+    {
+      "name": "Campaign_923",
+      "total_impressions": 146,
+      "total_clicks": 7.0,
+      "cpc": 46.03,
+      "cpm": 2207.05
+    },
+    {
+      "name": "Campaign_495",
+      "total_impressions": 160,
+      "total_clicks": 14.0,
+      "cpc": 27.72,
+      "cpm": 2425.25
+    },
+    {
+      "name": "Campaign_914",
+      "total_impressions": 161,
+      "total_clicks": 5.0,
+      "cpc": 69.47,
+      "cpm": 2157.58
+    },
+    {
+      "name": "Campaign_322",
+      "total_impressions": 115,
+      "total_clicks": 3.0,
+      "cpc": 78.38,
+      "cpm": 2044.78
+    },
+    {
+      "name": "Campaign_15",
+      "total_impressions": 176,
+      "total_clicks": 6.0,
+      "cpc": 65.72,
+      "cpm": 2240.51
+    },
+    {
+      "name": "Campaign_85",
+      "total_impressions": 590,
+      "total_clicks": 27.0,
+      "cpc": 49.13,
+      "cpm": 2248.19
+    },
+    {
+      "name": "Campaign_506",
+      "total_impressions": 158,
+      "total_clicks": 5.0,
+      "cpc": 65.32,
+      "cpm": 2067.09
+    },
+    {
+      "name": "Campaign_91",
+      "total_impressions": 134,
+      "total_clicks": 4.0,
+      "cpc": 80.07,
+      "cpm": 2390.22
+    },
+    {
+      "name": "Campaign_756",
+      "total_impressions": 136,
+      "total_clicks": 8.0,
+      "cpc": 36.52,
+      "cpm": 2148.16
+    },
+    {
+      "name": "Campaign_201",
+      "total_impressions": 363,
+      "total_clicks": 22.0,
+      "cpc": 35.83,
+      "cpm": 2171.71
+    },
+    {
+      "name": "Campaign_665",
+      "total_impressions": 457,
+      "total_clicks": 32.0,
+      "cpc": 33.26,
+      "cpm": 2328.86
+    },
+    {
+      "name": "Campaign_637",
+      "total_impressions": 129,
+      "total_clicks": 4.0,
+      "cpc": 78.38,
+      "cpm": 2430.31
+    },
+    {
+      "name": "Campaign_87",
+      "total_impressions": 357,
+      "total_clicks": 16.0,
+      "cpc": 52.93,
+      "cpm": 2372.35
+    },
+    {
+      "name": "Campaign_327",
+      "total_impressions": 142,
+      "total_clicks": 7.0,
+      "cpc": 45.7,
+      "cpm": 2252.82
+    },
+    {
+      "name": "Campaign_978",
+      "total_impressions": 145,
+      "total_clicks": 4.0,
+      "cpc": 79.02,
+      "cpm": 2179.72
+    },
+    {
+      "name": "Campaign_275",
+      "total_impressions": 405,
+      "total_clicks": 15.0,
+      "cpc": 60.67,
+      "cpm": 2246.86
+    },
+    {
+      "name": "Campaign_317",
+      "total_impressions": 166,
+      "total_clicks": 7.0,
+      "cpc": 53.75,
+      "cpm": 2266.75
+    },
+    {
+      "name": "Campaign_68",
+      "total_impressions": 166,
+      "total_clicks": 4.0,
+      "cpc": 93.94,
+      "cpm": 2263.67
+    },
+    {
+      "name": "Campaign_670",
+      "total_impressions": 491,
+      "total_clicks": 23.0,
+      "cpc": 48.49,
+      "cpm": 2271.51
+    },
+    {
+      "name": "Campaign_207",
+      "total_impressions": 442,
+      "total_clicks": 19.0,
+      "cpc": 53.61,
+      "cpm": 2304.39
+    },
+    {
+      "name": "Campaign_300",
+      "total_impressions": 570,
+      "total_clicks": 30.0,
+      "cpc": 42.09,
+      "cpm": 2215.0
+    },
+    {
+      "name": "Campaign_675",
+      "total_impressions": 176,
+      "total_clicks": 10.0,
+      "cpc": 40.48,
+      "cpm": 2299.83
+    },
+    {
+      "name": "Campaign_985",
+      "total_impressions": 281,
+      "total_clicks": 18.0,
+      "cpc": 34.91,
+      "cpm": 2236.48
+    },
+    {
+      "name": "Campaign_318",
+      "total_impressions": 431,
+      "total_clicks": 19.0,
+      "cpc": 48.38,
+      "cpm": 2132.6
+    },
+    {
+      "name": "Campaign_386",
+      "total_impressions": 145,
+      "total_clicks": 6.0,
+      "cpc": 53.31,
+      "cpm": 2205.86
+    },
+    {
+      "name": "Campaign_437",
+      "total_impressions": 144,
+      "total_clicks": 4.0,
+      "cpc": 78.07,
+      "cpm": 2168.47
+    },
+    {
+      "name": "Campaign_615",
+      "total_impressions": 311,
+      "total_clicks": 6.0,
+      "cpc": 121.91,
+      "cpm": 2352.03
+    },
+    {
+      "name": "Campaign_53",
+      "total_impressions": 384,
+      "total_clicks": 10.0,
+      "cpc": 82.77,
+      "cpm": 2155.34
+    },
+    {
+      "name": "Campaign_676",
+      "total_impressions": 504,
+      "total_clicks": 29.0,
+      "cpc": 40.0,
+      "cpm": 2301.39
+    },
+    {
+      "name": "Campaign_345",
+      "total_impressions": 156,
+      "total_clicks": 16.0,
+      "cpc": 22.16,
+      "cpm": 2273.01
+    },
+    {
+      "name": "Campaign_447",
+      "total_impressions": 135,
+      "total_clicks": 10.0,
+      "cpc": 30.95,
+      "cpm": 2292.22
+    },
+    {
+      "name": "Campaign_906",
+      "total_impressions": 307,
+      "total_clicks": 11.0,
+      "cpc": 64.74,
+      "cpm": 2319.58
+    },
+    {
+      "name": "Campaign_97",
+      "total_impressions": 383,
+      "total_clicks": 23.0,
+      "cpc": 37.67,
+      "cpm": 2262.43
+    },
+    {
+      "name": "Campaign_738",
+      "total_impressions": 121,
+      "total_clicks": 4.0,
+      "cpc": 70.83,
+      "cpm": 2341.32
+    },
+    {
+      "name": "Campaign_992",
+      "total_impressions": 129,
+      "total_clicks": 9.0,
+      "cpc": 31.84,
+      "cpm": 2221.24
+    },
+    {
+      "name": "Campaign_930",
+      "total_impressions": 161,
+      "total_clicks": 11.0,
+      "cpc": 35.65,
+      "cpm": 2435.84
+    },
+    {
+      "name": "Campaign_482",
+      "total_impressions": 141,
+      "total_clicks": 6.0,
+      "cpc": 51.94,
+      "cpm": 2210.21
+    },
+    {
+      "name": "Campaign_313",
+      "total_impressions": 148,
+      "total_clicks": 5.0,
+      "cpc": 67.28,
+      "cpm": 2273.11
+    },
+    {
+      "name": "Campaign_835",
+      "total_impressions": 150,
+      "total_clicks": 1.0,
+      "cpc": 363.41,
+      "cpm": 2422.73
+    },
+    {
+      "name": "Campaign_287",
+      "total_impressions": 150,
+      "total_clicks": 6.0,
+      "cpc": 57.86,
+      "cpm": 2314.4
+    },
+    {
+      "name": "Campaign_780",
+      "total_impressions": 135,
+      "total_clicks": 3.0,
+      "cpc": 99.64,
+      "cpm": 2214.15
+    },
+    {
+      "name": "Campaign_995",
+      "total_impressions": 152,
+      "total_clicks": 8.0,
+      "cpc": 40.24,
+      "cpm": 2117.7
+    },
+    {
+      "name": "Campaign_380",
+      "total_impressions": 576,
+      "total_clicks": 33.0,
+      "cpc": 39.4,
+      "cpm": 2257.14
+    },
+    {
+      "name": "Campaign_701",
+      "total_impressions": 289,
+      "total_clicks": 9.0,
+      "cpc": 73.6,
+      "cpm": 2292.01
+    },
+    {
+      "name": "Campaign_537",
+      "total_impressions": 123,
+      "total_clicks": 7.0,
+      "cpc": 39.51,
+      "cpm": 2248.29
+    },
+    {
+      "name": "Campaign_117",
+      "total_impressions": 349,
+      "total_clicks": 16.0,
+      "cpc": 49.36,
+      "cpm": 2262.84
+    },
+    {
+      "name": "Campaign_934",
+      "total_impressions": 647,
+      "total_clicks": 30.0,
+      "cpc": 48.36,
+      "cpm": 2242.47
+    },
+    {
+      "name": "Campaign_424",
+      "total_impressions": 529,
+      "total_clicks": 23.0,
+      "cpc": 52.53,
+      "cpm": 2283.99
+    },
+    {
+      "name": "Campaign_157",
+      "total_impressions": 522,
+      "total_clicks": 24.0,
+      "cpc": 47.67,
+      "cpm": 2191.74
+    },
+    {
+      "name": "Campaign_518",
+      "total_impressions": 134,
+      "total_clicks": 3.0,
+      "cpc": 103.07,
+      "cpm": 2307.61
+    },
+    {
+      "name": "Campaign_530",
+      "total_impressions": 133,
+      "total_clicks": 9.0,
+      "cpc": 32.68,
+      "cpm": 2211.65
+    },
+    {
+      "name": "Campaign_862",
+      "total_impressions": 172,
+      "total_clicks": 7.0,
+      "cpc": 54.87,
+      "cpm": 2233.26
+    },
+    {
+      "name": "Campaign_33",
+      "total_impressions": 261,
+      "total_clicks": 12.0,
+      "cpc": 46.88,
+      "cpm": 2155.33
+    },
+    {
+      "name": "Campaign_490",
+      "total_impressions": 120,
+      "total_clicks": 6.0,
+      "cpc": 45.17,
+      "cpm": 2258.67
+    },
+    {
+      "name": "Campaign_38",
+      "total_impressions": 248,
+      "total_clicks": 6.0,
+      "cpc": 90.65,
+      "cpm": 2193.1
+    },
+    {
+      "name": "Campaign_415",
+      "total_impressions": 157,
+      "total_clicks": 9.0,
+      "cpc": 39.55,
+      "cpm": 2267.13
+    },
+    {
+      "name": "Campaign_765",
+      "total_impressions": 207,
+      "total_clicks": 11.0,
+      "cpc": 42.21,
+      "cpm": 2243.04
+    },
+    {
+      "name": "Campaign_824",
+      "total_impressions": 153,
+      "total_clicks": 7.0,
+      "cpc": 51.66,
+      "cpm": 2363.59
+    },
+    {
+      "name": "Campaign_719",
+      "total_impressions": 475,
+      "total_clicks": 16.0,
+      "cpc": 66.01,
+      "cpm": 2223.56
+    },
+    {
+      "name": "Campaign_284",
+      "total_impressions": 134,
+      "total_clicks": 6.0,
+      "cpc": 53.4,
+      "cpm": 2390.9
+    },
+    {
+      "name": "Campaign_644",
+      "total_impressions": 147,
+      "total_clicks": 3.0,
+      "cpc": 113.55,
+      "cpm": 2317.41
+    },
+    {
+      "name": "Campaign_73",
+      "total_impressions": 159,
+      "total_clicks": 8.0,
+      "cpc": 43.62,
+      "cpm": 2194.65
+    },
+    {
+      "name": "Campaign_607",
+      "total_impressions": 163,
+      "total_clicks": 8.0,
+      "cpc": 46.3,
+      "cpm": 2272.33
+    },
+    {
+      "name": "Campaign_206",
+      "total_impressions": 143,
+      "total_clicks": 6.0,
+      "cpc": 52.16,
+      "cpm": 2188.46
+    },
+    {
+      "name": "Campaign_1003",
+      "total_impressions": 135,
+      "total_clicks": 4.0,
+      "cpc": 79.66,
+      "cpm": 2360.22
+    },
+    {
+      "name": "Campaign_204",
+      "total_impressions": 143,
+      "total_clicks": 7.0,
+      "cpc": 43.22,
+      "cpm": 2115.73
+    },
+    {
+      "name": "Campaign_917",
+      "total_impressions": 253,
+      "total_clicks": 21.0,
+      "cpc": 27.54,
+      "cpm": 2285.73
+    },
+    {
+      "name": "Campaign_243",
+      "total_impressions": 210,
+      "total_clicks": 5.0,
+      "cpc": 91.89,
+      "cpm": 2187.9
+    },
+    {
+      "name": "Campaign_527",
+      "total_impressions": 465,
+      "total_clicks": 21.0,
+      "cpc": 50.64,
+      "cpm": 2287.01
+    },
+    {
+      "name": "Campaign_883",
+      "total_impressions": 240,
+      "total_clicks": 9.0,
+      "cpc": 60.46,
+      "cpm": 2267.38
+    },
+    {
+      "name": "Campaign_442",
+      "total_impressions": 140,
+      "total_clicks": 4.0,
+      "cpc": 78.67,
+      "cpm": 2247.71
+    },
+    {
+      "name": "Campaign_401",
+      "total_impressions": 385,
+      "total_clicks": 20.0,
+      "cpc": 44.54,
+      "cpm": 2313.71
+    },
+    {
+      "name": "Campaign_630",
+      "total_impressions": 149,
+      "total_clicks": 6.0,
+      "cpc": 57.27,
+      "cpm": 2306.17
+    },
+    {
+      "name": "Campaign_526",
+      "total_impressions": 151,
+      "total_clicks": 6.0,
+      "cpc": 56.04,
+      "cpm": 2226.69
+    },
+    {
+      "name": "Campaign_811",
+      "total_impressions": 184,
+      "total_clicks": 6.0,
+      "cpc": 70.44,
+      "cpm": 2296.85
+    },
+    {
+      "name": "Campaign_865",
+      "total_impressions": 616,
+      "total_clicks": 30.0,
+      "cpc": 47.65,
+      "cpm": 2320.81
+    },
+    {
+      "name": "Campaign_624",
+      "total_impressions": 144,
+      "total_clicks": 3.0,
+      "cpc": 110.24,
+      "cpm": 2296.74
+    },
+    {
+      "name": "Campaign_1",
+      "total_impressions": 135,
+      "total_clicks": 9.0,
+      "cpc": 35.21,
+      "cpm": 2347.26
+    },
+    {
+      "name": "Campaign_559",
+      "total_impressions": 140,
+      "total_clicks": 5.0,
+      "cpc": 66.27,
+      "cpm": 2366.64
+    },
+    {
+      "name": "Campaign_628",
+      "total_impressions": 333,
+      "total_clicks": 20.0,
+      "cpc": 38.24,
+      "cpm": 2296.46
+    },
+    {
+      "name": "Campaign_613",
+      "total_impressions": 155,
+      "total_clicks": 4.0,
+      "cpc": 90.35,
+      "cpm": 2331.68
+    },
+    {
+      "name": "Campaign_971",
+      "total_impressions": 145,
+      "total_clicks": 11.0,
+      "cpc": 29.5,
+      "cpm": 2238.07
+    },
+    {
+      "name": "Campaign_826",
+      "total_impressions": 412,
+      "total_clicks": 21.0,
+      "cpc": 44.19,
+      "cpm": 2252.21
+    },
+    {
+      "name": "Campaign_20",
+      "total_impressions": 180,
+      "total_clicks": 7.0,
+      "cpc": 60.01,
+      "cpm": 2333.61
+    },
+    {
+      "name": "Campaign_777",
+      "total_impressions": 171,
+      "total_clicks": 10.0,
+      "cpc": 39.78,
+      "cpm": 2326.2
+    },
+    {
+      "name": "Campaign_661",
+      "total_impressions": 356,
+      "total_clicks": 16.0,
+      "cpc": 52.66,
+      "cpm": 2366.63
+    },
+    {
+      "name": "Campaign_570",
+      "total_impressions": 133,
+      "total_clicks": 8.0,
+      "cpc": 37.32,
+      "cpm": 2244.51
+    },
+    {
+      "name": "Campaign_445",
+      "total_impressions": 402,
+      "total_clicks": 20.0,
+      "cpc": 44.85,
+      "cpm": 2231.29
+    },
+    {
+      "name": "Campaign_451",
+      "total_impressions": 151,
+      "total_clicks": 8.0,
+      "cpc": 41.72,
+      "cpm": 2210.46
+    },
+    {
+      "name": "Campaign_498",
+      "total_impressions": 141,
+      "total_clicks": 5.0,
+      "cpc": 60.24,
+      "cpm": 2136.03
+    },
+    {
+      "name": "Campaign_18",
+      "total_impressions": 496,
+      "total_clicks": 27.0,
+      "cpc": 41.12,
+      "cpm": 2238.13
+    },
+    {
+      "name": "Campaign_22",
+      "total_impressions": 256,
+      "total_clicks": 18.0,
+      "cpc": 33.25,
+      "cpm": 2337.73
+    },
+    {
+      "name": "Campaign_52",
+      "total_impressions": 351,
+      "total_clicks": 15.0,
+      "cpc": 52.7,
+      "cpm": 2252.17
+    },
+    {
+      "name": "Campaign_856",
+      "total_impressions": 139,
+      "total_clicks": 9.0,
+      "cpc": 33.52,
+      "cpm": 2170.07
+    },
+    {
+      "name": "Campaign_229",
+      "total_impressions": 150,
+      "total_clicks": 6.0,
+      "cpc": 58.73,
+      "cpm": 2349.27
+    },
+    {
+      "name": "Campaign_562",
+      "total_impressions": 493,
+      "total_clicks": 30.0,
+      "cpc": 37.65,
+      "cpm": 2291.34
+    },
+    {
+      "name": "Campaign_728",
+      "total_impressions": 166,
+      "total_clicks": 8.0,
+      "cpc": 46.7,
+      "cpm": 2250.54
+    },
+    {
+      "name": "Campaign_574",
+      "total_impressions": 150,
+      "total_clicks": 6.0,
+      "cpc": 53.53,
+      "cpm": 2141.07
+    },
+    {
+      "name": "Campaign_491",
+      "total_impressions": 152,
+      "total_clicks": 9.0,
+      "cpc": 36.45,
+      "cpm": 2158.49
+    },
+    {
+      "name": "Campaign_849",
+      "total_impressions": 367,
+      "total_clicks": 13.0,
+      "cpc": 63.64,
+      "cpm": 2254.22
+    },
+    {
+      "name": "Campaign_197",
+      "total_impressions": 154,
+      "total_clicks": 7.0,
+      "cpc": 48.12,
+      "cpm": 2187.14
+    },
+    {
+      "name": "Campaign_859",
+      "total_impressions": 140,
+      "total_clicks": 5.0,
+      "cpc": 61.59,
+      "cpm": 2199.5
+    },
+    {
+      "name": "Campaign_905",
+      "total_impressions": 297,
+      "total_clicks": 13.0,
+      "cpc": 52.68,
+      "cpm": 2306.03
+    },
+    {
+      "name": "Campaign_722",
+      "total_impressions": 142,
+      "total_clicks": 7.0,
+      "cpc": 48.1,
+      "cpm": 2371.06
+    },
+    {
+      "name": "Campaign_565",
+      "total_impressions": 170,
+      "total_clicks": 10.0,
+      "cpc": 40.11,
+      "cpm": 2359.12
+    },
+    {
+      "name": "Campaign_949",
+      "total_impressions": 136,
+      "total_clicks": 5.0,
+      "cpc": 62.03,
+      "cpm": 2280.37
+    },
+    {
+      "name": "Campaign_464",
+      "total_impressions": 393,
+      "total_clicks": 20.0,
+      "cpc": 45.26,
+      "cpm": 2303.31
+    },
+    {
+      "name": "Campaign_818",
+      "total_impressions": 161,
+      "total_clicks": 11.0,
+      "cpc": 31.99,
+      "cpm": 2185.65
+    },
+    {
+      "name": "Campaign_579",
+      "total_impressions": 127,
+      "total_clicks": 6.0,
+      "cpc": 48.32,
+      "cpm": 2282.83
+    },
+    {
+      "name": "Campaign_987",
+      "total_impressions": 127,
+      "total_clicks": 5.0,
+      "cpc": 61.33,
+      "cpm": 2414.41
+    },
+    {
+      "name": "Campaign_714",
+      "total_impressions": 580,
+      "total_clicks": 27.0,
+      "cpc": 47.31,
+      "cpm": 2202.43
+    },
+    {
+      "name": "Campaign_366",
+      "total_impressions": 505,
+      "total_clicks": 27.0,
+      "cpc": 42.09,
+      "cpm": 2250.53
+    },
+    {
+      "name": "Campaign_103",
+      "total_impressions": 340,
+      "total_clicks": 18.0,
+      "cpc": 41.93,
+      "cpm": 2219.65
+    },
+    {
+      "name": "Campaign_773",
+      "total_impressions": 348,
+      "total_clicks": 13.0,
+      "cpc": 61.77,
+      "cpm": 2307.41
+    },
+    {
+      "name": "Campaign_672",
+      "total_impressions": 142,
+      "total_clicks": 7.0,
+      "cpc": 44.52,
+      "cpm": 2194.79
+    },
+    {
+      "name": "Campaign_291",
+      "total_impressions": 346,
+      "total_clicks": 17.0,
+      "cpc": 46.17,
+      "cpm": 2268.32
+    },
+    {
+      "name": "Campaign_642",
+      "total_impressions": 135,
+      "total_clicks": 2.0,
+      "cpc": 149.51,
+      "cpm": 2214.89
+    },
+    {
+      "name": "Campaign_937",
+      "total_impressions": 234,
+      "total_clicks": 6.0,
+      "cpc": 91.38,
+      "cpm": 2343.03
+    },
+    {
+      "name": "Campaign_352",
+      "total_impressions": 194,
+      "total_clicks": 15.0,
+      "cpc": 31.1,
+      "cpm": 2404.54
+    },
+    {
+      "name": "Campaign_194",
+      "total_impressions": 137,
+      "total_clicks": 5.0,
+      "cpc": 64.48,
+      "cpm": 2353.43
+    },
+    {
+      "name": "Campaign_277",
+      "total_impressions": 580,
+      "total_clicks": 30.0,
+      "cpc": 43.55,
+      "cpm": 2252.66
+    },
+    {
+      "name": "Campaign_941",
+      "total_impressions": 140,
+      "total_clicks": 6.0,
+      "cpc": 57.5,
+      "cpm": 2464.14
+    },
+    {
+      "name": "Campaign_227",
+      "total_impressions": 165,
+      "total_clicks": 11.0,
+      "cpc": 34.45,
+      "cpm": 2296.36
+    },
+    {
+      "name": "Campaign_815",
+      "total_impressions": 157,
+      "total_clicks": 10.0,
+      "cpc": 35.46,
+      "cpm": 2258.66
+    },
+    {
+      "name": "Campaign_960",
+      "total_impressions": 151,
+      "total_clicks": 9.0,
+      "cpc": 39.16,
+      "cpm": 2334.11
+    },
+    {
+      "name": "Campaign_358",
+      "total_impressions": 153,
+      "total_clicks": 7.0,
+      "cpc": 53.18,
+      "cpm": 2433.07
+    },
+    {
+      "name": "Campaign_436",
+      "total_impressions": 521,
+      "total_clicks": 19.0,
+      "cpc": 60.83,
+      "cpm": 2218.39
+    },
+    {
+      "name": "Campaign_582",
+      "total_impressions": 509,
+      "total_clicks": 31.0,
+      "cpc": 35.55,
+      "cpm": 2164.99
+    },
+    {
+      "name": "Campaign_42",
+      "total_impressions": 139,
+      "total_clicks": 13.0,
+      "cpc": 24.47,
+      "cpm": 2288.35
+    },
+    {
+      "name": "Campaign_608",
+      "total_impressions": 155,
+      "total_clicks": 8.0,
+      "cpc": 43.31,
+      "cpm": 2235.23
+    },
+    {
+      "name": "Campaign_827",
+      "total_impressions": 269,
+      "total_clicks": 16.0,
+      "cpc": 39.47,
+      "cpm": 2347.84
+    },
+    {
+      "name": "Campaign_360",
+      "total_impressions": 332,
+      "total_clicks": 15.0,
+      "cpc": 49.43,
+      "cpm": 2233.37
+    },
+    {
+      "name": "Campaign_487",
+      "total_impressions": 139,
+      "total_clicks": 5.0,
+      "cpc": 65.02,
+      "cpm": 2338.85
+    },
+    {
+      "name": "Campaign_391",
+      "total_impressions": 306,
+      "total_clicks": 10.0,
+      "cpc": 71.1,
+      "cpm": 2323.53
+    },
+    {
+      "name": "Campaign_707",
+      "total_impressions": 166,
+      "total_clicks": 4.0,
+      "cpc": 93.52,
+      "cpm": 2253.55
+    },
+    {
+      "name": "Campaign_961",
+      "total_impressions": 546,
+      "total_clicks": 35.0,
+      "cpc": 35.51,
+      "cpm": 2276.37
+    },
+    {
+      "name": "Campaign_133",
+      "total_impressions": 190,
+      "total_clicks": 10.0,
+      "cpc": 42.78,
+      "cpm": 2251.32
+    },
+    {
+      "name": "Campaign_330",
+      "total_impressions": 211,
+      "total_clicks": 9.0,
+      "cpc": 52.01,
+      "cpm": 2218.63
+    },
+    {
+      "name": "Campaign_363",
+      "total_impressions": 378,
+      "total_clicks": 15.0,
+      "cpc": 58.33,
+      "cpm": 2314.58
+    },
+    {
+      "name": "Campaign_584",
+      "total_impressions": 153,
+      "total_clicks": 5.0,
+      "cpc": 69.39,
+      "cpm": 2267.71
+    },
+    {
+      "name": "Campaign_202",
+      "total_impressions": 335,
+      "total_clicks": 20.0,
+      "cpc": 34.28,
+      "cpm": 2046.75
+    },
+    {
+      "name": "Campaign_692",
+      "total_impressions": 153,
+      "total_clicks": 9.0,
+      "cpc": 39.66,
+      "cpm": 2332.75
+    },
+    {
+      "name": "Campaign_410",
+      "total_impressions": 154,
+      "total_clicks": 5.0,
+      "cpc": 68.46,
+      "cpm": 2222.6
+    },
+    {
+      "name": "Campaign_61",
+      "total_impressions": 646,
+      "total_clicks": 36.0,
+      "cpc": 42.41,
+      "cpm": 2363.64
+    },
+    {
+      "name": "Campaign_364",
+      "total_impressions": 509,
+      "total_clicks": 29.0,
+      "cpc": 40.68,
+      "cpm": 2317.64
+    },
+    {
+      "name": "Campaign_957",
+      "total_impressions": 166,
+      "total_clicks": 9.0,
+      "cpc": 42.9,
+      "cpm": 2325.9
+    },
+    {
+      "name": "Campaign_790",
+      "total_impressions": 143,
+      "total_clicks": 5.0,
+      "cpc": 64.31,
+      "cpm": 2248.67
+    },
+    {
+      "name": "Campaign_821",
+      "total_impressions": 407,
+      "total_clicks": 24.0,
+      "cpc": 38.85,
+      "cpm": 2291.03
+    },
+    {
+      "name": "Campaign_231",
+      "total_impressions": 146,
+      "total_clicks": 1.0,
+      "cpc": 345.93,
+      "cpm": 2369.38
+    },
+    {
+      "name": "Campaign_649",
+      "total_impressions": 130,
+      "total_clicks": 6.0,
+      "cpc": 49.73,
+      "cpm": 2295.08
+    },
+    {
+      "name": "Campaign_720",
+      "total_impressions": 137,
+      "total_clicks": 9.0,
+      "cpc": 32.87,
+      "cpm": 2159.49
+    },
+    {
+      "name": "Campaign_666",
+      "total_impressions": 332,
+      "total_clicks": 16.0,
+      "cpc": 46.68,
+      "cpm": 2249.4
+    },
+    {
+      "name": "Campaign_711",
+      "total_impressions": 263,
+      "total_clicks": 22.0,
+      "cpc": 26.02,
+      "cpm": 2176.31
+    },
+    {
+      "name": "Campaign_913",
+      "total_impressions": 147,
+      "total_clicks": 9.0,
+      "cpc": 36.82,
+      "cpm": 2254.22
+    },
+    {
+      "name": "Campaign_181",
+      "total_impressions": 128,
+      "total_clicks": 3.0,
+      "cpc": 98.72,
+      "cpm": 2313.67
+    },
+    {
+      "name": "Campaign_1009",
+      "total_impressions": 519,
+      "total_clicks": 26.0,
+      "cpc": 46.85,
+      "cpm": 2347.21
+    },
+    {
+      "name": "Campaign_947",
+      "total_impressions": 148,
+      "total_clicks": 6.0,
+      "cpc": 53.68,
+      "cpm": 2176.08
+    },
+    {
+      "name": "Campaign_901",
+      "total_impressions": 525,
+      "total_clicks": 29.0,
+      "cpc": 41.18,
+      "cpm": 2274.91
+    },
+    {
+      "name": "Campaign_286",
+      "total_impressions": 666,
+      "total_clicks": 39.0,
+      "cpc": 38.9,
+      "cpm": 2278.06
+    },
+    {
+      "name": "Campaign_187",
+      "total_impressions": 154,
+      "total_clicks": 8.0,
+      "cpc": 45.93,
+      "cpm": 2385.84
+    },
+    {
+      "name": "Campaign_500",
+      "total_impressions": 139,
+      "total_clicks": 10.0,
+      "cpc": 31.54,
+      "cpm": 2268.71
+    },
+    {
+      "name": "Campaign_973",
+      "total_impressions": 221,
+      "total_clicks": 11.0,
+      "cpc": 43.77,
+      "cpm": 2178.6
+    },
+    {
+      "name": "Campaign_561",
+      "total_impressions": 137,
+      "total_clicks": 9.0,
+      "cpc": 35.08,
+      "cpm": 2304.23
+    },
+    {
+      "name": "Campaign_182",
+      "total_impressions": 242,
+      "total_clicks": 11.0,
+      "cpc": 51.11,
+      "cpm": 2323.02
+    },
+    {
+      "name": "Campaign_64",
+      "total_impressions": 199,
+      "total_clicks": 5.0,
+      "cpc": 85.71,
+      "cpm": 2153.47
+    },
+    {
+      "name": "Campaign_319",
+      "total_impressions": 134,
+      "total_clicks": 3.0,
+      "cpc": 109.15,
+      "cpm": 2443.58
+    },
+    {
+      "name": "Campaign_489",
+      "total_impressions": 495,
+      "total_clicks": 29.0,
+      "cpc": 39.11,
+      "cpm": 2291.25
+    },
+    {
+      "name": "Campaign_159",
+      "total_impressions": 515,
+      "total_clicks": 22.0,
+      "cpc": 54.13,
+      "cpm": 2312.23
+    },
+    {
+      "name": "Campaign_11",
+      "total_impressions": 134,
+      "total_clicks": 3.0,
+      "cpc": 92.49,
+      "cpm": 2070.75
+    },
+    {
+      "name": "Campaign_190",
+      "total_impressions": 163,
+      "total_clicks": 8.0,
+      "cpc": 44.24,
+      "cpm": 2171.47
+    },
+    {
+      "name": "Campaign_869",
+      "total_impressions": 148,
+      "total_clicks": 5.0,
+      "cpc": 71.29,
+      "cpm": 2408.51
+    },
+    {
+      "name": "Campaign_10",
+      "total_impressions": 131,
+      "total_clicks": 5.0,
+      "cpc": 58.41,
+      "cpm": 2229.54
+    },
+    {
+      "name": "Campaign_172",
+      "total_impressions": 454,
+      "total_clicks": 25.0,
+      "cpc": 41.76,
+      "cpm": 2299.41
+    },
+    {
+      "name": "Campaign_260",
+      "total_impressions": 482,
+      "total_clicks": 19.0,
+      "cpc": 60.64,
+      "cpm": 2390.25
+    },
+    {
+      "name": "Campaign_766",
+      "total_impressions": 139,
+      "total_clicks": 6.0,
+      "cpc": 51.19,
+      "cpm": 2209.78
+    },
+    {
+      "name": "Campaign_342",
+      "total_impressions": 130,
+      "total_clicks": 5.0,
+      "cpc": 57.0,
+      "cpm": 2192.31
+    },
+    {
+      "name": "Campaign_168",
+      "total_impressions": 160,
+      "total_clicks": 9.0,
+      "cpc": 38.78,
+      "cpm": 2181.63
+    },
+    {
+      "name": "Campaign_411",
+      "total_impressions": 472,
+      "total_clicks": 25.0,
+      "cpc": 42.46,
+      "cpm": 2248.98
+    },
+    {
+      "name": "Campaign_414",
+      "total_impressions": 127,
+      "total_clicks": 8.0,
+      "cpc": 35.75,
+      "cpm": 2251.73
+    },
+    {
+      "name": "Campaign_677",
+      "total_impressions": 139,
+      "total_clicks": 4.0,
+      "cpc": 81.05,
+      "cpm": 2332.23
+    },
+    {
+      "name": "Campaign_804",
+      "total_impressions": 367,
+      "total_clicks": 11.0,
+      "cpc": 76.08,
+      "cpm": 2280.35
+    },
+    {
+      "name": "Campaign_723",
+      "total_impressions": 234,
+      "total_clicks": 11.0,
+      "cpc": 49.82,
+      "cpm": 2342.18
+    },
+    {
+      "name": "Campaign_680",
+      "total_impressions": 123,
+      "total_clicks": 10.0,
+      "cpc": 27.13,
+      "cpm": 2205.45
+    },
+    {
+      "name": "Campaign_970",
+      "total_impressions": 134,
+      "total_clicks": 8.0,
+      "cpc": 39.08,
+      "cpm": 2332.91
+    },
+    {
+      "name": "Campaign_105",
+      "total_impressions": 359,
+      "total_clicks": 21.0,
+      "cpc": 40.11,
+      "cpm": 2346.32
+    },
+    {
+      "name": "Campaign_807",
+      "total_impressions": 136,
+      "total_clicks": 2.0,
+      "cpc": 163.09,
+      "cpm": 2398.31
+    },
+    {
+      "name": "Campaign_278",
+      "total_impressions": 150,
+      "total_clicks": 4.0,
+      "cpc": 83.64,
+      "cpm": 2230.47
+    },
+    {
+      "name": "Campaign_266",
+      "total_impressions": 676,
+      "total_clicks": 26.0,
+      "cpc": 59.77,
+      "cpm": 2298.79
+    },
+    {
+      "name": "Campaign_541",
+      "total_impressions": 622,
+      "total_clicks": 34.0,
+      "cpc": 42.11,
+      "cpm": 2302.09
+    },
+    {
+      "name": "Campaign_861",
+      "total_impressions": 513,
+      "total_clicks": 20.0,
+      "cpc": 58.1,
+      "cpm": 2265.17
+    },
+    {
+      "name": "Campaign_531",
+      "total_impressions": 317,
+      "total_clicks": 14.0,
+      "cpc": 48.67,
+      "cpm": 2149.4
+    },
+    {
+      "name": "Campaign_132",
+      "total_impressions": 561,
+      "total_clicks": 22.0,
+      "cpc": 58.81,
+      "cpm": 2306.45
+    },
+    {
+      "name": "Campaign_916",
+      "total_impressions": 231,
+      "total_clicks": 9.0,
+      "cpc": 59.36,
+      "cpm": 2312.68
+    },
+    {
+      "name": "Campaign_481",
+      "total_impressions": 309,
+      "total_clicks": 11.0,
+      "cpc": 61.11,
+      "cpm": 2175.31
+    },
+    {
+      "name": "Campaign_789",
+      "total_impressions": 154,
+      "total_clicks": 12.0,
+      "cpc": 30.54,
+      "cpm": 2379.81
+    },
+    {
+      "name": "Campaign_196",
+      "total_impressions": 462,
+      "total_clicks": 21.0,
+      "cpc": 49.82,
+      "cpm": 2264.74
+    },
+    {
+      "name": "Campaign_188",
+      "total_impressions": 168,
+      "total_clicks": 8.0,
+      "cpc": 49.12,
+      "cpm": 2339.23
+    },
+    {
+      "name": "Campaign_684",
+      "total_impressions": 239,
+      "total_clicks": 18.0,
+      "cpc": 29.47,
+      "cpm": 2219.12
+    },
+    {
+      "name": "Campaign_705",
+      "total_impressions": 274,
+      "total_clicks": 14.0,
+      "cpc": 44.77,
+      "cpm": 2287.48
+    },
+    {
+      "name": "Campaign_110",
+      "total_impressions": 155,
+      "total_clicks": 9.0,
+      "cpc": 41.57,
+      "cpm": 2413.61
+    },
+    {
+      "name": "Campaign_502",
+      "total_impressions": 484,
+      "total_clicks": 20.0,
+      "cpc": 57.08,
+      "cpm": 2358.62
+    },
+    {
+      "name": "Campaign_208",
+      "total_impressions": 158,
+      "total_clicks": 10.0,
+      "cpc": 36.44,
+      "cpm": 2306.58
+    },
+    {
+      "name": "Campaign_710",
+      "total_impressions": 134,
+      "total_clicks": 8.0,
+      "cpc": 38.24,
+      "cpm": 2283.21
+    },
+    {
+      "name": "Campaign_512",
+      "total_impressions": 138,
+      "total_clicks": 5.0,
+      "cpc": 66.34,
+      "cpm": 2403.7
+    },
+    {
+      "name": "Campaign_476",
+      "total_impressions": 164,
+      "total_clicks": 5.0,
+      "cpc": 73.73,
+      "cpm": 2247.87
+    },
+    {
+      "name": "Campaign_423",
+      "total_impressions": 137,
+      "total_clicks": 6.0,
+      "cpc": 52.29,
+      "cpm": 2290.15
+    },
+    {
+      "name": "Campaign_813",
+      "total_impressions": 130,
+      "total_clicks": 10.0,
+      "cpc": 28.12,
+      "cpm": 2162.85
+    },
+    {
+      "name": "Campaign_388",
+      "total_impressions": 150,
+      "total_clicks": 10.0,
+      "cpc": 33.0,
+      "cpm": 2199.67
+    },
+    {
+      "name": "Campaign_128",
+      "total_impressions": 162,
+      "total_clicks": 7.0,
+      "cpc": 50.69,
+      "cpm": 2190.31
+    },
+    {
+      "name": "Campaign_371",
+      "total_impressions": 159,
+      "total_clicks": 6.0,
+      "cpc": 55.11,
+      "cpm": 2079.5
+    },
+    {
+      "name": "Campaign_375",
+      "total_impressions": 138,
+      "total_clicks": 4.0,
+      "cpc": 72.53,
+      "cpm": 2102.39
+    },
+    {
+      "name": "Campaign_696",
+      "total_impressions": 337,
+      "total_clicks": 14.0,
+      "cpc": 53.76,
+      "cpm": 2233.23
+    },
+    {
+      "name": "Campaign_192",
+      "total_impressions": 139,
+      "total_clicks": 10.0,
+      "cpc": 31.23,
+      "cpm": 2246.83
+    },
+    {
+      "name": "Campaign_975",
+      "total_impressions": 154,
+      "total_clicks": 11.0,
+      "cpc": 31.85,
+      "cpm": 2274.68
+    },
+    {
+      "name": "Campaign_808",
+      "total_impressions": 140,
+      "total_clicks": 7.0,
+      "cpc": 45.39,
+      "cpm": 2269.57
+    },
+    {
+      "name": "Campaign_943",
+      "total_impressions": 481,
+      "total_clicks": 18.0,
+      "cpc": 56.35,
+      "cpm": 2108.77
+    },
+    {
+      "name": "Campaign_148",
+      "total_impressions": 141,
+      "total_clicks": 5.0,
+      "cpc": 64.6,
+      "cpm": 2290.78
+    },
+    {
+      "name": "Campaign_779",
+      "total_impressions": 462,
+      "total_clicks": 23.0,
+      "cpc": 45.58,
+      "cpm": 2269.03
+    },
+    {
+      "name": "Campaign_60",
+      "total_impressions": 539,
+      "total_clicks": 26.0,
+      "cpc": 46.56,
+      "cpm": 2246.16
+    },
+    {
+      "name": "Campaign_508",
+      "total_impressions": 602,
+      "total_clicks": 27.0,
+      "cpc": 51.78,
+      "cpm": 2322.49
+    },
+    {
+      "name": "Campaign_183",
+      "total_impressions": 416,
+      "total_clicks": 23.0,
+      "cpc": 39.14,
+      "cpm": 2164.18
+    },
+    {
+      "name": "Campaign_631",
+      "total_impressions": 287,
+      "total_clicks": 15.0,
+      "cpc": 44.26,
+      "cpm": 2313.0
+    },
+    {
+      "name": "Campaign_59",
+      "total_impressions": 148,
+      "total_clicks": 9.0,
+      "cpc": 35.53,
+      "cpm": 2160.54
+    },
+    {
+      "name": "Campaign_100",
+      "total_impressions": 150,
+      "total_clicks": 11.0,
+      "cpc": 30.99,
+      "cpm": 2272.47
+    },
+    {
+      "name": "Campaign_176",
+      "total_impressions": 320,
+      "total_clicks": 14.0,
+      "cpc": 51.01,
+      "cpm": 2231.78
+    },
+    {
+      "name": "Campaign_697",
+      "total_impressions": 149,
+      "total_clicks": 9.0,
+      "cpc": 39.48,
+      "cpm": 2384.7
+    },
+    {
+      "name": "Campaign_967",
+      "total_impressions": 384,
+      "total_clicks": 25.0,
+      "cpc": 36.39,
+      "cpm": 2368.83
+    },
+    {
+      "name": "Campaign_944",
+      "total_impressions": 529,
+      "total_clicks": 36.0,
+      "cpc": 34.21,
+      "cpm": 2327.83
+    },
+    {
+      "name": "Campaign_234",
+      "total_impressions": 236,
+      "total_clicks": 14.0,
+      "cpc": 39.52,
+      "cpm": 2344.19
+    },
+    {
+      "name": "Campaign_969",
+      "total_impressions": 180,
+      "total_clicks": 8.0,
+      "cpc": 52.44,
+      "cpm": 2330.67
+    },
+    {
+      "name": "Campaign_354",
+      "total_impressions": 302,
+      "total_clicks": 13.0,
+      "cpc": 53.22,
+      "cpm": 2291.03
+    },
+    {
+      "name": "Campaign_267",
+      "total_impressions": 469,
+      "total_clicks": 24.0,
+      "cpc": 44.47,
+      "cpm": 2275.59
+    },
+    {
+      "name": "Campaign_657",
+      "total_impressions": 214,
+      "total_clicks": 11.0,
+      "cpc": 42.49,
+      "cpm": 2183.83
+    },
+    {
+      "name": "Campaign_882",
+      "total_impressions": 408,
+      "total_clicks": 19.0,
+      "cpc": 47.49,
+      "cpm": 2211.64
+    },
+    {
+      "name": "Campaign_216",
+      "total_impressions": 536,
+      "total_clicks": 29.0,
+      "cpc": 42.73,
+      "cpm": 2312.03
+    },
+    {
+      "name": "Campaign_919",
+      "total_impressions": 240,
+      "total_clicks": 5.0,
+      "cpc": 108.94,
+      "cpm": 2269.67
+    },
+    {
+      "name": "Campaign_26",
+      "total_impressions": 145,
+      "total_clicks": 5.0,
+      "cpc": 61.06,
+      "cpm": 2105.59
+    },
+    {
+      "name": "Campaign_688",
+      "total_impressions": 546,
+      "total_clicks": 33.0,
+      "cpc": 36.33,
+      "cpm": 2195.81
+    },
+    {
+      "name": "Campaign_812",
+      "total_impressions": 166,
+      "total_clicks": 8.0,
+      "cpc": 43.84,
+      "cpm": 2112.59
+    },
+    {
+      "name": "Campaign_347",
+      "total_impressions": 579,
+      "total_clicks": 30.0,
+      "cpc": 43.0,
+      "cpm": 2228.19
+    },
+    {
+      "name": "Campaign_855",
+      "total_impressions": 613,
+      "total_clicks": 25.0,
+      "cpc": 57.98,
+      "cpm": 2364.5
+    },
+    {
+      "name": "Campaign_67",
+      "total_impressions": 138,
+      "total_clicks": 1.0,
+      "cpc": 315.35,
+      "cpm": 2285.14
+    },
+    {
+      "name": "Campaign_485",
+      "total_impressions": 178,
+      "total_clicks": 8.0,
+      "cpc": 52.49,
+      "cpm": 2358.88
+    },
+    {
+      "name": "Campaign_409",
+      "total_impressions": 213,
+      "total_clicks": 11.0,
+      "cpc": 43.08,
+      "cpm": 2224.98
+    },
+    {
+      "name": "Campaign_520",
+      "total_impressions": 146,
+      "total_clicks": 8.0,
+      "cpc": 42.92,
+      "cpm": 2351.51
+    },
+    {
+      "name": "Campaign_179",
+      "total_impressions": 181,
+      "total_clicks": 10.0,
+      "cpc": 42.79,
+      "cpm": 2364.09
+    },
+    {
+      "name": "Campaign_887",
+      "total_impressions": 306,
+      "total_clicks": 11.0,
+      "cpc": 60.56,
+      "cpm": 2177.12
+    },
+    {
+      "name": "Campaign_403",
+      "total_impressions": 504,
+      "total_clicks": 26.0,
+      "cpc": 44.51,
+      "cpm": 2295.91
+    },
+    {
+      "name": "Campaign_297",
+      "total_impressions": 155,
+      "total_clicks": 9.0,
+      "cpc": 40.84,
+      "cpm": 2371.29
+    },
+    {
+      "name": "Campaign_534",
+      "total_impressions": 170,
+      "total_clicks": 10.0,
+      "cpc": 39.64,
+      "cpm": 2331.47
+    },
+    {
+      "name": "Campaign_24",
+      "total_impressions": 270,
+      "total_clicks": 13.0,
+      "cpc": 47.61,
+      "cpm": 2292.37
+    },
+    {
+      "name": "Campaign_460",
+      "total_impressions": 332,
+      "total_clicks": 14.0,
+      "cpc": 53.02,
+      "cpm": 2235.63
+    },
+    {
+      "name": "Campaign_578",
+      "total_impressions": 142,
+      "total_clicks": 12.0,
+      "cpc": 25.47,
+      "cpm": 2152.75
+    },
+    {
+      "name": "Campaign_43",
+      "total_impressions": 151,
+      "total_clicks": 9.0,
+      "cpc": 39.18,
+      "cpm": 2335.03
+    },
+    {
+      "name": "Campaign_185",
+      "total_impressions": 139,
+      "total_clicks": 8.0,
+      "cpc": 38.64,
+      "cpm": 2223.81
+    },
+    {
+      "name": "Campaign_475",
+      "total_impressions": 138,
+      "total_clicks": 7.0,
+      "cpc": 42.11,
+      "cpm": 2136.16
+    },
+    {
+      "name": "Campaign_378",
+      "total_impressions": 525,
+      "total_clicks": 25.0,
+      "cpc": 48.21,
+      "cpm": 2295.94
+    },
+    {
+      "name": "Campaign_529",
+      "total_impressions": 614,
+      "total_clicks": 26.0,
+      "cpc": 52.61,
+      "cpm": 2227.57
+    },
+    {
+      "name": "Campaign_272",
+      "total_impressions": 162,
+      "total_clicks": 7.0,
+      "cpc": 50.19,
+      "cpm": 2168.89
+    },
+    {
+      "name": "Campaign_706",
+      "total_impressions": 154,
+      "total_clicks": 3.0,
+      "cpc": 122.65,
+      "cpm": 2389.35
+    },
+    {
+      "name": "Campaign_799",
+      "total_impressions": 125,
+      "total_clicks": 6.0,
+      "cpc": 46.51,
+      "cpm": 2232.4
+    },
+    {
+      "name": "Campaign_214",
+      "total_impressions": 139,
+      "total_clicks": 9.0,
+      "cpc": 35.2,
+      "cpm": 2279.06
+    },
+    {
+      "name": "Campaign_772",
+      "total_impressions": 130,
+      "total_clicks": 3.0,
+      "cpc": 93.68,
+      "cpm": 2161.92
+    },
+    {
+      "name": "Campaign_671",
+      "total_impressions": 508,
+      "total_clicks": 20.0,
+      "cpc": 60.13,
+      "cpm": 2367.15
+    },
+    {
+      "name": "Campaign_340",
+      "total_impressions": 141,
+      "total_clicks": 9.0,
+      "cpc": 33.98,
+      "cpm": 2168.65
+    },
+    {
+      "name": "Campaign_950",
+      "total_impressions": 123,
+      "total_clicks": 6.0,
+      "cpc": 50.21,
+      "cpm": 2449.02
+    },
+    {
+      "name": "Campaign_954",
+      "total_impressions": 137,
+      "total_clicks": 5.0,
+      "cpc": 58.91,
+      "cpm": 2150.15
+    },
+    {
+      "name": "Campaign_658",
+      "total_impressions": 226,
+      "total_clicks": 12.0,
+      "cpc": 40.39,
+      "cpm": 2144.51
+    },
+    {
+      "name": "Campaign_466",
+      "total_impressions": 151,
+      "total_clicks": 10.0,
+      "cpc": 34.64,
+      "cpm": 2293.91
+    },
+    {
+      "name": "Campaign_45",
+      "total_impressions": 145,
+      "total_clicks": 8.0,
+      "cpc": 43.06,
+      "cpm": 2375.66
+    },
+    {
+      "name": "Campaign_477",
+      "total_impressions": 144,
+      "total_clicks": 10.0,
+      "cpc": 32.31,
+      "cpm": 2243.75
+    },
+    {
+      "name": "Campaign_441",
+      "total_impressions": 141,
+      "total_clicks": 6.0,
+      "cpc": 50.09,
+      "cpm": 2131.42
+    },
+    {
+      "name": "Campaign_302",
+      "total_impressions": 445,
+      "total_clicks": 22.0,
+      "cpc": 45.92,
+      "cpm": 2270.43
+    },
+    {
+      "name": "Campaign_49",
+      "total_impressions": 126,
+      "total_clicks": 5.0,
+      "cpc": 54.38,
+      "cpm": 2157.78
+    },
+    {
+      "name": "Campaign_733",
+      "total_impressions": 196,
+      "total_clicks": 9.0,
+      "cpc": 49.37,
+      "cpm": 2267.04
+    },
+    {
+      "name": "Campaign_848",
+      "total_impressions": 157,
+      "total_clicks": 10.0,
+      "cpc": 36.05,
+      "cpm": 2296.24
+    },
+    {
+      "name": "Campaign_843",
+      "total_impressions": 449,
+      "total_clicks": 21.0,
+      "cpc": 49.93,
+      "cpm": 2335.43
+    },
+    {
+      "name": "Campaign_979",
+      "total_impressions": 136,
+      "total_clicks": 8.0,
+      "cpc": 37.38,
+      "cpm": 2198.9
+    },
+    {
+      "name": "Campaign_81",
+      "total_impressions": 163,
+      "total_clicks": 12.0,
+      "cpc": 31.24,
+      "cpm": 2300.0
+    },
+    {
+      "name": "Campaign_695",
+      "total_impressions": 380,
+      "total_clicks": 12.0,
+      "cpc": 68.35,
+      "cpm": 2158.29
+    },
+    {
+      "name": "Campaign_894",
+      "total_impressions": 266,
+      "total_clicks": 17.0,
+      "cpc": 37.4,
+      "cpm": 2390.34
+    },
+    {
+      "name": "Campaign_554",
+      "total_impressions": 467,
+      "total_clicks": 21.0,
+      "cpc": 49.19,
+      "cpm": 2211.91
+    },
+    {
+      "name": "Campaign_431",
+      "total_impressions": 149,
+      "total_clicks": 4.0,
+      "cpc": 85.66,
+      "cpm": 2299.46
+    },
+    {
+      "name": "Campaign_104",
+      "total_impressions": 178,
+      "total_clicks": 6.0,
+      "cpc": 69.52,
+      "cpm": 2343.37
+    },
+    {
+      "name": "Campaign_544",
+      "total_impressions": 150,
+      "total_clicks": 8.0,
+      "cpc": 42.2,
+      "cpm": 2250.4
+    },
+    {
+      "name": "Campaign_776",
+      "total_impressions": 159,
+      "total_clicks": 5.0,
+      "cpc": 71.81,
+      "cpm": 2258.24
+    },
+    {
+      "name": "Campaign_31",
+      "total_impressions": 146,
+      "total_clicks": 6.0,
+      "cpc": 56.79,
+      "cpm": 2333.84
+    },
+    {
+      "name": "Campaign_568",
+      "total_impressions": 443,
+      "total_clicks": 17.0,
+      "cpc": 58.18,
+      "cpm": 2232.75
+    },
+    {
+      "name": "Campaign_72",
+      "total_impressions": 125,
+      "total_clicks": 6.0,
+      "cpc": 48.86,
+      "cpm": 2345.2
+    },
+    {
+      "name": "Campaign_788",
+      "total_impressions": 143,
+      "total_clicks": 7.0,
+      "cpc": 42.87,
+      "cpm": 2098.53
+    },
+    {
+      "name": "Campaign_877",
+      "total_impressions": 130,
+      "total_clicks": 3.0,
+      "cpc": 102.9,
+      "cpm": 2374.54
+    },
+    {
+      "name": "Campaign_1012",
+      "total_impressions": 145,
+      "total_clicks": 5.0,
+      "cpc": 64.19,
+      "cpm": 2213.31
+    },
+    {
+      "name": "Campaign_92",
+      "total_impressions": 569,
+      "total_clicks": 34.0,
+      "cpc": 39.41,
+      "cpm": 2354.66
+    },
+    {
+      "name": "Campaign_536",
+      "total_impressions": 146,
+      "total_clicks": 8.0,
+      "cpc": 42.19,
+      "cpm": 2311.64
+    },
+    {
+      "name": "Campaign_878",
+      "total_impressions": 336,
+      "total_clicks": 14.0,
+      "cpc": 54.21,
+      "cpm": 2258.6
+    },
+    {
+      "name": "Campaign_397",
+      "total_impressions": 152,
+      "total_clicks": 10.0,
+      "cpc": 36.23,
+      "cpm": 2383.62
+    },
+    {
+      "name": "Campaign_422",
+      "total_impressions": 145,
+      "total_clicks": 8.0,
+      "cpc": 41.63,
+      "cpm": 2296.76
+    },
+    {
+      "name": "Campaign_553",
+      "total_impressions": 477,
+      "total_clicks": 25.0,
+      "cpc": 43.11,
+      "cpm": 2259.54
+    },
+    {
+      "name": "Campaign_250",
+      "total_impressions": 461,
+      "total_clicks": 25.0,
+      "cpc": 41.46,
+      "cpm": 2248.44
+    },
+    {
+      "name": "Campaign_603",
+      "total_impressions": 156,
+      "total_clicks": 8.0,
+      "cpc": 39.88,
+      "cpm": 2044.87
+    },
+    {
+      "name": "Campaign_1001",
+      "total_impressions": 660,
+      "total_clicks": 34.0,
+      "cpc": 44.36,
+      "cpm": 2285.3
+    },
+    {
+      "name": "Campaign_154",
+      "total_impressions": 147,
+      "total_clicks": 7.0,
+      "cpc": 46.34,
+      "cpm": 2206.87
+    },
+    {
+      "name": "Campaign_689",
+      "total_impressions": 140,
+      "total_clicks": 4.0,
+      "cpc": 82.98,
+      "cpm": 2370.79
+    },
+    {
+      "name": "Campaign_164",
+      "total_impressions": 124,
+      "total_clicks": 4.0,
+      "cpc": 74.62,
+      "cpm": 2407.02
+    },
+    {
+      "name": "Campaign_12",
+      "total_impressions": 129,
+      "total_clicks": 13.0,
+      "cpc": 23.14,
+      "cpm": 2332.09
+    },
+    {
+      "name": "Campaign_336",
+      "total_impressions": 161,
+      "total_clicks": 13.0,
+      "cpc": 29.36,
+      "cpm": 2370.99
+    },
+    {
+      "name": "Campaign_430",
+      "total_impressions": 155,
+      "total_clicks": 3.0,
+      "cpc": 114.39,
+      "cpm": 2214.0
+    },
+    {
+      "name": "Campaign_596",
+      "total_impressions": 129,
+      "total_clicks": 7.0,
+      "cpc": 43.62,
+      "cpm": 2366.9
+    },
+    {
+      "name": "Campaign_199",
+      "total_impressions": 506,
+      "total_clicks": 15.0,
+      "cpc": 77.17,
+      "cpm": 2287.61
+    },
+    {
+      "name": "Campaign_863",
+      "total_impressions": 138,
+      "total_clicks": 7.0,
+      "cpc": 46.06,
+      "cpm": 2336.45
+    },
+    {
+      "name": "Campaign_1006",
+      "total_impressions": 417,
+      "total_clicks": 15.0,
+      "cpc": 64.6,
+      "cpm": 2323.6
+    },
+    {
+      "name": "Campaign_219",
+      "total_impressions": 147,
+      "total_clicks": 7.0,
+      "cpc": 48.44,
+      "cpm": 2306.46
+    },
+    {
+      "name": "Campaign_798",
+      "total_impressions": 144,
+      "total_clicks": 8.0,
+      "cpc": 41.74,
+      "cpm": 2318.96
+    },
+    {
+      "name": "Campaign_757",
+      "total_impressions": 267,
+      "total_clicks": 22.0,
+      "cpc": 28.47,
+      "cpm": 2345.81
+    },
+    {
+      "name": "Campaign_348",
+      "total_impressions": 156,
+      "total_clicks": 9.0,
+      "cpc": 38.27,
+      "cpm": 2208.08
+    },
+    {
+      "name": "Campaign_264",
+      "total_impressions": 142,
+      "total_clicks": 7.0,
+      "cpc": 45.87,
+      "cpm": 2260.99
+    },
+    {
+      "name": "Campaign_307",
+      "total_impressions": 133,
+      "total_clicks": 7.0,
+      "cpc": 40.64,
+      "cpm": 2139.1
+    },
+    {
+      "name": "Campaign_494",
+      "total_impressions": 240,
+      "total_clicks": 11.0,
+      "cpc": 51.19,
+      "cpm": 2346.33
+    },
+    {
+      "name": "Campaign_747",
+      "total_impressions": 198,
+      "total_clicks": 9.0,
+      "cpc": 46.59,
+      "cpm": 2117.58
+    },
+    {
+      "name": "Campaign_587",
+      "total_impressions": 128,
+      "total_clicks": 6.0,
+      "cpc": 50.47,
+      "cpm": 2365.7
+    },
+    {
+      "name": "Campaign_135",
+      "total_impressions": 229,
+      "total_clicks": 9.0,
+      "cpc": 59.02,
+      "cpm": 2319.61
+    },
+    {
+      "name": "Campaign_122",
+      "total_impressions": 138,
+      "total_clicks": 6.0,
+      "cpc": 52.34,
+      "cpm": 2275.65
+    },
+    {
+      "name": "Campaign_255",
+      "total_impressions": 126,
+      "total_clicks": 6.0,
+      "cpc": 47.02,
+      "cpm": 2238.97
+    },
+    {
+      "name": "Campaign_443",
+      "total_impressions": 134,
+      "total_clicks": 7.0,
+      "cpc": 44.49,
+      "cpm": 2323.96
+    },
+    {
+      "name": "Campaign_153",
+      "total_impressions": 163,
+      "total_clicks": 6.0,
+      "cpc": 60.41,
+      "cpm": 2223.56
+    },
+    {
+      "name": "Campaign_257",
+      "total_impressions": 167,
+      "total_clicks": 14.0,
+      "cpc": 25.87,
+      "cpm": 2168.5
+    },
+    {
+      "name": "Campaign_709",
+      "total_impressions": 134,
+      "total_clicks": 7.0,
+      "cpc": 44.24,
+      "cpm": 2310.97
+    },
+    {
+      "name": "Campaign_912",
+      "total_impressions": 151,
+      "total_clicks": 9.0,
+      "cpc": 39.13,
+      "cpm": 2332.12
+    },
+    {
+      "name": "Campaign_983",
+      "total_impressions": 139,
+      "total_clicks": 5.0,
+      "cpc": 62.91,
+      "cpm": 2262.88
+    },
+    {
+      "name": "Campaign_749",
+      "total_impressions": 144,
+      "total_clicks": 4.0,
+      "cpc": 84.95,
+      "cpm": 2359.65
+    },
+    {
+      "name": "Campaign_564",
+      "total_impressions": 195,
+      "total_clicks": 12.0,
+      "cpc": 36.54,
+      "cpm": 2248.56
+    },
+    {
+      "name": "Campaign_310",
+      "total_impressions": 451,
+      "total_clicks": 21.0,
+      "cpc": 48.18,
+      "cpm": 2243.46
+    },
+    {
+      "name": "Campaign_513",
+      "total_impressions": 233,
+      "total_clicks": 13.0,
+      "cpc": 40.08,
+      "cpm": 2236.31
+    },
+    {
+      "name": "Campaign_911",
+      "total_impressions": 149,
+      "total_clicks": 7.0,
+      "cpc": 51.98,
+      "cpm": 2441.88
+    },
+    {
+      "name": "Campaign_55",
+      "total_impressions": 135,
+      "total_clicks": 8.0,
+      "cpc": 36.26,
+      "cpm": 2148.89
+    },
+    {
+      "name": "Campaign_909",
+      "total_impressions": 480,
+      "total_clicks": 21.0,
+      "cpc": 52.81,
+      "cpm": 2310.29
+    },
+    {
+      "name": "Campaign_904",
+      "total_impressions": 141,
+      "total_clicks": 7.0,
+      "cpc": 47.91,
+      "cpm": 2378.58
+    },
+    {
+      "name": "Campaign_903",
+      "total_impressions": 391,
+      "total_clicks": 15.0,
+      "cpc": 59.76,
+      "cpm": 2292.48
+    },
+    {
+      "name": "Campaign_74",
+      "total_impressions": 172,
+      "total_clicks": 8.0,
+      "cpc": 47.12,
+      "cpm": 2191.69
+    },
+    {
+      "name": "Campaign_784",
+      "total_impressions": 121,
+      "total_clicks": 5.0,
+      "cpc": 54.18,
+      "cpm": 2239.01
+    },
+    {
+      "name": "Campaign_230",
+      "total_impressions": 141,
+      "total_clicks": 4.0,
+      "cpc": 77.45,
+      "cpm": 2197.09
+    },
+    {
+      "name": "Campaign_571",
+      "total_impressions": 407,
+      "total_clicks": 28.0,
+      "cpc": 33.38,
+      "cpm": 2296.66
+    },
+    {
+      "name": "Campaign_71",
+      "total_impressions": 457,
+      "total_clicks": 30.0,
+      "cpc": 34.23,
+      "cpm": 2247.29
+    },
+    {
+      "name": "Campaign_449",
+      "total_impressions": 354,
+      "total_clicks": 20.0,
+      "cpc": 39.06,
+      "cpm": 2206.72
+    },
+    {
+      "name": "Campaign_783",
+      "total_impressions": 268,
+      "total_clicks": 9.0,
+      "cpc": 66.67,
+      "cpm": 2238.92
+    },
+    {
+      "name": "Campaign_611",
+      "total_impressions": 216,
+      "total_clicks": 10.0,
+      "cpc": 48.86,
+      "cpm": 2262.08
+    },
+    {
+      "name": "Campaign_248",
+      "total_impressions": 157,
+      "total_clicks": 7.0,
+      "cpc": 49.83,
+      "cpm": 2221.72
+    },
+    {
+      "name": "Campaign_95",
+      "total_impressions": 143,
+      "total_clicks": 7.0,
+      "cpc": 50.86,
+      "cpm": 2489.51
+    },
+    {
+      "name": "Campaign_851",
+      "total_impressions": 166,
+      "total_clicks": 8.0,
+      "cpc": 45.34,
+      "cpm": 2185.12
+    },
+    {
+      "name": "Campaign_609",
+      "total_impressions": 325,
+      "total_clicks": 19.0,
+      "cpc": 40.33,
+      "cpm": 2357.66
+    },
+    {
+      "name": "Campaign_567",
+      "total_impressions": 147,
+      "total_clicks": 12.0,
+      "cpc": 28.86,
+      "cpm": 2355.51
+    },
+    {
+      "name": "Campaign_156",
+      "total_impressions": 151,
+      "total_clicks": 10.0,
+      "cpc": 32.51,
+      "cpm": 2152.85
+    },
+    {
+      "name": "Campaign_558",
+      "total_impressions": 129,
+      "total_clicks": 8.0,
+      "cpc": 38.12,
+      "cpm": 2363.95
+    },
+    {
+      "name": "Campaign_736",
+      "total_impressions": 129,
+      "total_clicks": 9.0,
+      "cpc": 31.47,
+      "cpm": 2195.74
+    },
+    {
+      "name": "Campaign_404",
+      "total_impressions": 159,
+      "total_clicks": 10.0,
+      "cpc": 36.24,
+      "cpm": 2279.31
+    },
+    {
+      "name": "Campaign_333",
+      "total_impressions": 180,
+      "total_clicks": 7.0,
+      "cpc": 58.25,
+      "cpm": 2265.28
+    },
+    {
+      "name": "Campaign_281",
+      "total_impressions": 137,
+      "total_clicks": 9.0,
+      "cpc": 31.17,
+      "cpm": 2047.74
+    },
+    {
+      "name": "Campaign_1010",
+      "total_impressions": 587,
+      "total_clicks": 39.0,
+      "cpc": 33.47,
+      "cpm": 2223.97
+    },
+    {
+      "name": "Campaign_953",
+      "total_impressions": 416,
+      "total_clicks": 19.0,
+      "cpc": 50.17,
+      "cpm": 2291.44
+    },
+    {
+      "name": "Campaign_925",
+      "total_impressions": 131,
+      "total_clicks": 8.0,
+      "cpc": 38.6,
+      "cpm": 2357.4
+    },
+    {
+      "name": "Campaign_392",
+      "total_impressions": 147,
+      "total_clicks": 9.0,
+      "cpc": 36.24,
+      "cpm": 2218.71
+    },
+    {
+      "name": "Campaign_78",
+      "total_impressions": 148,
+      "total_clicks": 9.0,
+      "cpc": 37.63,
+      "cpm": 2288.45
+    },
+    {
+      "name": "Campaign_774",
+      "total_impressions": 159,
+      "total_clicks": 6.0,
+      "cpc": 60.66,
+      "cpm": 2288.99
+    },
+    {
+      "name": "Campaign_685",
+      "total_impressions": 157,
+      "total_clicks": 11.0,
+      "cpc": 31.66,
+      "cpm": 2218.22
+    },
+    {
+      "name": "Campaign_638",
+      "total_impressions": 427,
+      "total_clicks": 21.0,
+      "cpc": 46.25,
+      "cpm": 2274.57
+    },
+    {
+      "name": "Campaign_27",
+      "total_impressions": 160,
+      "total_clicks": 8.0,
+      "cpc": 46.77,
+      "cpm": 2338.38
+    },
+    {
+      "name": "Campaign_583",
+      "total_impressions": 648,
+      "total_clicks": 35.0,
+      "cpc": 42.94,
+      "cpm": 2319.06
+    },
+    {
+      "name": "Campaign_337",
+      "total_impressions": 126,
+      "total_clicks": 9.0,
+      "cpc": 30.27,
+      "cpm": 2161.83
+    },
+    {
+      "name": "Campaign_555",
+      "total_impressions": 168,
+      "total_clicks": 3.0,
+      "cpc": 126.54,
+      "cpm": 2259.7
+    },
+    {
+      "name": "Campaign_791",
+      "total_impressions": 140,
+      "total_clicks": 9.0,
+      "cpc": 36.43,
+      "cpm": 2342.14
+    },
+    {
+      "name": "Campaign_803",
+      "total_impressions": 185,
+      "total_clicks": 10.0,
+      "cpc": 44.34,
+      "cpm": 2396.54
+    },
+    {
+      "name": "Campaign_650",
+      "total_impressions": 146,
+      "total_clicks": 9.0,
+      "cpc": 38.18,
+      "cpm": 2353.56
+    },
+    {
+      "name": "Campaign_145",
+      "total_impressions": 150,
+      "total_clicks": 8.0,
+      "cpc": 41.34,
+      "cpm": 2204.8
+    },
+    {
+      "name": "Campaign_986",
+      "total_impressions": 485,
+      "total_clicks": 28.0,
+      "cpc": 39.76,
+      "cpm": 2295.38
+    },
+    {
+      "name": "Campaign_524",
+      "total_impressions": 134,
+      "total_clicks": 9.0,
+      "cpc": 36.52,
+      "cpm": 2452.61
+    },
+    {
+      "name": "Campaign_384",
+      "total_impressions": 155,
+      "total_clicks": 5.0,
+      "cpc": 71.97,
+      "cpm": 2321.68
+    },
+    {
+      "name": "Campaign_830",
+      "total_impressions": 125,
+      "total_clicks": 8.0,
+      "cpc": 34.81,
+      "cpm": 2227.52
+    },
+    {
+      "name": "Campaign_704",
+      "total_impressions": 165,
+      "total_clicks": 11.0,
+      "cpc": 37.19,
+      "cpm": 2479.64
+    },
+    {
+      "name": "Campaign_46",
+      "total_impressions": 143,
+      "total_clicks": 8.0,
+      "cpc": 38.15,
+      "cpm": 2134.48
+    },
+    {
+      "name": "Campaign_857",
+      "total_impressions": 161,
+      "total_clicks": 7.0,
+      "cpc": 50.88,
+      "cpm": 2212.17
+    },
+    {
+      "name": "Campaign_577",
+      "total_impressions": 145,
+      "total_clicks": 12.0,
+      "cpc": 27.45,
+      "cpm": 2271.45
+    },
+    {
+      "name": "Campaign_57",
+      "total_impressions": 141,
+      "total_clicks": 7.0,
+      "cpc": 44.51,
+      "cpm": 2209.93
+    },
+    {
+      "name": "Campaign_831",
+      "total_impressions": 265,
+      "total_clicks": 14.0,
+      "cpc": 42.86,
+      "cpm": 2264.34
+    },
+    {
+      "name": "Campaign_693",
+      "total_impressions": 189,
+      "total_clicks": 9.0,
+      "cpc": 48.43,
+      "cpm": 2306.24
+    },
+    {
+      "name": "Campaign_743",
+      "total_impressions": 160,
+      "total_clicks": 7.0,
+      "cpc": 49.76,
+      "cpm": 2176.88
+    },
+    {
+      "name": "Campaign_866",
+      "total_impressions": 137,
+      "total_clicks": 8.0,
+      "cpc": 38.68,
+      "cpm": 2258.54
+    },
+    {
+      "name": "Campaign_871",
+      "total_impressions": 154,
+      "total_clicks": 6.0,
+      "cpc": 55.45,
+      "cpm": 2160.45
+    },
+    {
+      "name": "Campaign_605",
+      "total_impressions": 147,
+      "total_clicks": 4.0,
+      "cpc": 82.31,
+      "cpm": 2239.59
+    },
+    {
+      "name": "Campaign_778",
+      "total_impressions": 245,
+      "total_clicks": 9.0,
+      "cpc": 62.48,
+      "cpm": 2295.18
+    },
+    {
+      "name": "Campaign_842",
+      "total_impressions": 224,
+      "total_clicks": 10.0,
+      "cpc": 53.62,
+      "cpm": 2393.75
+    },
+    {
+      "name": "Campaign_40",
+      "total_impressions": 379,
+      "total_clicks": 15.0,
+      "cpc": 55.12,
+      "cpm": 2181.5
+    },
+    {
+      "name": "Campaign_572",
+      "total_impressions": 137,
+      "total_clicks": 9.0,
+      "cpc": 33.41,
+      "cpm": 2195.11
+    },
+    {
+      "name": "Campaign_899",
+      "total_impressions": 146,
+      "total_clicks": 5.0,
+      "cpc": 65.27,
+      "cpm": 2235.34
+    },
+    {
+      "name": "Campaign_653",
+      "total_impressions": 142,
+      "total_clicks": 9.0,
+      "cpc": 34.1,
+      "cpm": 2161.55
+    },
+    {
+      "name": "Campaign_213",
+      "total_impressions": 136,
+      "total_clicks": 4.0,
+      "cpc": 80.84,
+      "cpm": 2377.72
+    },
+    {
+      "name": "Campaign_828",
+      "total_impressions": 143,
+      "total_clicks": 9.0,
+      "cpc": 37.12,
+      "cpm": 2336.36
+    },
+    {
+      "name": "Campaign_915",
+      "total_impressions": 138,
+      "total_clicks": 7.0,
+      "cpc": 44.58,
+      "cpm": 2261.23
+    },
+    {
+      "name": "Campaign_716",
+      "total_impressions": 158,
+      "total_clicks": 8.0,
+      "cpc": 44.59,
+      "cpm": 2257.91
+    },
+    {
+      "name": "Campaign_881",
+      "total_impressions": 155,
+      "total_clicks": 9.0,
+      "cpc": 41.04,
+      "cpm": 2383.03
+    },
+    {
+      "name": "Campaign_39",
+      "total_impressions": 438,
+      "total_clicks": 17.0,
+      "cpc": 57.43,
+      "cpm": 2229.02
+    },
+    {
+      "name": "Campaign_315",
+      "total_impressions": 166,
+      "total_clicks": 13.0,
+      "cpc": 29.4,
+      "cpm": 2302.23
+    },
+    {
+      "name": "Campaign_977",
+      "total_impressions": 424,
+      "total_clicks": 20.0,
+      "cpc": 48.68,
+      "cpm": 2296.42
+    },
+    {
+      "name": "Campaign_151",
+      "total_impressions": 134,
+      "total_clicks": 4.0,
+      "cpc": 77.6,
+      "cpm": 2316.42
+    },
+    {
+      "name": "Campaign_753",
+      "total_impressions": 158,
+      "total_clicks": 7.0,
+      "cpc": 51.74,
+      "cpm": 2292.28
+    },
+    {
+      "name": "Campaign_681",
+      "total_impressions": 152,
+      "total_clicks": 6.0,
+      "cpc": 56.43,
+      "cpm": 2227.43
+    },
+    {
+      "name": "Campaign_908",
+      "total_impressions": 128,
+      "total_clicks": 5.0,
+      "cpc": 56.04,
+      "cpm": 2189.14
+    },
+    {
+      "name": "Campaign_652",
+      "total_impressions": 442,
+      "total_clicks": 22.0,
+      "cpc": 45.6,
+      "cpm": 2269.59
+    },
+    {
+      "name": "Campaign_301",
+      "total_impressions": 642,
+      "total_clicks": 31.0,
+      "cpc": 45.66,
+      "cpm": 2204.89
+    },
+    {
+      "name": "Campaign_956",
+      "total_impressions": 410,
+      "total_clicks": 30.0,
+      "cpc": 30.22,
+      "cpm": 2210.9
+    },
+    {
+      "name": "Campaign_152",
+      "total_impressions": 572,
+      "total_clicks": 23.0,
+      "cpc": 55.24,
+      "cpm": 2221.07
+    },
+    {
+      "name": "Campaign_604",
+      "total_impressions": 276,
+      "total_clicks": 13.0,
+      "cpc": 48.17,
+      "cpm": 2268.84
+    },
+    {
+      "name": "Campaign_289",
+      "total_impressions": 164,
+      "total_clicks": 5.0,
+      "cpc": 79.56,
+      "cpm": 2425.49
+    },
+    {
+      "name": "Campaign_761",
+      "total_impressions": 141,
+      "total_clicks": 3.0,
+      "cpc": 104.89,
+      "cpm": 2231.7
+    },
+    {
+      "name": "Campaign_2",
+      "total_impressions": 139,
+      "total_clicks": 4.0,
+      "cpc": 80.96,
+      "cpm": 2329.64
+    },
+    {
+      "name": "Campaign_396",
+      "total_impressions": 489,
+      "total_clicks": 28.0,
+      "cpc": 39.64,
+      "cpm": 2269.94
+    },
+    {
+      "name": "Campaign_25",
+      "total_impressions": 138,
+      "total_clicks": 4.0,
+      "cpc": 82.54,
+      "cpm": 2392.32
+    },
+    {
+      "name": "Campaign_832",
+      "total_impressions": 130,
+      "total_clicks": 5.0,
+      "cpc": 60.57,
+      "cpm": 2329.77
+    },
+    {
+      "name": "Campaign_232",
+      "total_impressions": 142,
+      "total_clicks": 3.0,
+      "cpc": 110.0,
+      "cpm": 2324.01
+    },
+    {
+      "name": "Campaign_450",
+      "total_impressions": 149,
+      "total_clicks": 6.0,
+      "cpc": 58.68,
+      "cpm": 2362.75
+    },
+    {
+      "name": "Campaign_618",
+      "total_impressions": 111,
+      "total_clicks": 4.0,
+      "cpc": 62.9,
+      "cpm": 2266.58
+    },
+    {
+      "name": "Campaign_341",
+      "total_impressions": 150,
+      "total_clicks": 7.0,
+      "cpc": 49.21,
+      "cpm": 2296.4
+    },
+    {
+      "name": "Campaign_115",
+      "total_impressions": 138,
+      "total_clicks": 6.0,
+      "cpc": 52.79,
+      "cpm": 2295.29
+    },
+    {
+      "name": "Campaign_816",
+      "total_impressions": 139,
+      "total_clicks": 8.0,
+      "cpc": 40.13,
+      "cpm": 2309.42
+    },
+    {
+      "name": "Campaign_118",
+      "total_impressions": 145,
+      "total_clicks": 3.0,
+      "cpc": 109.79,
+      "cpm": 2271.59
+    },
+    {
+      "name": "Campaign_980",
+      "total_impressions": 138,
+      "total_clicks": 9.0,
+      "cpc": 34.53,
+      "cpm": 2251.74
+    },
+    {
+      "name": "Campaign_36",
+      "total_impressions": 155,
+      "total_clicks": 11.0,
+      "cpc": 29.23,
+      "cpm": 2074.52
+    },
+    {
+      "name": "Campaign_825",
+      "total_impressions": 161,
+      "total_clicks": 7.0,
+      "cpc": 57.5,
+      "cpm": 2499.81
+    },
+    {
+      "name": "Campaign_162",
+      "total_impressions": 134,
+      "total_clicks": 9.0,
+      "cpc": 35.37,
+      "cpm": 2375.52
+    },
+    {
+      "name": "Campaign_547",
+      "total_impressions": 154,
+      "total_clicks": 10.0,
+      "cpc": 34.55,
+      "cpm": 2243.77
+    },
+    {
+      "name": "Campaign_470",
+      "total_impressions": 132,
+      "total_clicks": 4.0,
+      "cpc": 80.27,
+      "cpm": 2432.35
+    },
+    {
+      "name": "Campaign_895",
+      "total_impressions": 140,
+      "total_clicks": 6.0,
+      "cpc": 49.79,
+      "cpm": 2133.93
+    },
+    {
+      "name": "Campaign_166",
+      "total_impressions": 458,
+      "total_clicks": 24.0,
+      "cpc": 41.67,
+      "cpm": 2183.34
+    },
+    {
+      "name": "Campaign_412",
+      "total_impressions": 418,
+      "total_clicks": 19.0,
+      "cpc": 49.11,
+      "cpm": 2232.06
+    },
+    {
+      "name": "Campaign_119",
+      "total_impressions": 166,
+      "total_clicks": 7.0,
+      "cpc": 53.4,
+      "cpm": 2251.99
+    },
+    {
+      "name": "Campaign_590",
+      "total_impressions": 145,
+      "total_clicks": 3.0,
+      "cpc": 113.64,
+      "cpm": 2351.17
+    },
+    {
+      "name": "Campaign_376",
+      "total_impressions": 123,
+      "total_clicks": 7.0,
+      "cpc": 42.68,
+      "cpm": 2428.78
+    },
+    {
+      "name": "Campaign_523",
+      "total_impressions": 147,
+      "total_clicks": 10.0,
+      "cpc": 33.12,
+      "cpm": 2253.2
+    },
+    {
+      "name": "Campaign_717",
+      "total_impressions": 126,
+      "total_clicks": 12.0,
+      "cpc": 22.87,
+      "cpm": 2178.33
+    },
+    {
+      "name": "Campaign_597",
+      "total_impressions": 649,
+      "total_clicks": 40.0,
+      "cpc": 36.5,
+      "cpm": 2249.34
+    },
+    {
+      "name": "Campaign_966",
+      "total_impressions": 148,
+      "total_clicks": 13.0,
+      "cpc": 25.62,
+      "cpm": 2250.47
+    },
+    {
+      "name": "Campaign_268",
+      "total_impressions": 146,
+      "total_clicks": 5.0,
+      "cpc": 64.4,
+      "cpm": 2205.62
+    },
+    {
+      "name": "Campaign_599",
+      "total_impressions": 161,
+      "total_clicks": 13.0,
+      "cpc": 27.83,
+      "cpm": 2247.33
+    },
+    {
+      "name": "Campaign_458",
+      "total_impressions": 150,
+      "total_clicks": 12.0,
+      "cpc": 27.84,
+      "cpm": 2226.93
+    },
+    {
+      "name": "Campaign_210",
+      "total_impressions": 454,
+      "total_clicks": 20.0,
+      "cpc": 50.1,
+      "cpm": 2206.92
+    },
+    {
+      "name": "Campaign_796",
+      "total_impressions": 147,
+      "total_clicks": 5.0,
+      "cpc": 66.24,
+      "cpm": 2253.06
+    },
+    {
+      "name": "Campaign_170",
+      "total_impressions": 173,
+      "total_clicks": 9.0,
+      "cpc": 43.66,
+      "cpm": 2271.27
+    },
+    {
+      "name": "Campaign_725",
+      "total_impressions": 153,
+      "total_clicks": 9.0,
+      "cpc": 37.99,
+      "cpm": 2234.64
+    },
+    {
+      "name": "Campaign_634",
+      "total_impressions": 152,
+      "total_clicks": 7.0,
+      "cpc": 47.17,
+      "cpm": 2172.24
+    },
+    {
+      "name": "Campaign_876",
+      "total_impressions": 134,
+      "total_clicks": 8.0,
+      "cpc": 39.73,
+      "cpm": 2371.64
+    },
+    {
+      "name": "Campaign_134",
+      "total_impressions": 155,
+      "total_clicks": 10.0,
+      "cpc": 36.83,
+      "cpm": 2376.0
+    },
+    {
+      "name": "Campaign_805",
+      "total_impressions": 163,
+      "total_clicks": 10.0,
+      "cpc": 37.99,
+      "cpm": 2330.61
+    },
+    {
+      "name": "Campaign_114",
+      "total_impressions": 394,
+      "total_clicks": 17.0,
+      "cpc": 51.77,
+      "cpm": 2233.93
+    },
+    {
+      "name": "Campaign_468",
+      "total_impressions": 130,
+      "total_clicks": 5.0,
+      "cpc": 59.77,
+      "cpm": 2299.0
+    },
+    {
+      "name": "Campaign_612",
+      "total_impressions": 155,
+      "total_clicks": 8.0,
+      "cpc": 41.75,
+      "cpm": 2154.58
+    },
+    {
+      "name": "Campaign_309",
+      "total_impressions": 146,
+      "total_clicks": 6.0,
+      "cpc": 55.58,
+      "cpm": 2283.97
+    },
+    {
+      "name": "Campaign_809",
+      "total_impressions": 349,
+      "total_clicks": 21.0,
+      "cpc": 38.81,
+      "cpm": 2335.01
+    },
+    {
+      "name": "Campaign_241",
+      "total_impressions": 153,
+      "total_clicks": 7.0,
+      "cpc": 47.95,
+      "cpm": 2193.59
+    },
+    {
+      "name": "Campaign_497",
+      "total_impressions": 137,
+      "total_clicks": 10.0,
+      "cpc": 29.39,
+      "cpm": 2145.33
+    },
+    {
+      "name": "Campaign_226",
+      "total_impressions": 483,
+      "total_clicks": 28.0,
+      "cpc": 39.58,
+      "cpm": 2294.29
+    },
+    {
+      "name": "Campaign_35",
+      "total_impressions": 148,
+      "total_clicks": 3.0,
+      "cpc": 117.23,
+      "cpm": 2376.22
+    },
+    {
+      "name": "Campaign_140",
+      "total_impressions": 411,
+      "total_clicks": 33.0,
+      "cpc": 28.58,
+      "cpm": 2294.74
+    },
+    {
+      "name": "Campaign_640",
+      "total_impressions": 160,
+      "total_clicks": 6.0,
+      "cpc": 60.52,
+      "cpm": 2269.5
+    },
+    {
+      "name": "Campaign_23",
+      "total_impressions": 140,
+      "total_clicks": 6.0,
+      "cpc": 50.44,
+      "cpm": 2161.79
+    },
+    {
+      "name": "Campaign_759",
+      "total_impressions": 545,
+      "total_clicks": 26.0,
+      "cpc": 46.72,
+      "cpm": 2228.83
+    },
+    {
+      "name": "Campaign_698",
+      "total_impressions": 321,
+      "total_clicks": 16.0,
+      "cpc": 45.39,
+      "cpm": 2262.27
+    },
+    {
+      "name": "Campaign_620",
+      "total_impressions": 150,
+      "total_clicks": 9.0,
+      "cpc": 37.65,
+      "cpm": 2258.8
+    },
+    {
+      "name": "Campaign_425",
+      "total_impressions": 141,
+      "total_clicks": 7.0,
+      "cpc": 45.18,
+      "cpm": 2242.91
+    },
+    {
+      "name": "Campaign_235",
+      "total_impressions": 184,
+      "total_clicks": 7.0,
+      "cpc": 61.88,
+      "cpm": 2354.18
+    },
+    {
+      "name": "Campaign_385",
+      "total_impressions": 153,
+      "total_clicks": 6.0,
+      "cpc": 56.17,
+      "cpm": 2202.81
+    },
+    {
+      "name": "Campaign_632",
+      "total_impressions": 369,
+      "total_clicks": 25.0,
+      "cpc": 33.34,
+      "cpm": 2258.81
+    },
+    {
+      "name": "Campaign_98",
+      "total_impressions": 147,
+      "total_clicks": 4.0,
+      "cpc": 82.82,
+      "cpm": 2253.61
+    },
+    {
+      "name": "Campaign_712",
+      "total_impressions": 301,
+      "total_clicks": 9.0,
+      "cpc": 77.3,
+      "cpm": 2311.23
+    },
+    {
+      "name": "Campaign_667",
+      "total_impressions": 146,
+      "total_clicks": 7.0,
+      "cpc": 46.33,
+      "cpm": 2221.51
+    },
+    {
+      "name": "Campaign_48",
+      "total_impressions": 491,
+      "total_clicks": 19.0,
+      "cpc": 59.71,
+      "cpm": 2310.39
+    },
+    {
+      "name": "Campaign_517",
+      "total_impressions": 167,
+      "total_clicks": 6.0,
+      "cpc": 69.3,
+      "cpm": 2489.88
+    },
+    {
+      "name": "Campaign_294",
+      "total_impressions": 155,
+      "total_clicks": 8.0,
+      "cpc": 43.06,
+      "cpm": 2222.39
+    },
+    {
+      "name": "Campaign_938",
+      "total_impressions": 152,
+      "total_clicks": 5.0,
+      "cpc": 67.68,
+      "cpm": 2226.25
+    },
+    {
+      "name": "Campaign_569",
+      "total_impressions": 525,
+      "total_clicks": 17.0,
+      "cpc": 69.03,
+      "cpm": 2235.16
+    },
+    {
+      "name": "Campaign_400",
+      "total_impressions": 141,
+      "total_clicks": 9.0,
+      "cpc": 37.63,
+      "cpm": 2401.7
+    },
+    {
+      "name": "Campaign_769",
+      "total_impressions": 164,
+      "total_clicks": 9.0,
+      "cpc": 40.08,
+      "cpm": 2199.7
+    },
+    {
+      "name": "Campaign_130",
+      "total_impressions": 139,
+      "total_clicks": 3.0,
+      "cpc": 103.09,
+      "cpm": 2224.89
+    },
+    {
+      "name": "Campaign_990",
+      "total_impressions": 144,
+      "total_clicks": 4.0,
+      "cpc": 84.54,
+      "cpm": 2348.26
+    },
+    {
+      "name": "Campaign_625",
+      "total_impressions": 391,
+      "total_clicks": 25.0,
+      "cpc": 34.87,
+      "cpm": 2229.67
+    },
+    {
+      "name": "Campaign_483",
+      "total_impressions": 683,
+      "total_clicks": 30.0,
+      "cpc": 52.66,
+      "cpm": 2313.18
+    },
+    {
+      "name": "Campaign_320",
+      "total_impressions": 496,
+      "total_clicks": 20.0,
+      "cpc": 57.55,
+      "cpm": 2320.75
+    },
+    {
+      "name": "Campaign_253",
+      "total_impressions": 139,
+      "total_clicks": 5.0,
+      "cpc": 62.01,
+      "cpm": 2230.43
+    },
+    {
+      "name": "Campaign_389",
+      "total_impressions": 150,
+      "total_clicks": 7.0,
+      "cpc": 49.54,
+      "cpm": 2311.87
+    },
+    {
+      "name": "Campaign_921",
+      "total_impressions": 122,
+      "total_clicks": 8.0,
+      "cpc": 34.52,
+      "cpm": 2263.69
+    },
+    {
+      "name": "Campaign_744",
+      "total_impressions": 141,
+      "total_clicks": 3.0,
+      "cpc": 114.92,
+      "cpm": 2445.18
+    },
+    {
+      "name": "Campaign_614",
+      "total_impressions": 273,
+      "total_clicks": 18.0,
+      "cpc": 34.52,
+      "cpm": 2275.97
+    },
+    {
+      "name": "Campaign_920",
+      "total_impressions": 158,
+      "total_clicks": 8.0,
+      "cpc": 43.94,
+      "cpm": 2224.87
+    },
+    {
+      "name": "Campaign_129",
+      "total_impressions": 163,
+      "total_clicks": 8.0,
+      "cpc": 47.32,
+      "cpm": 2322.64
+    },
+    {
+      "name": "Campaign_1007",
+      "total_impressions": 301,
+      "total_clicks": 11.0,
+      "cpc": 63.46,
+      "cpm": 2318.97
+    },
+    {
+      "name": "Campaign_4",
+      "total_impressions": 155,
+      "total_clicks": 9.0,
+      "cpc": 38.01,
+      "cpm": 2206.9
+    },
+    {
+      "name": "Campaign_343",
+      "total_impressions": 162,
+      "total_clicks": 10.0,
+      "cpc": 36.53,
+      "cpm": 2254.94
+    },
+    {
+      "name": "Campaign_724",
+      "total_impressions": 140,
+      "total_clicks": 6.0,
+      "cpc": 52.25,
+      "cpm": 2239.14
+    },
+    {
+      "name": "Campaign_854",
+      "total_impressions": 136,
+      "total_clicks": 5.0,
+      "cpc": 60.2,
+      "cpm": 2213.16
+    },
+    {
+      "name": "Campaign_619",
+      "total_impressions": 295,
+      "total_clicks": 14.0,
+      "cpc": 49.75,
+      "cpm": 2360.85
+    },
+    {
+      "name": "Campaign_223",
+      "total_impressions": 148,
+      "total_clicks": 10.0,
+      "cpc": 33.77,
+      "cpm": 2281.89
+    },
+    {
+      "name": "Campaign_29",
+      "total_impressions": 142,
+      "total_clicks": 4.0,
+      "cpc": 77.8,
+      "cpm": 2191.48
+    },
+    {
+      "name": "Campaign_299",
+      "total_impressions": 142,
+      "total_clicks": 12.0,
+      "cpc": 28.23,
+      "cpm": 2385.28
+    },
+    {
+      "name": "Campaign_382",
+      "total_impressions": 382,
+      "total_clicks": 19.0,
+      "cpc": 44.99,
+      "cpm": 2237.54
+    },
+    {
+      "name": "Campaign_729",
+      "total_impressions": 153,
+      "total_clicks": 10.0,
+      "cpc": 34.16,
+      "cpm": 2232.35
+    },
+    {
+      "name": "Campaign_643",
+      "total_impressions": 154,
+      "total_clicks": 6.0,
+      "cpc": 58.74,
+      "cpm": 2288.44
+    },
+    {
+      "name": "Campaign_829",
+      "total_impressions": 493,
+      "total_clicks": 23.0,
+      "cpc": 48.89,
+      "cpm": 2280.91
+    },
+    {
+      "name": "Campaign_222",
+      "total_impressions": 130,
+      "total_clicks": 5.0,
+      "cpc": 60.07,
+      "cpm": 2310.31
+    },
+    {
+      "name": "Campaign_308",
+      "total_impressions": 152,
+      "total_clicks": 5.0,
+      "cpc": 66.05,
+      "cpm": 2172.63
+    },
+    {
+      "name": "Campaign_810",
+      "total_impressions": 164,
+      "total_clicks": 7.0,
+      "cpc": 50.69,
+      "cpm": 2163.66
+    },
+    {
+      "name": "Campaign_694",
+      "total_impressions": 636,
+      "total_clicks": 34.0,
+      "cpc": 42.43,
+      "cpm": 2268.51
+    },
+    {
+      "name": "Campaign_326",
+      "total_impressions": 157,
+      "total_clicks": 8.0,
+      "cpc": 44.39,
+      "cpm": 2262.1
+    },
+    {
+      "name": "Campaign_184",
+      "total_impressions": 135,
+      "total_clicks": 6.0,
+      "cpc": 51.43,
+      "cpm": 2285.56
+    },
+    {
+      "name": "Campaign_108",
+      "total_impressions": 171,
+      "total_clicks": 13.0,
+      "cpc": 28.29,
+      "cpm": 2150.7
+    },
+    {
+      "name": "Campaign_840",
+      "total_impressions": 138,
+      "total_clicks": 5.0,
+      "cpc": 62.77,
+      "cpm": 2274.28
+    },
+    {
+      "name": "Campaign_845",
+      "total_impressions": 179,
+      "total_clicks": 12.0,
+      "cpc": 32.17,
+      "cpm": 2156.82
+    },
+    {
+      "name": "Campaign_472",
+      "total_impressions": 135,
+      "total_clicks": 8.0,
+      "cpc": 40.27,
+      "cpm": 2386.52
+    },
+    {
+      "name": "Campaign_668",
+      "total_impressions": 135,
+      "total_clicks": 7.0,
+      "cpc": 48.22,
+      "cpm": 2500.22
+    },
+    {
+      "name": "Campaign_817",
+      "total_impressions": 171,
+      "total_clicks": 5.0,
+      "cpc": 77.51,
+      "cpm": 2266.26
+    },
+    {
+      "name": "Campaign_647",
+      "total_impressions": 159,
+      "total_clicks": 10.0,
+      "cpc": 37.38,
+      "cpm": 2350.94
+    },
+    {
+      "name": "Campaign_822",
+      "total_impressions": 172,
+      "total_clicks": 11.0,
+      "cpc": 36.58,
+      "cpm": 2339.53
+    },
+    {
+      "name": "Campaign_160",
+      "total_impressions": 283,
+      "total_clicks": 13.0,
+      "cpc": 49.29,
+      "cpm": 2263.99
+    },
+    {
+      "name": "Campaign_370",
+      "total_impressions": 166,
+      "total_clicks": 10.0,
+      "cpc": 36.86,
+      "cpm": 2220.72
+    },
+    {
+      "name": "Campaign_972",
+      "total_impressions": 147,
+      "total_clicks": 12.0,
+      "cpc": 27.07,
+      "cpm": 2209.86
+    },
+    {
+      "name": "Campaign_872",
+      "total_impressions": 146,
+      "total_clicks": 5.0,
+      "cpc": 61.64,
+      "cpm": 2110.96
+    },
+    {
+      "name": "Campaign_800",
+      "total_impressions": 137,
+      "total_clicks": 7.0,
+      "cpc": 42.87,
+      "cpm": 2190.58
+    },
+    {
+      "name": "Campaign_280",
+      "total_impressions": 158,
+      "total_clicks": 8.0,
+      "cpc": 46.29,
+      "cpm": 2343.99
+    },
+    {
+      "name": "Campaign_501",
+      "total_impressions": 142,
+      "total_clicks": 7.0,
+      "cpc": 44.57,
+      "cpm": 2196.97
+    },
+    {
+      "name": "Campaign_984",
+      "total_impressions": 135,
+      "total_clicks": 4.0,
+      "cpc": 78.88,
+      "cpm": 2337.11
+    },
+    {
+      "name": "Campaign_510",
+      "total_impressions": 164,
+      "total_clicks": 4.0,
+      "cpc": 93.12,
+      "cpm": 2271.28
+    },
+    {
+      "name": "Campaign_474",
+      "total_impressions": 126,
+      "total_clicks": 8.0,
+      "cpc": 37.03,
+      "cpm": 2350.87
+    },
+    {
+      "name": "Campaign_660",
+      "total_impressions": 141,
+      "total_clicks": 3.0,
+      "cpc": 105.81,
+      "cpm": 2251.21
+    },
+    {
+      "name": "Campaign_419",
+      "total_impressions": 176,
+      "total_clicks": 9.0,
+      "cpc": 44.44,
+      "cpm": 2272.67
+    },
+    {
+      "name": "Campaign_858",
+      "total_impressions": 146,
+      "total_clicks": 10.0,
+      "cpc": 31.12,
+      "cpm": 2131.44
+    },
+    {
+      "name": "Campaign_542",
+      "total_impressions": 145,
+      "total_clicks": 13.0,
+      "cpc": 27.76,
+      "cpm": 2488.9
+    },
+    {
+      "name": "Campaign_242",
+      "total_impressions": 196,
+      "total_clicks": 12.0,
+      "cpc": 36.93,
+      "cpm": 2260.92
+    },
+    {
+      "name": "Campaign_254",
+      "total_impressions": 126,
+      "total_clicks": 6.0,
+      "cpc": 46.19,
+      "cpm": 2199.29
+    },
+    {
+      "name": "Campaign_837",
+      "total_impressions": 309,
+      "total_clicks": 23.0,
+      "cpc": 31.11,
+      "cpm": 2315.57
+    },
+    {
+      "name": "Campaign_557",
+      "total_impressions": 140,
+      "total_clicks": 8.0,
+      "cpc": 36.8,
+      "cpm": 2102.71
+    },
+    {
+      "name": "Campaign_868",
+      "total_impressions": 149,
+      "total_clicks": 8.0,
+      "cpc": 40.89,
+      "cpm": 2195.3
+    },
+    {
+      "name": "Campaign_741",
+      "total_impressions": 137,
+      "total_clicks": 3.0,
+      "cpc": 103.56,
+      "cpm": 2267.66
+    },
+    {
+      "name": "Campaign_740",
+      "total_impressions": 274,
+      "total_clicks": 16.0,
+      "cpc": 38.36,
+      "cpm": 2239.96
+    },
+    {
+      "name": "Campaign_6",
+      "total_impressions": 159,
+      "total_clicks": 9.0,
+      "cpc": 42.41,
+      "cpm": 2400.69
+    },
+    {
+      "name": "Campaign_629",
+      "total_impressions": 473,
+      "total_clicks": 26.0,
+      "cpc": 40.28,
+      "cpm": 2213.87
+    },
+    {
+      "name": "Campaign_793",
+      "total_impressions": 149,
+      "total_clicks": 7.0,
+      "cpc": 46.34,
+      "cpm": 2176.91
+    },
+    {
+      "name": "Campaign_814",
+      "total_impressions": 143,
+      "total_clicks": 4.0,
+      "cpc": 77.47,
+      "cpm": 2167.06
+    },
+    {
+      "name": "Campaign_511",
+      "total_impressions": 650,
+      "total_clicks": 37.0,
+      "cpc": 39.71,
+      "cpm": 2260.52
+    },
+    {
+      "name": "Campaign_321",
+      "total_impressions": 277,
+      "total_clicks": 12.0,
+      "cpc": 55.08,
+      "cpm": 2385.96
+    },
+    {
+      "name": "Campaign_94",
+      "total_impressions": 148,
+      "total_clicks": 10.0,
+      "cpc": 32.83,
+      "cpm": 2218.18
+    },
+    {
+      "name": "Campaign_617",
+      "total_impressions": 418,
+      "total_clicks": 14.0,
+      "cpc": 68.54,
+      "cpm": 2295.5
+    },
+    {
+      "name": "Campaign_191",
+      "total_impressions": 129,
+      "total_clicks": 5.0,
+      "cpc": 56.09,
+      "cpm": 2174.11
+    },
+    {
+      "name": "Campaign_413",
+      "total_impressions": 630,
+      "total_clicks": 31.0,
+      "cpc": 43.42,
+      "cpm": 2136.46
+    },
+    {
+      "name": "Campaign_819",
+      "total_impressions": 171,
+      "total_clicks": 7.0,
+      "cpc": 55.79,
+      "cpm": 2283.68
+    },
+    {
+      "name": "Campaign_663",
+      "total_impressions": 142,
+      "total_clicks": 3.0,
+      "cpc": 110.66,
+      "cpm": 2337.82
+    },
+    {
+      "name": "Campaign_259",
+      "total_impressions": 150,
+      "total_clicks": 7.0,
+      "cpc": 51.34,
+      "cpm": 2396.0
+    },
+    {
+      "name": "Campaign_935",
+      "total_impressions": 410,
+      "total_clicks": 20.0,
+      "cpc": 47.47,
+      "cpm": 2315.51
+    },
+    {
+      "name": "Campaign_467",
+      "total_impressions": 161,
+      "total_clicks": 8.0,
+      "cpc": 43.78,
+      "cpm": 2175.28
+    },
+    {
+      "name": "Campaign_418",
+      "total_impressions": 165,
+      "total_clicks": 6.0,
+      "cpc": 60.64,
+      "cpm": 2205.21
+    },
+    {
+      "name": "Campaign_240",
+      "total_impressions": 178,
+      "total_clicks": 9.0,
+      "cpc": 45.23,
+      "cpm": 2287.13
+    },
+    {
+      "name": "Campaign_237",
+      "total_impressions": 145,
+      "total_clicks": 2.0,
+      "cpc": 156.4,
+      "cpm": 2157.17
+    },
+    {
+      "name": "Campaign_910",
+      "total_impressions": 138,
+      "total_clicks": 5.0,
+      "cpc": 64.77,
+      "cpm": 2346.81
+    },
+    {
+      "name": "Campaign_505",
+      "total_impressions": 200,
+      "total_clicks": 9.0,
+      "cpc": 51.02,
+      "cpm": 2295.9
+    },
+    {
+      "name": "Campaign_50",
+      "total_impressions": 135,
+      "total_clicks": 9.0,
+      "cpc": 36.24,
+      "cpm": 2416.15
+    },
+    {
+      "name": "Campaign_471",
+      "total_impressions": 229,
+      "total_clicks": 8.0,
+      "cpc": 64.95,
+      "cpm": 2269.08
+    },
+    {
+      "name": "Campaign_127",
+      "total_impressions": 379,
+      "total_clicks": 28.0,
+      "cpc": 30.67,
+      "cpm": 2265.94
+    },
+    {
+      "name": "Campaign_7",
+      "total_impressions": 172,
+      "total_clicks": 6.0,
+      "cpc": 66.04,
+      "cpm": 2303.78
+    },
+    {
+      "name": "Campaign_503",
+      "total_impressions": 268,
+      "total_clicks": 13.0,
+      "cpc": 45.18,
+      "cpm": 2191.6
+    },
+    {
+      "name": "Campaign_349",
+      "total_impressions": 153,
+      "total_clicks": 6.0,
+      "cpc": 59.22,
+      "cpm": 2322.35
+    },
+    {
+      "name": "Campaign_236",
+      "total_impressions": 153,
+      "total_clicks": 7.0,
+      "cpc": 46.3,
+      "cpm": 2118.37
+    },
+    {
+      "name": "Campaign_96",
+      "total_impressions": 143,
+      "total_clicks": 5.0,
+      "cpc": 64.14,
+      "cpm": 2242.73
+    },
+    {
+      "name": "Campaign_988",
+      "total_impressions": 154,
+      "total_clicks": 7.0,
+      "cpc": 48.63,
+      "cpm": 2210.65
+    },
+    {
+      "name": "Campaign_174",
+      "total_impressions": 407,
+      "total_clicks": 17.0,
+      "cpc": 54.84,
+      "cpm": 2290.47
+    },
+    {
+      "name": "Campaign_19",
+      "total_impressions": 151,
+      "total_clicks": 6.0,
+      "cpc": 60.0,
+      "cpm": 2384.11
+    },
+    {
+      "name": "Campaign_951",
+      "total_impressions": 127,
+      "total_clicks": 4.0,
+      "cpc": 69.92,
+      "cpm": 2202.13
+    },
+    {
+      "name": "Campaign_368",
+      "total_impressions": 141,
+      "total_clicks": 7.0,
+      "cpc": 46.99,
+      "cpm": 2332.91
+    },
+    {
+      "name": "Campaign_351",
+      "total_impressions": 142,
+      "total_clicks": 9.0,
+      "cpc": 35.85,
+      "cpm": 2272.25
+    },
+    {
+      "name": "Campaign_311",
+      "total_impressions": 267,
+      "total_clicks": 14.0,
+      "cpc": 43.19,
+      "cpm": 2264.83
+    },
+    {
+      "name": "Campaign_844",
+      "total_impressions": 141,
+      "total_clicks": 9.0,
+      "cpc": 36.68,
+      "cpm": 2340.99
+    },
+    {
+      "name": "Campaign_823",
+      "total_impressions": 345,
+      "total_clicks": 14.0,
+      "cpc": 55.32,
+      "cpm": 2244.87
+    },
+    {
+      "name": "Campaign_948",
+      "total_impressions": 376,
+      "total_clicks": 26.0,
+      "cpc": 32.2,
+      "cpm": 2226.68
+    },
+    {
+      "name": "Campaign_770",
+      "total_impressions": 146,
+      "total_clicks": 8.0,
+      "cpc": 41.66,
+      "cpm": 2282.95
+    },
+    {
+      "name": "Campaign_461",
+      "total_impressions": 146,
+      "total_clicks": 8.0,
+      "cpc": 40.84,
+      "cpm": 2237.6
+    },
+    {
+      "name": "Campaign_238",
+      "total_impressions": 140,
+      "total_clicks": 5.0,
+      "cpc": 63.72,
+      "cpm": 2275.71
+    },
+    {
+      "name": "Campaign_462",
+      "total_impressions": 143,
+      "total_clicks": 4.0,
+      "cpc": 81.81,
+      "cpm": 2288.25
+    },
+    {
+      "name": "Campaign_998",
+      "total_impressions": 136,
+      "total_clicks": 6.0,
+      "cpc": 51.67,
+      "cpm": 2279.41
+    },
+    {
+      "name": "Campaign_381",
+      "total_impressions": 145,
+      "total_clicks": 9.0,
+      "cpc": 37.38,
+      "cpm": 2320.0
+    },
+    {
+      "name": "Campaign_121",
+      "total_impressions": 129,
+      "total_clicks": 11.0,
+      "cpc": 27.29,
+      "cpm": 2326.98
+    },
+    {
+      "name": "Campaign_592",
+      "total_impressions": 314,
+      "total_clicks": 18.0,
+      "cpc": 40.42,
+      "cpm": 2316.85
+    },
+    {
+      "name": "Campaign_124",
+      "total_impressions": 124,
+      "total_clicks": 8.0,
+      "cpc": 33.85,
+      "cpm": 2183.79
+    },
+    {
+      "name": "Campaign_952",
+      "total_impressions": 136,
+      "total_clicks": 8.0,
+      "cpc": 35.08,
+      "cpm": 2063.75
+    },
+    {
+      "name": "Campaign_896",
+      "total_impressions": 150,
+      "total_clicks": 9.0,
+      "cpc": 40.33,
+      "cpm": 2419.93
+    },
+    {
+      "name": "Campaign_655",
+      "total_impressions": 164,
+      "total_clicks": 14.0,
+      "cpc": 25.63,
+      "cpm": 2187.8
+    },
+    {
+      "name": "Campaign_416",
+      "total_impressions": 120,
+      "total_clicks": 3.0,
+      "cpc": 90.06,
+      "cpm": 2251.5
+    },
+    {
+      "name": "Campaign_249",
+      "total_impressions": 131,
+      "total_clicks": 8.0,
+      "cpc": 36.79,
+      "cpm": 2246.64
+    },
+    {
+      "name": "Campaign_659",
+      "total_impressions": 268,
+      "total_clicks": 13.0,
+      "cpc": 48.15,
+      "cpm": 2335.71
+    },
+    {
+      "name": "Campaign_239",
+      "total_impressions": 151,
+      "total_clicks": 5.0,
+      "cpc": 66.61,
+      "cpm": 2205.76
+    },
+    {
+      "name": "Campaign_362",
+      "total_impressions": 154,
+      "total_clicks": 10.0,
+      "cpc": 34.09,
+      "cpm": 2213.38
+    },
+    {
+      "name": "Campaign_246",
+      "total_impressions": 130,
+      "total_clicks": 7.0,
+      "cpc": 42.49,
+      "cpm": 2287.69
+    },
+    {
+      "name": "Campaign_274",
+      "total_impressions": 156,
+      "total_clicks": 12.0,
+      "cpc": 30.19,
+      "cpm": 2322.18
+    },
+    {
+      "name": "Campaign_111",
+      "total_impressions": 172,
+      "total_clicks": 9.0,
+      "cpc": 44.67,
+      "cpm": 2337.5
+    },
+    {
+      "name": "Campaign_198",
+      "total_impressions": 134,
+      "total_clicks": 6.0,
+      "cpc": 54.32,
+      "cpm": 2432.31
+    },
+    {
+      "name": "Campaign_465",
+      "total_impressions": 164,
+      "total_clicks": 15.0,
+      "cpc": 25.54,
+      "cpm": 2336.04
+    },
+    {
+      "name": "Campaign_233",
+      "total_impressions": 134,
+      "total_clicks": 5.0,
+      "cpc": 63.06,
+      "cpm": 2353.06
+    },
+    {
+      "name": "Campaign_8",
+      "total_impressions": 138,
+      "total_clicks": 14.0,
+      "cpc": 21.87,
+      "cpm": 2218.19
+    },
+    {
+      "name": "Campaign_928",
+      "total_impressions": 132,
+      "total_clicks": 3.0,
+      "cpc": 100.03,
+      "cpm": 2273.41
+    },
+    {
+      "name": "Campaign_225",
+      "total_impressions": 146,
+      "total_clicks": 7.0,
+      "cpc": 49.86,
+      "cpm": 2390.48
+    },
+    {
+      "name": "Campaign_440",
+      "total_impressions": 132,
+      "total_clicks": 8.0,
+      "cpc": 35.08,
+      "cpm": 2126.29
+    },
+    {
+      "name": "Campaign_767",
+      "total_impressions": 145,
+      "total_clicks": 5.0,
+      "cpc": 69.42,
+      "cpm": 2393.86
+    },
+    {
+      "name": "Campaign_84",
+      "total_impressions": 537,
+      "total_clicks": 25.0,
+      "cpc": 49.49,
+      "cpm": 2303.91
+    },
+    {
+      "name": "Campaign_218",
+      "total_impressions": 150,
+      "total_clicks": 5.0,
+      "cpc": 66.71,
+      "cpm": 2223.8
+    },
+    {
+      "name": "Campaign_245",
+      "total_impressions": 134,
+      "total_clicks": 8.0,
+      "cpc": 37.23,
+      "cpm": 2222.84
+    },
+    {
+      "name": "Campaign_44",
+      "total_impressions": 136,
+      "total_clicks": 9.0,
+      "cpc": 33.94,
+      "cpm": 2246.32
+    },
+    {
+      "name": "Campaign_421",
+      "total_impressions": 140,
+      "total_clicks": 10.0,
+      "cpc": 29.88,
+      "cpm": 2134.07
+    },
+    {
+      "name": "Campaign_963",
+      "total_impressions": 162,
+      "total_clicks": 8.0,
+      "cpc": 42.85,
+      "cpm": 2116.05
+    },
+    {
+      "name": "Campaign_955",
+      "total_impressions": 151,
+      "total_clicks": 7.0,
+      "cpc": 51.48,
+      "cpm": 2386.42
+    },
+    {
+      "name": "Campaign_126",
+      "total_impressions": 435,
+      "total_clicks": 19.0,
+      "cpc": 52.51,
+      "cpm": 2293.33
+    },
+    {
+      "name": "Campaign_750",
+      "total_impressions": 161,
+      "total_clicks": 9.0,
+      "cpc": 41.41,
+      "cpm": 2314.84
+    },
+    {
+      "name": "Campaign_372",
+      "total_impressions": 139,
+      "total_clicks": 6.0,
+      "cpc": 52.12,
+      "cpm": 2249.86
+    },
+    {
+      "name": "Campaign_444",
+      "total_impressions": 166,
+      "total_clicks": 6.0,
+      "cpc": 66.24,
+      "cpm": 2394.1
+    },
+    {
+      "name": "Campaign_407",
+      "total_impressions": 117,
+      "total_clicks": 6.0,
+      "cpc": 45.42,
+      "cpm": 2329.32
+    },
+    {
+      "name": "Campaign_591",
+      "total_impressions": 156,
+      "total_clicks": 8.0,
+      "cpc": 44.24,
+      "cpm": 2268.59
+    },
+    {
+      "name": "Campaign_125",
+      "total_impressions": 129,
+      "total_clicks": 5.0,
+      "cpc": 58.6,
+      "cpm": 2271.16
+    },
+    {
+      "name": "Campaign_700",
+      "total_impressions": 135,
+      "total_clicks": 6.0,
+      "cpc": 49.71,
+      "cpm": 2209.26
+    },
+    {
+      "name": "Campaign_339",
+      "total_impressions": 285,
+      "total_clicks": 10.0,
+      "cpc": 61.51,
+      "cpm": 2158.25
+    },
+    {
+      "name": "Campaign_499",
+      "total_impressions": 150,
+      "total_clicks": 5.0,
+      "cpc": 69.05,
+      "cpm": 2301.8
+    },
+    {
+      "name": "Campaign_79",
+      "total_impressions": 133,
+      "total_clicks": 5.0,
+      "cpc": 63.45,
+      "cpm": 2385.34
+    },
+    {
+      "name": "Campaign_556",
+      "total_impressions": 297,
+      "total_clicks": 16.0,
+      "cpc": 41.6,
+      "cpm": 2240.84
+    },
+    {
+      "name": "Campaign_549",
+      "total_impressions": 158,
+      "total_clicks": 7.0,
+      "cpc": 48.98,
+      "cpm": 2170.19
+    },
+    {
+      "name": "Campaign_244",
+      "total_impressions": 277,
+      "total_clicks": 13.0,
+      "cpc": 48.24,
+      "cpm": 2263.94
+    },
+    {
+      "name": "Campaign_82",
+      "total_impressions": 159,
+      "total_clicks": 6.0,
+      "cpc": 60.79,
+      "cpm": 2294.09
+    },
+    {
+      "name": "Campaign_70",
+      "total_impressions": 191,
+      "total_clicks": 6.0,
+      "cpc": 73.57,
+      "cpm": 2311.1
+    },
+    {
+      "name": "Campaign_373",
+      "total_impressions": 155,
+      "total_clicks": 9.0,
+      "cpc": 39.23,
+      "cpm": 2278.13
+    },
+    {
+      "name": "Campaign_17",
+      "total_impressions": 166,
+      "total_clicks": 6.0,
+      "cpc": 66.2,
+      "cpm": 2392.89
+    },
+    {
+      "name": "Campaign_900",
+      "total_impressions": 134,
+      "total_clicks": 11.0,
+      "cpc": 28.97,
+      "cpm": 2378.21
+    },
+    {
+      "name": "Campaign_1004",
+      "total_impressions": 168,
+      "total_clicks": 11.0,
+      "cpc": 34.15,
+      "cpm": 2236.25
+    },
+    {
+      "name": "Campaign_102",
+      "total_impressions": 239,
+      "total_clicks": 16.0,
+      "cpc": 35.52,
+      "cpm": 2378.16
+    },
+    {
+      "name": "Campaign_56",
+      "total_impressions": 154,
+      "total_clicks": 13.0,
+      "cpc": 24.92,
+      "cpm": 2103.57
+    },
+    {
+      "name": "Campaign_645",
+      "total_impressions": 150,
+      "total_clicks": 8.0,
+      "cpc": 43.48,
+      "cpm": 2318.93
+    },
+    {
+      "name": "Campaign_760",
+      "total_impressions": 161,
+      "total_clicks": 5.0,
+      "cpc": 74.89,
+      "cpm": 2325.84
+    },
+    {
+      "name": "Campaign_37",
+      "total_impressions": 141,
+      "total_clicks": 9.0,
+      "cpc": 36.68,
+      "cpm": 2340.99
+    },
+    {
+      "name": "Campaign_974",
+      "total_impressions": 158,
+      "total_clicks": 9.0,
+      "cpc": 40.05,
+      "cpm": 2281.46
+    },
+    {
+      "name": "Campaign_169",
+      "total_impressions": 152,
+      "total_clicks": 8.0,
+      "cpc": 42.89,
+      "cpm": 2257.17
+    },
+    {
+      "name": "Campaign_355",
+      "total_impressions": 135,
+      "total_clicks": 8.0,
+      "cpc": 40.27,
+      "cpm": 2386.15
+    },
+    {
+      "name": "Campaign_75",
+      "total_impressions": 218,
+      "total_clicks": 8.0,
+      "cpc": 62.51,
+      "cpm": 2294.08
+    },
+    {
+      "name": "Campaign_885",
+      "total_impressions": 131,
+      "total_clicks": 7.0,
+      "cpc": 42.05,
+      "cpm": 2247.02
+    },
+    {
+      "name": "Campaign_30",
+      "total_impressions": 143,
+      "total_clicks": 8.0,
+      "cpc": 39.43,
+      "cpm": 2206.01
+    },
+    {
+      "name": "Campaign_833",
+      "total_impressions": 150,
+      "total_clicks": 3.0,
+      "cpc": 111.94,
+      "cpm": 2238.73
+    },
+    {
+      "name": "Campaign_764",
+      "total_impressions": 149,
+      "total_clicks": 5.0,
+      "cpc": 66.46,
+      "cpm": 2230.2
+    },
+    {
+      "name": "Campaign_737",
+      "total_impressions": 136,
+      "total_clicks": 5.0,
+      "cpc": 60.22,
+      "cpm": 2213.97
+    },
+    {
+      "name": "Campaign_269",
+      "total_impressions": 150,
+      "total_clicks": 11.0,
+      "cpc": 32.3,
+      "cpm": 2368.47
+    },
+    {
+      "name": "Campaign_296",
+      "total_impressions": 151,
+      "total_clicks": 12.0,
+      "cpc": 30.03,
+      "cpm": 2386.56
+    },
+    {
+      "name": "Campaign_839",
+      "total_impressions": 140,
+      "total_clicks": 6.0,
+      "cpc": 53.12,
+      "cpm": 2276.71
+    },
+    {
+      "name": "Campaign_735",
+      "total_impressions": 191,
+      "total_clicks": 10.0,
+      "cpc": 41.67,
+      "cpm": 2181.88
+    },
+    {
+      "name": "Campaign_742",
+      "total_impressions": 124,
+      "total_clicks": 11.0,
+      "cpc": 26.31,
+      "cpm": 2333.63
+    },
+    {
+      "name": "Campaign_137",
+      "total_impressions": 167,
+      "total_clicks": 4.0,
+      "cpc": 101.49,
+      "cpm": 2430.96
+    },
+    {
+      "name": "Campaign_946",
+      "total_impressions": 140,
+      "total_clicks": 9.0,
+      "cpc": 38.11,
+      "cpm": 2450.21
+    },
+    {
+      "name": "Campaign_621",
+      "total_impressions": 146,
+      "total_clicks": 6.0,
+      "cpc": 52.0,
+      "cpm": 2136.92
+    },
+    {
+      "name": "Campaign_519",
+      "total_impressions": 254,
+      "total_clicks": 18.0,
+      "cpc": 32.19,
+      "cpm": 2280.98
+    },
+    {
+      "name": "Campaign_965",
+      "total_impressions": 326,
+      "total_clicks": 17.0,
+      "cpc": 43.4,
+      "cpm": 2263.22
+    },
+    {
+      "name": "Campaign_674",
+      "total_impressions": 146,
+      "total_clicks": 7.0,
+      "cpc": 48.58,
+      "cpm": 2329.38
+    },
+    {
+      "name": "Campaign_533",
+      "total_impressions": 139,
+      "total_clicks": 8.0,
+      "cpc": 39.19,
+      "cpm": 2255.25
+    },
+    {
+      "name": "Campaign_892",
+      "total_impressions": 131,
+      "total_clicks": 6.0,
+      "cpc": 48.54,
+      "cpm": 2223.13
+    },
+    {
+      "name": "Campaign_399",
+      "total_impressions": 138,
+      "total_clicks": 10.0,
+      "cpc": 28.59,
+      "cpm": 2071.52
+    },
+    {
+      "name": "Campaign_594",
+      "total_impressions": 141,
+      "total_clicks": 5.0,
+      "cpc": 65.76,
+      "cpm": 2331.77
+    },
+    {
+      "name": "Campaign_890",
+      "total_impressions": 140,
+      "total_clicks": 7.0,
+      "cpc": 45.05,
+      "cpm": 2252.29
+    },
+    {
+      "name": "Campaign_662",
+      "total_impressions": 142,
+      "total_clicks": 12.0,
+      "cpc": 27.95,
+      "cpm": 2362.11
+    },
+    {
+      "name": "Campaign_691",
+      "total_impressions": 302,
+      "total_clicks": 14.0,
+      "cpc": 49.36,
+      "cpm": 2288.21
+    },
+    {
+      "name": "Campaign_610",
+      "total_impressions": 317,
+      "total_clicks": 19.0,
+      "cpc": 38.18,
+      "cpm": 2288.64
+    },
+    {
+      "name": "Campaign_540",
+      "total_impressions": 125,
+      "total_clicks": 10.0,
+      "cpc": 27.44,
+      "cpm": 2194.96
+    },
+    {
+      "name": "Campaign_429",
+      "total_impressions": 151,
+      "total_clicks": 9.0,
+      "cpc": 38.13,
+      "cpm": 2272.38
+    },
+    {
+      "name": "Campaign_841",
+      "total_impressions": 150,
+      "total_clicks": 9.0,
+      "cpc": 39.88,
+      "cpm": 2393.0
+    },
+    {
+      "name": "Campaign_457",
+      "total_impressions": 509,
+      "total_clicks": 22.0,
+      "cpc": 52.8,
+      "cpm": 2281.98
+    },
+    {
+      "name": "Campaign_548",
+      "total_impressions": 146,
+      "total_clicks": 6.0,
+      "cpc": 54.79,
+      "cpm": 2251.58
+    },
+    {
+      "name": "Campaign_575",
+      "total_impressions": 517,
+      "total_clicks": 29.0,
+      "cpc": 41.41,
+      "cpm": 2322.84
+    },
+    {
+      "name": "Campaign_598",
+      "total_impressions": 159,
+      "total_clicks": 7.0,
+      "cpc": 53.14,
+      "cpm": 2339.69
+    },
+    {
+      "name": "Campaign_538",
+      "total_impressions": 155,
+      "total_clicks": 12.0,
+      "cpc": 27.93,
+      "cpm": 2162.45
+    },
+    {
+      "name": "Campaign_552",
+      "total_impressions": 135,
+      "total_clicks": 8.0,
+      "cpc": 38.09,
+      "cpm": 2257.33
+    },
+    {
+      "name": "Campaign_303",
+      "total_impressions": 137,
+      "total_clicks": 3.0,
+      "cpc": 102.68,
+      "cpm": 2248.47
+    },
+    {
+      "name": "Campaign_656",
+      "total_impressions": 141,
+      "total_clicks": 4.0,
+      "cpc": 82.52,
+      "cpm": 2340.92
+    },
+    {
+      "name": "Campaign_161",
+      "total_impressions": 506,
+      "total_clicks": 16.0,
+      "cpc": 75.72,
+      "cpm": 2394.27
+    },
+    {
+      "name": "Campaign_551",
+      "total_impressions": 299,
+      "total_clicks": 8.0,
+      "cpc": 84.28,
+      "cpm": 2254.88
+    },
+    {
+      "name": "Campaign_589",
+      "total_impressions": 131,
+      "total_clicks": 5.0,
+      "cpc": 54.38,
+      "cpm": 2075.42
+    },
+    {
+      "name": "Campaign_940",
+      "total_impressions": 167,
+      "total_clicks": 10.0,
+      "cpc": 37.08,
+      "cpm": 2220.18
+    },
+    {
+      "name": "Campaign_51",
+      "total_impressions": 149,
+      "total_clicks": 7.0,
+      "cpc": 46.52,
+      "cpm": 2185.7
+    },
+    {
+      "name": "Campaign_931",
+      "total_impressions": 168,
+      "total_clicks": 5.0,
+      "cpc": 76.58,
+      "cpm": 2279.29
+    },
+    {
+      "name": "Campaign_664",
+      "total_impressions": 148,
+      "total_clicks": 8.0,
+      "cpc": 43.62,
+      "cpm": 2357.84
+    },
+    {
+      "name": "Campaign_69",
+      "total_impressions": 135,
+      "total_clicks": 6.0,
+      "cpc": 52.44,
+      "cpm": 2330.59
+    },
+    {
+      "name": "Campaign_304",
+      "total_impressions": 153,
+      "total_clicks": 12.0,
+      "cpc": 29.32,
+      "cpm": 2299.74
+    },
+    {
+      "name": "Campaign_256",
+      "total_impressions": 224,
+      "total_clicks": 7.0,
+      "cpc": 69.84,
+      "cpm": 2182.63
+    },
+    {
+      "name": "Campaign_867",
+      "total_impressions": 172,
+      "total_clicks": 9.0,
+      "cpc": 46.08,
+      "cpm": 2410.93
+    },
+    {
+      "name": "Campaign_488",
+      "total_impressions": 158,
+      "total_clicks": 8.0,
+      "cpc": 43.43,
+      "cpm": 2199.05
+    },
+    {
+      "name": "Campaign_626",
+      "total_impressions": 465,
+      "total_clicks": 18.0,
+      "cpc": 59.24,
+      "cpm": 2292.99
+    },
+    {
+      "name": "Campaign_999",
+      "total_impressions": 145,
+      "total_clicks": 7.0,
+      "cpc": 46.56,
+      "cpm": 2247.66
+    },
+    {
+      "name": "Campaign_563",
+      "total_impressions": 152,
+      "total_clicks": 4.0,
+      "cpc": 83.36,
+      "cpm": 2193.55
+    },
+    {
+      "name": "Campaign_888",
+      "total_impressions": 133,
+      "total_clicks": 12.0,
+      "cpc": 25.01,
+      "cpm": 2256.62
+    },
+    {
+      "name": "Campaign_357",
+      "total_impressions": 288,
+      "total_clicks": 17.0,
+      "cpc": 38.54,
+      "cpm": 2274.97
+    },
+    {
+      "name": "Campaign_365",
+      "total_impressions": 485,
+      "total_clicks": 18.0,
+      "cpc": 60.72,
+      "cpm": 2253.53
+    },
+    {
+      "name": "Campaign_480",
+      "total_impressions": 167,
+      "total_clicks": 7.0,
+      "cpc": 57.25,
+      "cpm": 2399.88
+    },
+    {
+      "name": "Campaign_62",
+      "total_impressions": 144,
+      "total_clicks": 6.0,
+      "cpc": 50.0,
+      "cpm": 2083.13
+    },
+    {
+      "name": "Campaign_58",
+      "total_impressions": 139,
+      "total_clicks": 8.0,
+      "cpc": 38.97,
+      "cpm": 2242.73
+    },
+    {
+      "name": "Campaign_316",
+      "total_impressions": 148,
+      "total_clicks": 10.0,
+      "cpc": 30.92,
+      "cpm": 2089.32
+    },
+    {
+      "name": "Campaign_514",
+      "total_impressions": 150,
+      "total_clicks": 6.0,
+      "cpc": 56.28,
+      "cpm": 2251.33
+    },
+    {
+      "name": "Campaign_573",
+      "total_impressions": 487,
+      "total_clicks": 21.0,
+      "cpc": 53.15,
+      "cpm": 2291.91
+    },
+    {
+      "name": "Campaign_708",
+      "total_impressions": 147,
+      "total_clicks": 10.0,
+      "cpc": 33.0,
+      "cpm": 2245.03
+    },
+    {
+      "name": "Campaign_732",
+      "total_impressions": 144,
+      "total_clicks": 8.0,
+      "cpc": 42.42,
+      "cpm": 2356.67
+    },
+    {
+      "name": "Campaign_76",
+      "total_impressions": 132,
+      "total_clicks": 2.0,
+      "cpc": 148.84,
+      "cpm": 2255.15
+    },
+    {
+      "name": "Campaign_543",
+      "total_impressions": 138,
+      "total_clicks": 5.0,
+      "cpc": 64.16,
+      "cpm": 2324.49
+    },
+    {
+      "name": "Campaign_1002",
+      "total_impressions": 136,
+      "total_clicks": 11.0,
+      "cpc": 28.74,
+      "cpm": 2324.56
+    },
+    {
+      "name": "Campaign_794",
+      "total_impressions": 150,
+      "total_clicks": 5.0,
+      "cpc": 69.7,
+      "cpm": 2323.47
+    },
+    {
+      "name": "Campaign_141",
+      "total_impressions": 146,
+      "total_clicks": 11.0,
+      "cpc": 30.55,
+      "cpm": 2301.51
+    },
+    {
+      "name": "Campaign_918",
+      "total_impressions": 172,
+      "total_clicks": 13.0,
+      "cpc": 29.35,
+      "cpm": 2218.6
+    },
+    {
+      "name": "Campaign_90",
+      "total_impressions": 137,
+      "total_clicks": 6.0,
+      "cpc": 54.58,
+      "cpm": 2390.15
+    },
+    {
+      "name": "Campaign_673",
+      "total_impressions": 126,
+      "total_clicks": 7.0,
+      "cpc": 40.7,
+      "cpm": 2261.19
+    },
+    {
+      "name": "Campaign_682",
+      "total_impressions": 187,
+      "total_clicks": 8.0,
+      "cpc": 54.86,
+      "cpm": 2346.9
+    },
+    {
+      "name": "Campaign_639",
+      "total_impressions": 149,
+      "total_clicks": 9.0,
+      "cpc": 36.21,
+      "cpm": 2186.91
+    },
+    {
+      "name": "Campaign_879",
+      "total_impressions": 135,
+      "total_clicks": 4.0,
+      "cpc": 80.05,
+      "cpm": 2371.93
+    },
+    {
+      "name": "Campaign_521",
+      "total_impressions": 137,
+      "total_clicks": 4.0,
+      "cpc": 73.25,
+      "cpm": 2138.76
+    },
+    {
+      "name": "Campaign_332",
+      "total_impressions": 165,
+      "total_clicks": 6.0,
+      "cpc": 61.25,
+      "cpm": 2227.33
+    },
+    {
+      "name": "Campaign_864",
+      "total_impressions": 154,
+      "total_clicks": 1.0,
+      "cpc": 346.74,
+      "cpm": 2251.56
+    },
+    {
+      "name": "Campaign_107",
+      "total_impressions": 131,
+      "total_clicks": 7.0,
+      "cpc": 41.31,
+      "cpm": 2207.4
+    },
+    {
+      "name": "Campaign_390",
+      "total_impressions": 140,
+      "total_clicks": 7.0,
+      "cpc": 46.65,
+      "cpm": 2332.64
+    },
+    {
+      "name": "Campaign_886",
+      "total_impressions": 500,
+      "total_clicks": 25.0,
+      "cpc": 45.11,
+      "cpm": 2255.4
+    },
+    {
+      "name": "Campaign_209",
+      "total_impressions": 129,
+      "total_clicks": 9.0,
+      "cpc": 31.31,
+      "cpm": 2184.5
+    },
+    {
+      "name": "Campaign_200",
+      "total_impressions": 124,
+      "total_clicks": 7.0,
+      "cpc": 39.86,
+      "cpm": 2250.4
+    },
+    {
+      "name": "Campaign_787",
+      "total_impressions": 496,
+      "total_clicks": 21.0,
+      "cpc": 53.02,
+      "cpm": 2244.88
+    },
+    {
+      "name": "Campaign_768",
+      "total_impressions": 140,
+      "total_clicks": 5.0,
+      "cpc": 62.28,
+      "cpm": 2224.36
+    },
+    {
+      "name": "Campaign_945",
+      "total_impressions": 159,
+      "total_clicks": 12.0,
+      "cpc": 30.08,
+      "cpm": 2270.25
+    },
+    {
+      "name": "Campaign_123",
+      "total_impressions": 140,
+      "total_clicks": 5.0,
+      "cpc": 65.17,
+      "cpm": 2327.64
+    },
+    {
+      "name": "Campaign_473",
+      "total_impressions": 169,
+      "total_clicks": 6.0,
+      "cpc": 62.46,
+      "cpm": 2217.4
+    },
+    {
+      "name": "Campaign_989",
+      "total_impressions": 183,
+      "total_clicks": 10.0,
+      "cpc": 44.74,
+      "cpm": 2444.97
+    },
+    {
+      "name": "Campaign_746",
+      "total_impressions": 137,
+      "total_clicks": 6.0,
+      "cpc": 50.68,
+      "cpm": 2219.56
+    },
+    {
+      "name": "Campaign_175",
+      "total_impressions": 150,
+      "total_clicks": 4.0,
+      "cpc": 89.09,
+      "cpm": 2375.73
+    },
+    {
+      "name": "Campaign_968",
+      "total_impressions": 157,
+      "total_clicks": 8.0,
+      "cpc": 43.56,
+      "cpm": 2219.49
+    },
+    {
+      "name": "Campaign_395",
+      "total_impressions": 147,
+      "total_clicks": 10.0,
+      "cpc": 32.45,
+      "cpm": 2207.28
+    },
+    {
+      "name": "Campaign_211",
+      "total_impressions": 147,
+      "total_clicks": 10.0,
+      "cpc": 33.64,
+      "cpm": 2288.37
+    },
+    {
+      "name": "Campaign_898",
+      "total_impressions": 221,
+      "total_clicks": 8.0,
+      "cpc": 63.41,
+      "cpm": 2295.2
+    },
+    {
+      "name": "Campaign_116",
+      "total_impressions": 145,
+      "total_clicks": 9.0,
+      "cpc": 39.33,
+      "cpm": 2441.24
+    },
+    {
+      "name": "Campaign_929",
+      "total_impressions": 145,
+      "total_clicks": 5.0,
+      "cpc": 66.17,
+      "cpm": 2281.72
+    },
+    {
+      "name": "Campaign_922",
+      "total_impressions": 161,
+      "total_clicks": 7.0,
+      "cpc": 52.41,
+      "cpm": 2278.57
+    },
+    {
+      "name": "Campaign_406",
+      "total_impressions": 132,
+      "total_clicks": 12.0,
+      "cpc": 26.0,
+      "cpm": 2363.94
+    },
+    {
+      "name": "Campaign_438",
+      "total_impressions": 190,
+      "total_clicks": 8.0,
+      "cpc": 56.77,
+      "cpm": 2390.16
+    },
+    {
+      "name": "Campaign_771",
+      "total_impressions": 146,
+      "total_clicks": 10.0,
+      "cpc": 33.7,
+      "cpm": 2308.29
+    },
+    {
+      "name": "Campaign_439",
+      "total_impressions": 171,
+      "total_clicks": 9.0,
+      "cpc": 41.33,
+      "cpm": 2175.32
+    },
+    {
+      "name": "Campaign_369",
+      "total_impressions": 136,
+      "total_clicks": 2.0,
+      "cpc": 148.55,
+      "cpm": 2184.49
+    },
+    {
+      "name": "Campaign_89",
+      "total_impressions": 154,
+      "total_clicks": 9.0,
+      "cpc": 35.16,
+      "cpm": 2054.74
+    },
+    {
+      "name": "Campaign_713",
+      "total_impressions": 162,
+      "total_clicks": 6.0,
+      "cpc": 62.05,
+      "cpm": 2298.21
+    },
+    {
+      "name": "Campaign_994",
+      "total_impressions": 146,
+      "total_clicks": 5.0,
+      "cpc": 60.58,
+      "cpm": 2074.79
+    },
+    {
+      "name": "Campaign_150",
+      "total_impressions": 213,
+      "total_clicks": 14.0,
+      "cpc": 35.6,
+      "cpm": 2339.77
+    },
+    {
+      "name": "Campaign_34",
+      "total_impressions": 159,
+      "total_clicks": 11.0,
+      "cpc": 33.45,
+      "cpm": 2314.21
+    },
+    {
+      "name": "Campaign_65",
+      "total_impressions": 150,
+      "total_clicks": 8.0,
+      "cpc": 40.43,
+      "cpm": 2156.47
+    },
+    {
+      "name": "Campaign_492",
+      "total_impressions": 177,
+      "total_clicks": 3.0,
+      "cpc": 136.81,
+      "cpm": 2318.76
+    },
+    {
+      "name": "Campaign_873",
+      "total_impressions": 436,
+      "total_clicks": 28.0,
+      "cpc": 36.35,
+      "cpm": 2334.22
+    },
+    {
+      "name": "Campaign_576",
+      "total_impressions": 151,
+      "total_clicks": 3.0,
+      "cpc": 115.86,
+      "cpm": 2301.92
+    },
+    {
+      "name": "Campaign_455",
+      "total_impressions": 141,
+      "total_clicks": 3.0,
+      "cpc": 108.31,
+      "cpm": 2304.4
+    },
+    {
+      "name": "Campaign_32",
+      "total_impressions": 161,
+      "total_clicks": 5.0,
+      "cpc": 73.82,
+      "cpm": 2292.61
+    },
+    {
+      "name": "Campaign_177",
+      "total_impressions": 112,
+      "total_clicks": 7.0,
+      "cpc": 38.81,
+      "cpm": 2425.36
+    },
+    {
+      "name": "Campaign_5",
+      "total_impressions": 137,
+      "total_clicks": 9.0,
+      "cpc": 34.37,
+      "cpm": 2258.1
+    },
+    {
+      "name": "Campaign_66",
+      "total_impressions": 153,
+      "total_clicks": 7.0,
+      "cpc": 51.15,
+      "cpm": 2340.07
+    },
+    {
+      "name": "Campaign_350",
+      "total_impressions": 203,
+      "total_clicks": 11.0,
+      "cpc": 42.03,
+      "cpm": 2277.39
+    },
+    {
+      "name": "Campaign_721",
+      "total_impressions": 450,
+      "total_clicks": 19.0,
+      "cpc": 53.19,
+      "cpm": 2245.6
+    },
+    {
+      "name": "Campaign_195",
+      "total_impressions": 151,
+      "total_clicks": 10.0,
+      "cpc": 32.55,
+      "cpm": 2155.7
+    },
+    {
+      "name": "Campaign_295",
+      "total_impressions": 140,
+      "total_clicks": 6.0,
+      "cpc": 52.92,
+      "cpm": 2267.93
+    },
+    {
+      "name": "Campaign_962",
+      "total_impressions": 161,
+      "total_clicks": 4.0,
+      "cpc": 91.99,
+      "cpm": 2285.53
+    },
+    {
+      "name": "Campaign_792",
+      "total_impressions": 140,
+      "total_clicks": 8.0,
+      "cpc": 39.6,
+      "cpm": 2262.64
+    },
+    {
+      "name": "Campaign_528",
+      "total_impressions": 286,
+      "total_clicks": 11.0,
+      "cpc": 59.69,
+      "cpm": 2295.8
+    },
+    {
+      "name": "Campaign_1013",
+      "total_impressions": 139,
+      "total_clicks": 4.0,
+      "cpc": 82.48,
+      "cpm": 2373.53
+    },
+    {
+      "name": "Campaign_83",
+      "total_impressions": 138,
+      "total_clicks": 4.0,
+      "cpc": 77.61,
+      "cpm": 2249.57
+    },
+    {
+      "name": "Campaign_288",
+      "total_impressions": 141,
+      "total_clicks": 6.0,
+      "cpc": 51.46,
+      "cpm": 2189.86
+    },
+    {
+      "name": "Campaign_595",
+      "total_impressions": 122,
+      "total_clicks": 10.0,
+      "cpc": 29.26,
+      "cpm": 2398.69
+    },
+    {
+      "name": "Campaign_252",
+      "total_impressions": 147,
+      "total_clicks": 10.0,
+      "cpc": 33.25,
+      "cpm": 2261.77
+    },
+    {
+      "name": "Campaign_641",
+      "total_impressions": 151,
+      "total_clicks": 8.0,
+      "cpc": 45.74,
+      "cpm": 2423.38
+    },
+    {
+      "name": "Campaign_456",
+      "total_impressions": 155,
+      "total_clicks": 13.0,
+      "cpc": 27.95,
+      "cpm": 2343.94
+    },
+    {
+      "name": "Campaign_171",
+      "total_impressions": 132,
+      "total_clicks": 6.0,
+      "cpc": 51.56,
+      "cpm": 2343.48
+    },
+    {
+      "name": "Campaign_88",
+      "total_impressions": 127,
+      "total_clicks": 4.0,
+      "cpc": 76.71,
+      "cpm": 2415.98
+    },
+    {
+      "name": "Campaign_314",
+      "total_impressions": 116,
+      "total_clicks": 6.0,
+      "cpc": 43.36,
+      "cpm": 2242.67
+    },
+    {
+      "name": "Campaign_939",
+      "total_impressions": 137,
+      "total_clicks": 6.0,
+      "cpc": 51.78,
+      "cpm": 2267.59
+    },
+    {
+      "name": "Campaign_263",
+      "total_impressions": 267,
+      "total_clicks": 10.0,
+      "cpc": 60.95,
+      "cpm": 2282.73
+    },
+    {
+      "name": "Campaign_860",
+      "total_impressions": 139,
+      "total_clicks": 7.0,
+      "cpc": 46.68,
+      "cpm": 2350.79
+    },
+    {
+      "name": "Campaign_47",
+      "total_impressions": 160,
+      "total_clicks": 8.0,
+      "cpc": 45.93,
+      "cpm": 2296.31
+    },
+    {
+      "name": "Campaign_739",
+      "total_impressions": 144,
+      "total_clicks": 8.0,
+      "cpc": 42.19,
+      "cpm": 2343.68
+    },
+    {
+      "name": "Campaign_147",
+      "total_impressions": 171,
+      "total_clicks": 15.0,
+      "cpc": 26.67,
+      "cpm": 2339.47
+    },
+    {
+      "name": "Campaign_93",
+      "total_impressions": 137,
+      "total_clicks": 5.0,
+      "cpc": 58.59,
+      "cpm": 2138.39
+    },
+    {
+      "name": "Campaign_393",
+      "total_impressions": 146,
+      "total_clicks": 7.0,
+      "cpc": 43.34,
+      "cpm": 2078.15
+    },
+    {
+      "name": "Campaign_654",
+      "total_impressions": 164,
+      "total_clicks": 9.0,
+      "cpc": 40.24,
+      "cpm": 2208.11
+    },
+    {
+      "name": "Campaign_507",
+      "total_impressions": 139,
+      "total_clicks": 6.0,
+      "cpc": 48.06,
+      "cpm": 2074.68
+    },
+    {
+      "name": "Campaign_532",
+      "total_impressions": 133,
+      "total_clicks": 4.0,
+      "cpc": 71.24,
+      "cpm": 2142.56
+    },
+    {
+      "name": "Campaign_926",
+      "total_impressions": 171,
+      "total_clicks": 9.0,
+      "cpc": 42.59,
+      "cpm": 2241.58
+    },
+    {
+      "name": "Campaign_41",
+      "total_impressions": 160,
+      "total_clicks": 12.0,
+      "cpc": 29.91,
+      "cpm": 2243.13
+    },
+    {
+      "name": "Campaign_891",
+      "total_impressions": 163,
+      "total_clicks": 10.0,
+      "cpc": 37.18,
+      "cpm": 2281.23
+    },
+    {
+      "name": "Campaign_602",
+      "total_impressions": 148,
+      "total_clicks": 4.0,
+      "cpc": 85.74,
+      "cpm": 2317.3
+    },
+    {
+      "name": "Campaign_933",
+      "total_impressions": 149,
+      "total_clicks": 7.0,
+      "cpc": 47.58,
+      "cpm": 2235.5
+    },
+    {
+      "name": "Campaign_964",
+      "total_impressions": 148,
+      "total_clicks": 9.0,
+      "cpc": 38.04,
+      "cpm": 2313.24
+    },
+    {
+      "name": "Campaign_486",
+      "total_impressions": 342,
+      "total_clicks": 19.0,
+      "cpc": 39.72,
+      "cpm": 2206.78
+    },
+    {
+      "name": "Campaign_394",
+      "total_impressions": 228,
+      "total_clicks": 5.0,
+      "cpc": 104.97,
+      "cpm": 2301.97
+    },
+    {
+      "name": "Campaign_897",
+      "total_impressions": 215,
+      "total_clicks": 14.0,
+      "cpc": 33.87,
+      "cpm": 2205.77
+    },
+    {
+      "name": "Campaign_258",
+      "total_impressions": 149,
+      "total_clicks": 6.0,
+      "cpc": 55.91,
+      "cpm": 2251.28
+    },
+    {
+      "name": "Campaign_884",
+      "total_impressions": 146,
+      "total_clicks": 7.0,
+      "cpc": 46.1,
+      "cpm": 2210.21
+    },
+    {
+      "name": "Campaign_795",
+      "total_impressions": 142,
+      "total_clicks": 10.0,
+      "cpc": 33.06,
+      "cpm": 2327.89
+    },
+    {
+      "name": "Campaign_996",
+      "total_impressions": 143,
+      "total_clicks": 6.0,
+      "cpc": 56.74,
+      "cpm": 2380.7
+    },
+    {
+      "name": "Campaign_585",
+      "total_impressions": 233,
+      "total_clicks": 9.0,
+      "cpc": 56.59,
+      "cpm": 2185.79
+    },
+    {
+      "name": "Campaign_14",
+      "total_impressions": 141,
+      "total_clicks": 6.0,
+      "cpc": 52.33,
+      "cpm": 2226.67
+    },
+    {
+      "name": "Campaign_601",
+      "total_impressions": 128,
+      "total_clicks": 7.0,
+      "cpc": 41.24,
+      "cpm": 2255.08
+    },
+    {
+      "name": "Campaign_463",
+      "total_impressions": 145,
+      "total_clicks": 4.0,
+      "cpc": 82.24,
+      "cpm": 2268.55
+    },
+    {
+      "name": "Campaign_580",
+      "total_impressions": 159,
+      "total_clicks": 14.0,
+      "cpc": 25.97,
+      "cpm": 2286.92
+    },
+    {
+      "name": "Campaign_636",
+      "total_impressions": 143,
+      "total_clicks": 12.0,
+      "cpc": 27.68,
+      "cpm": 2323.01
+    },
+    {
+      "name": "Campaign_158",
+      "total_impressions": 148,
+      "total_clicks": 5.0,
+      "cpc": 67.35,
+      "cpm": 2275.47
+    },
+    {
+      "name": "Campaign_635",
+      "total_impressions": 134,
+      "total_clicks": 8.0,
+      "cpc": 36.4,
+      "cpm": 2173.36
+    },
+    {
+      "name": "Campaign_539",
+      "total_impressions": 233,
+      "total_clicks": 11.0,
+      "cpc": 48.3,
+      "cpm": 2280.3
+    },
+    {
+      "name": "Campaign_493",
+      "total_impressions": 139,
+      "total_clicks": 5.0,
+      "cpc": 59.74,
+      "cpm": 2148.99
+    },
+    {
+      "name": "Campaign_324",
+      "total_impressions": 137,
+      "total_clicks": 4.0,
+      "cpc": 78.96,
+      "cpm": 2305.4
+    },
+    {
+      "name": "Campaign_981",
+      "total_impressions": 150,
+      "total_clicks": 8.0,
+      "cpc": 46.76,
+      "cpm": 2493.93
+    },
+    {
+      "name": "Campaign_535",
+      "total_impressions": 155,
+      "total_clicks": 6.0,
+      "cpc": 57.69,
+      "cpm": 2233.23
+    },
+    {
+      "name": "Campaign_305",
+      "total_impressions": 132,
+      "total_clicks": 7.0,
+      "cpc": 44.15,
+      "cpm": 2341.06
+    },
+    {
+      "name": "Campaign_448",
+      "total_impressions": 141,
+      "total_clicks": 10.0,
+      "cpc": 32.51,
+      "cpm": 2305.82
+    },
+    {
+      "name": "Campaign_678",
+      "total_impressions": 140,
+      "total_clicks": 5.0,
+      "cpc": 63.75,
+      "cpm": 2276.79
+    },
+    {
+      "name": "Campaign_781",
+      "total_impressions": 136,
+      "total_clicks": 7.0,
+      "cpc": 44.94,
+      "cpm": 2312.87
+    },
+    {
+      "name": "Campaign_669",
+      "total_impressions": 162,
+      "total_clicks": 8.0,
+      "cpc": 46.25,
+      "cpm": 2284.14
+    },
+    {
+      "name": "Campaign_469",
+      "total_impressions": 142,
+      "total_clicks": 9.0,
+      "cpc": 36.93,
+      "cpm": 2340.35
+    },
+    {
+      "name": "Campaign_205",
+      "total_impressions": 142,
+      "total_clicks": 6.0,
+      "cpc": 53.44,
+      "cpm": 2258.17
+    },
+    {
+      "name": "Campaign_446",
+      "total_impressions": 222,
+      "total_clicks": 12.0,
+      "cpc": 40.29,
+      "cpm": 2177.61
+    },
+    {
+      "name": "Campaign_283",
+      "total_impressions": 121,
+      "total_clicks": 1.0,
+      "cpc": 276.04,
+      "cpm": 2281.32
+    },
+    {
+      "name": "Campaign_3",
+      "total_impressions": 131,
+      "total_clicks": 5.0,
+      "cpc": 54.05,
+      "cpm": 2062.82
+    },
+    {
+      "name": "Campaign_312",
+      "total_impressions": 134,
+      "total_clicks": 5.0,
+      "cpc": 63.28,
+      "cpm": 2361.04
+    },
+    {
+      "name": "Campaign_279",
+      "total_impressions": 144,
+      "total_clicks": 10.0,
+      "cpc": 33.44,
+      "cpm": 2321.94
+    },
+    {
+      "name": "Campaign_142",
+      "total_impressions": 127,
+      "total_clicks": 6.0,
+      "cpc": 47.27,
+      "cpm": 2232.99
+    },
+    {
+      "name": "Campaign_1000",
+      "total_impressions": 126,
+      "total_clicks": 7.0,
+      "cpc": 41.8,
+      "cpm": 2321.98
+    },
+    {
+      "name": "Campaign_270",
+      "total_impressions": 133,
+      "total_clicks": 6.0,
+      "cpc": 50.79,
+      "cpm": 2291.28
+    },
+    {
+      "name": "Campaign_479",
+      "total_impressions": 159,
+      "total_clicks": 8.0,
+      "cpc": 41.9,
+      "cpm": 2108.18
+    },
+    {
+      "name": "Campaign_853",
+      "total_impressions": 145,
+      "total_clicks": 9.0,
+      "cpc": 38.89,
+      "cpm": 2413.72
+    },
+    {
+      "name": "Campaign_718",
+      "total_impressions": 124,
+      "total_clicks": 6.0,
+      "cpc": 44.83,
+      "cpm": 2169.19
+    },
+    {
+      "name": "Campaign_113",
+      "total_impressions": 143,
+      "total_clicks": 8.0,
+      "cpc": 40.92,
+      "cpm": 2289.16
+    },
+    {
+      "name": "Campaign_379",
+      "total_impressions": 140,
+      "total_clicks": 3.0,
+      "cpc": 110.94,
+      "cpm": 2377.21
+    },
+    {
+      "name": "Campaign_139",
+      "total_impressions": 150,
+      "total_clicks": 9.0,
+      "cpc": 38.72,
+      "cpm": 2323.27
+    },
+    {
+      "name": "Campaign_405",
+      "total_impressions": 145,
+      "total_clicks": 7.0,
+      "cpc": 48.28,
+      "cpm": 2330.55
+    },
+    {
+      "name": "Campaign_683",
+      "total_impressions": 152,
+      "total_clicks": 7.0,
+      "cpc": 50.74,
+      "cpm": 2336.58
+    },
+    {
+      "name": "Campaign_730",
+      "total_impressions": 137,
+      "total_clicks": 6.0,
+      "cpc": 53.67,
+      "cpm": 2350.51
+    },
+    {
+      "name": "Campaign_1008",
+      "total_impressions": 143,
+      "total_clicks": 8.0,
+      "cpc": 38.63,
+      "cpm": 2161.05
+    },
+    {
+      "name": "Campaign_459",
+      "total_impressions": 130,
+      "total_clicks": 3.0,
+      "cpc": 107.88,
+      "cpm": 2489.46
+    },
+    {
+      "name": "Campaign_178",
+      "total_impressions": 145,
+      "total_clicks": 5.0,
+      "cpc": 64.53,
+      "cpm": 2225.24
+    },
+    {
+      "name": "Campaign_180",
+      "total_impressions": 150,
+      "total_clicks": 7.0,
+      "cpc": 51.48,
+      "cpm": 2402.53
+    },
+    {
+      "name": "Campaign_323",
+      "total_impressions": 152,
+      "total_clicks": 13.0,
+      "cpc": 25.9,
+      "cpm": 2215.2
+    },
+    {
+      "name": "Campaign_1005",
+      "total_impressions": 148,
+      "total_clicks": 8.0,
+      "cpc": 40.92,
+      "cpm": 2211.82
+    },
+    {
+      "name": "Campaign_86",
+      "total_impressions": 118,
+      "total_clicks": 4.0,
+      "cpc": 70.35,
+      "cpm": 2384.75
+    },
+    {
+      "name": "Campaign_593",
+      "total_impressions": 146,
+      "total_clicks": 7.0,
+      "cpc": 47.17,
+      "cpm": 2261.58
+    },
+    {
+      "name": "Campaign_581",
+      "total_impressions": 132,
+      "total_clicks": 7.0,
+      "cpc": 44.96,
+      "cpm": 2384.02
+    },
+    {
+      "name": "Campaign_834",
+      "total_impressions": 134,
+      "total_clicks": 4.0,
+      "cpc": 75.24,
+      "cpm": 2245.97
+    },
+    {
+      "name": "Campaign_131",
+      "total_impressions": 159,
+      "total_clicks": 7.0,
+      "cpc": 48.36,
+      "cpm": 2129.12
+    },
+    {
+      "name": "Campaign_186",
+      "total_impressions": 171,
+      "total_clicks": 12.0,
+      "cpc": 31.76,
+      "cpm": 2229.06
+    },
+    {
+      "name": "Campaign_346",
+      "total_impressions": 140,
+      "total_clicks": 6.0,
+      "cpc": 56.01,
+      "cpm": 2400.36
+    },
+    {
+      "name": "Campaign_276",
+      "total_impressions": 129,
+      "total_clicks": 6.0,
+      "cpc": 48.24,
+      "cpm": 2243.8
+    },
+    {
+      "name": "Campaign_734",
+      "total_impressions": 148,
+      "total_clicks": 6.0,
+      "cpc": 56.3,
+      "cpm": 2282.3
+    },
+    {
+      "name": "Campaign_847",
+      "total_impressions": 155,
+      "total_clicks": 5.0,
+      "cpc": 71.9,
+      "cpm": 2319.35
+    },
+    {
+      "name": "Campaign_28",
+      "total_impressions": 141,
+      "total_clicks": 9.0,
+      "cpc": 34.67,
+      "cpm": 2213.26
+    },
+    {
+      "name": "Campaign_786",
+      "total_impressions": 160,
+      "total_clicks": 7.0,
+      "cpc": 51.38,
+      "cpm": 2247.81
+    },
+    {
+      "name": "Campaign_167",
+      "total_impressions": 154,
+      "total_clicks": 9.0,
+      "cpc": 35.65,
+      "cpm": 2083.31
+    },
+    {
+      "name": "Campaign_328",
+      "total_impressions": 126,
+      "total_clicks": 9.0,
+      "cpc": 31.76,
+      "cpm": 2268.41
+    },
+    {
+      "name": "Campaign_959",
+      "total_impressions": 144,
+      "total_clicks": 7.0,
+      "cpc": 47.99,
+      "cpm": 2333.06
+    },
+    {
+      "name": "Campaign_247",
+      "total_impressions": 124,
+      "total_clicks": 10.0,
+      "cpc": 29.27,
+      "cpm": 2360.73
+    },
+    {
+      "name": "Campaign_189",
+      "total_impressions": 130,
+      "total_clicks": 9.0,
+      "cpc": 33.09,
+      "cpm": 2291.15
+    },
+    {
+      "name": "Campaign_163",
+      "total_impressions": 139,
+      "total_clicks": 11.0,
+      "cpc": 27.31,
+      "cpm": 2161.29
+    },
+    {
+      "name": "Campaign_850",
+      "total_impressions": 145,
+      "total_clicks": 12.0,
+      "cpc": 28.89,
+      "cpm": 2390.69
+    },
+    {
+      "name": "Campaign_478",
+      "total_impressions": 286,
+      "total_clicks": 14.0,
+      "cpc": 45.0,
+      "cpm": 2202.87
+    },
+    {
+      "name": "Campaign_679",
+      "total_impressions": 135,
+      "total_clicks": 6.0,
+      "cpc": 49.41,
+      "cpm": 2196.0
+    },
+    {
+      "name": "Campaign_902",
+      "total_impressions": 150,
+      "total_clicks": 8.0,
+      "cpc": 42.21,
+      "cpm": 2251.27
+    },
+    {
+      "name": "Campaign_687",
+      "total_impressions": 146,
+      "total_clicks": 7.0,
+      "cpc": 45.89,
+      "cpm": 2200.14
+    },
+    {
+      "name": "Campaign_927",
+      "total_impressions": 277,
+      "total_clicks": 12.0,
+      "cpc": 53.11,
+      "cpm": 2300.65
+    },
+    {
+      "name": "Campaign_144",
+      "total_impressions": 152,
+      "total_clicks": 9.0,
+      "cpc": 37.52,
+      "cpm": 2221.45
+    },
+    {
+      "name": "Campaign_408",
+      "total_impressions": 138,
+      "total_clicks": 3.0,
+      "cpc": 108.72,
+      "cpm": 2363.41
+    },
+    {
+      "name": "Campaign_112",
+      "total_impressions": 165,
+      "total_clicks": 6.0,
+      "cpc": 62.93,
+      "cpm": 2288.48
+    },
+    {
+      "name": "Campaign_344",
+      "total_impressions": 410,
+      "total_clicks": 22.0,
+      "cpc": 41.33,
+      "cpm": 2217.73
+    },
+    {
+      "name": "Campaign_715",
+      "total_impressions": 130,
+      "total_clicks": 6.0,
+      "cpc": 49.08,
+      "cpm": 2265.31
+    },
+    {
+      "name": "Campaign_290",
+      "total_impressions": 144,
+      "total_clicks": 10.0,
+      "cpc": 31.79,
+      "cpm": 2207.71
+    },
+    {
+      "name": "Campaign_454",
+      "total_impressions": 152,
+      "total_clicks": 5.0,
+      "cpc": 63.21,
+      "cpm": 2079.14
+    },
+    {
+      "name": "Campaign_261",
+      "total_impressions": 169,
+      "total_clicks": 9.0,
+      "cpc": 41.59,
+      "cpm": 2215.03
+    },
+    {
+      "name": "Campaign_633",
+      "total_impressions": 443,
+      "total_clicks": 23.0,
+      "cpc": 45.06,
+      "cpm": 2339.35
+    },
+    {
+      "name": "Campaign_262",
+      "total_impressions": 150,
+      "total_clicks": 5.0,
+      "cpc": 61.08,
+      "cpm": 2035.87
+    },
+    {
+      "name": "Campaign_453",
+      "total_impressions": 150,
+      "total_clicks": 16.0,
+      "cpc": 21.53,
+      "cpm": 2297.0
+    },
+    {
+      "name": "Campaign_731",
+      "total_impressions": 163,
+      "total_clicks": 8.0,
+      "cpc": 43.23,
+      "cpm": 2121.78
+    },
+    {
+      "name": "Campaign_699",
+      "total_impressions": 110,
+      "total_clicks": 7.0,
+      "cpc": 37.26,
+      "cpm": 2370.91
+    },
+    {
+      "name": "Campaign_997",
+      "total_impressions": 126,
+      "total_clicks": 4.0,
+      "cpc": 71.31,
+      "cpm": 2263.73
+    },
+    {
+      "name": "Campaign_434",
+      "total_impressions": 422,
+      "total_clicks": 28.0,
+      "cpc": 33.06,
+      "cpm": 2193.74
+    },
+    {
+      "name": "Campaign_331",
+      "total_impressions": 148,
+      "total_clicks": 5.0,
+      "cpc": 66.72,
+      "cpm": 2254.05
+    },
+    {
+      "name": "Campaign_504",
+      "total_impressions": 130,
+      "total_clicks": 7.0,
+      "cpc": 38.15,
+      "cpm": 2054.46
+    },
+    {
+      "name": "Campaign_606",
+      "total_impressions": 137,
+      "total_clicks": 4.0,
+      "cpc": 77.93,
+      "cpm": 2275.18
+    },
+    {
+      "name": "Campaign_546",
+      "total_impressions": 136,
+      "total_clicks": 6.0,
+      "cpc": 51.96,
+      "cpm": 2292.21
+    },
+    {
+      "name": "Campaign_432",
+      "total_impressions": 118,
+      "total_clicks": 9.0,
+      "cpc": 28.97,
+      "cpm": 2209.92
+    },
+    {
+      "name": "Campaign_101",
+      "total_impressions": 152,
+      "total_clicks": 13.0,
+      "cpc": 26.29,
+      "cpm": 2248.36
+    },
+    {
+      "name": "Campaign_838",
+      "total_impressions": 135,
+      "total_clicks": 10.0,
+      "cpc": 30.9,
+      "cpm": 2288.67
+    },
+    {
+      "name": "Campaign_338",
+      "total_impressions": 152,
+      "total_clicks": 9.0,
+      "cpc": 39.24,
+      "cpm": 2323.29
+    },
+    {
+      "name": "Campaign_306",
+      "total_impressions": 134,
+      "total_clicks": 10.0,
+      "cpc": 28.79,
+      "cpm": 2148.21
+    },
+    {
+      "name": "Campaign_398",
+      "total_impressions": 133,
+      "total_clicks": 5.0,
+      "cpc": 59.0,
+      "cpm": 2218.2
+    },
+    {
+      "name": "Campaign_600",
+      "total_impressions": 133,
+      "total_clicks": 7.0,
+      "cpc": 44.84,
+      "cpm": 2360.0
+    },
+    {
+      "name": "Campaign_560",
+      "total_impressions": 149,
+      "total_clicks": 5.0,
+      "cpc": 69.18,
+      "cpm": 2321.54
+    },
+    {
+      "name": "Campaign_212",
+      "total_impressions": 148,
+      "total_clicks": 5.0,
+      "cpc": 70.83,
+      "cpm": 2393.04
+    },
+    {
+      "name": "Campaign_703",
+      "total_impressions": 314,
+      "total_clicks": 22.0,
+      "cpc": 33.34,
+      "cpm": 2336.24
+    },
+    {
+      "name": "Campaign_433",
+      "total_impressions": 241,
+      "total_clicks": 12.0,
+      "cpc": 49.21,
+      "cpm": 2450.5
+    },
+    {
+      "name": "Campaign_924",
+      "total_impressions": 140,
+      "total_clicks": 9.0,
+      "cpc": 37.18,
+      "cpm": 2390.29
+    },
+    {
+      "name": "Campaign_63",
+      "total_impressions": 142,
+      "total_clicks": 8.0,
+      "cpc": 39.99,
+      "cpm": 2252.89
+    },
+    {
+      "name": "Campaign_420",
+      "total_impressions": 135,
+      "total_clicks": 8.0,
+      "cpc": 38.54,
+      "cpm": 2283.63
+    },
+    {
+      "name": "Campaign_893",
+      "total_impressions": 152,
+      "total_clicks": 5.0,
+      "cpc": 71.9,
+      "cpm": 2365.2
+    },
+    {
+      "name": "Campaign_387",
+      "total_impressions": 137,
+      "total_clicks": 5.0,
+      "cpc": 61.11,
+      "cpm": 2230.22
+    },
+    {
+      "name": "Campaign_143",
+      "total_impressions": 142,
+      "total_clicks": 10.0,
+      "cpc": 32.32,
+      "cpm": 2275.77
+    },
+    {
+      "name": "Campaign_525",
+      "total_impressions": 137,
+      "total_clicks": 8.0,
+      "cpc": 41.31,
+      "cpm": 2412.26
+    },
+    {
+      "name": "Campaign_545",
+      "total_impressions": 129,
+      "total_clicks": 5.0,
+      "cpc": 59.78,
+      "cpm": 2316.98
+    },
+    {
+      "name": "Campaign_13",
+      "total_impressions": 132,
+      "total_clicks": 6.0,
+      "cpc": 47.18,
+      "cpm": 2144.47
+    },
+    {
+      "name": "Campaign_228",
+      "total_impressions": 144,
+      "total_clicks": 4.0,
+      "cpc": 79.88,
+      "cpm": 2218.82
+    },
+    {
+      "name": "Campaign_155",
+      "total_impressions": 152,
+      "total_clicks": 10.0,
+      "cpc": 35.09,
+      "cpm": 2308.42
+    },
+    {
+      "name": "Campaign_435",
+      "total_impressions": 144,
+      "total_clicks": 9.0,
+      "cpc": 34.59,
+      "cpm": 2161.81
+    },
+    {
+      "name": "Campaign_875",
+      "total_impressions": 128,
+      "total_clicks": 6.0,
+      "cpc": 43.77,
+      "cpm": 2051.8
+    },
+    {
+      "name": "Campaign_726",
+      "total_impressions": 138,
+      "total_clicks": 9.0,
+      "cpc": 35.53,
+      "cpm": 2317.39
+    },
+    {
+      "name": "Campaign_651",
+      "total_impressions": 161,
+      "total_clicks": 8.0,
+      "cpc": 46.04,
+      "cpm": 2287.64
+    },
+    {
+      "name": "Campaign_748",
+      "total_impressions": 137,
+      "total_clicks": 8.0,
+      "cpc": 40.7,
+      "cpm": 2376.42
+    },
+    {
+      "name": "Campaign_782",
+      "total_impressions": 145,
+      "total_clicks": 6.0,
+      "cpc": 54.1,
+      "cpm": 2238.62
+    },
+    {
+      "name": "Campaign_224",
+      "total_impressions": 141,
+      "total_clicks": 2.0,
+      "cpc": 160.63,
+      "cpm": 2278.44
+    },
+    {
+      "name": "Campaign_16",
+      "total_impressions": 155,
+      "total_clicks": 5.0,
+      "cpc": 74.02,
+      "cpm": 2387.87
+    },
+    {
+      "name": "Campaign_762",
+      "total_impressions": 167,
+      "total_clicks": 6.0,
+      "cpc": 64.03,
+      "cpm": 2300.36
+    },
+    {
+      "name": "Campaign_273",
+      "total_impressions": 126,
+      "total_clicks": 7.0,
+      "cpc": 42.45,
+      "cpm": 2358.33
+    },
+    {
+      "name": "Campaign_217",
+      "total_impressions": 158,
+      "total_clicks": 4.0,
+      "cpc": 91.38,
+      "cpm": 2313.42
+    },
+    {
+      "name": "Campaign_215",
+      "total_impressions": 140,
+      "total_clicks": 5.0,
+      "cpc": 65.05,
+      "cpm": 2323.07
+    },
+    {
+      "name": "Campaign_325",
+      "total_impressions": 141,
+      "total_clicks": 6.0,
+      "cpc": 49.02,
+      "cpm": 2085.74
+    },
+    {
+      "name": "Campaign_203",
+      "total_impressions": 154,
+      "total_clicks": 7.0,
+      "cpc": 48.26,
+      "cpm": 2193.64
+    },
+    {
+      "name": "Campaign_889",
+      "total_impressions": 136,
+      "total_clicks": 5.0,
+      "cpc": 60.1,
+      "cpm": 2209.49
+    },
+    {
+      "name": "Campaign_801",
+      "total_impressions": 143,
+      "total_clicks": 9.0,
+      "cpc": 38.3,
+      "cpm": 2410.7
+    },
+    {
+      "name": "Campaign_359",
+      "total_impressions": 149,
+      "total_clicks": 6.0,
+      "cpc": 61.88,
+      "cpm": 2491.95
+    },
+    {
+      "name": "Campaign_149",
+      "total_impressions": 138,
+      "total_clicks": 7.0,
+      "cpc": 43.02,
+      "cpm": 2182.17
+    },
+    {
+      "name": "Campaign_936",
+      "total_impressions": 146,
+      "total_clicks": 4.0,
+      "cpc": 82.37,
+      "cpm": 2256.58
+    },
+    {
+      "name": "Campaign_958",
+      "total_impressions": 149,
+      "total_clicks": 6.0,
+      "cpc": 57.3,
+      "cpm": 2307.25
+    },
+    {
+      "name": "Campaign_361",
+      "total_impressions": 126,
+      "total_clicks": 8.0,
+      "cpc": 36.51,
+      "cpm": 2317.94
+    },
+    {
+      "name": "Campaign_820",
+      "total_impressions": 171,
+      "total_clicks": 5.0,
+      "cpc": 77.94,
+      "cpm": 2279.06
+    },
+    {
+      "name": "Campaign_623",
+      "total_impressions": 151,
+      "total_clicks": 12.0,
+      "cpc": 28.06,
+      "cpm": 2229.87
+    },
+    {
+      "name": "Campaign_80",
+      "total_impressions": 211,
+      "total_clicks": 9.0,
+      "cpc": 57.09,
+      "cpm": 2435.31
+    },
+    {
+      "name": "Campaign_193",
+      "total_impressions": 146,
+      "total_clicks": 6.0,
+      "cpc": 49.45,
+      "cpm": 2032.05
+    },
+    {
+      "name": "Campaign_690",
+      "total_impressions": 133,
+      "total_clicks": 8.0,
+      "cpc": 38.52,
+      "cpm": 2316.77
+    },
+    {
+      "name": "Campaign_754",
+      "total_impressions": 161,
+      "total_clicks": 7.0,
+      "cpc": 48.42,
+      "cpm": 2105.22
+    },
+    {
+      "name": "Campaign_99",
+      "total_impressions": 139,
+      "total_clicks": 4.0,
+      "cpc": 79.8,
+      "cpm": 2296.26
+    },
+    {
+      "name": "Campaign_993",
+      "total_impressions": 144,
+      "total_clicks": 6.0,
+      "cpc": 57.72,
+      "cpm": 2405.07
+    },
+    {
+      "name": "Campaign_77",
+      "total_impressions": 158,
+      "total_clicks": 12.0,
+      "cpc": 29.75,
+      "cpm": 2259.75
+    },
+    {
+      "name": "Campaign_852",
+      "total_impressions": 213,
+      "total_clicks": 11.0,
+      "cpc": 43.39,
+      "cpm": 2240.7
+    },
+    {
+      "name": "Campaign_880",
+      "total_impressions": 143,
+      "total_clicks": 6.0,
+      "cpc": 53.86,
+      "cpm": 2259.72
+    },
+    {
+      "name": "Campaign_334",
+      "total_impressions": 156,
+      "total_clicks": 10.0,
+      "cpc": 35.2,
+      "cpm": 2256.67
+    },
+    {
+      "name": "Campaign_745",
+      "total_impressions": 142,
+      "total_clicks": 8.0,
+      "cpc": 39.51,
+      "cpm": 2225.99
+    },
+    {
+      "name": "Campaign_220",
+      "total_impressions": 183,
+      "total_clicks": 8.0,
+      "cpc": 51.3,
+      "cpm": 2242.51
+    },
+    {
+      "name": "Campaign_138",
+      "total_impressions": 141,
+      "total_clicks": 5.0,
+      "cpc": 65.44,
+      "cpm": 2320.43
+    },
+    {
+      "name": "Campaign_146",
+      "total_impressions": 127,
+      "total_clicks": 8.0,
+      "cpc": 38.19,
+      "cpm": 2405.83
+    },
+    {
+      "name": "Campaign_165",
+      "total_impressions": 140,
+      "total_clicks": 6.0,
+      "cpc": 54.11,
+      "cpm": 2318.93
+    },
+    {
+      "name": "Campaign_329",
+      "total_impressions": 148,
+      "total_clicks": 11.0,
+      "cpc": 30.39,
+      "cpm": 2258.78
+    },
+    {
+      "name": "Campaign_550",
+      "total_impressions": 150,
+      "total_clicks": 7.0,
+      "cpc": 49.29,
+      "cpm": 2300.33
+    },
+    {
+      "name": "Campaign_427",
+      "total_impressions": 120,
+      "total_clicks": 5.0,
+      "cpc": 53.69,
+      "cpm": 2237.0
+    },
+    {
+      "name": "Campaign_428",
+      "total_impressions": 127,
+      "total_clicks": 13.0,
+      "cpc": 20.93,
+      "cpm": 2142.83
+    },
+    {
+      "name": "Campaign_509",
+      "total_impressions": 147,
+      "total_clicks": 8.0,
+      "cpc": 41.36,
+      "cpm": 2251.02
+    },
+    {
+      "name": "Campaign_353",
+      "total_impressions": 142,
+      "total_clicks": 8.0,
+      "cpc": 39.39,
+      "cpm": 2218.87
+    },
+    {
+      "name": "Campaign_221",
+      "total_impressions": 143,
+      "total_clicks": 10.0,
+      "cpc": 30.32,
+      "cpm": 2120.07
+    },
+    {
+      "name": "Campaign_21",
+      "total_impressions": 142,
+      "total_clicks": 4.0,
+      "cpc": 81.56,
+      "cpm": 2297.46
+    },
+    {
+      "name": "Campaign_484",
+      "total_impressions": 164,
+      "total_clicks": 7.0,
+      "cpc": 52.09,
+      "cpm": 2223.35
+    },
+    {
+      "name": "Campaign_426",
+      "total_impressions": 157,
+      "total_clicks": 4.0,
+      "cpc": 85.74,
+      "cpm": 2184.39
+    },
+    {
+      "name": "Campaign_383",
+      "total_impressions": 134,
+      "total_clicks": 6.0,
+      "cpc": 48.91,
+      "cpm": 2190.0
+    },
+    {
+      "name": "Campaign_627",
+      "total_impressions": 142,
+      "total_clicks": 4.0,
+      "cpc": 76.05,
+      "cpm": 2142.11
+    },
+    {
+      "name": "Campaign_173",
+      "total_impressions": 154,
+      "total_clicks": 6.0,
+      "cpc": 55.61,
+      "cpm": 2166.49
+    },
+    {
+      "name": "Campaign_797",
+      "total_impressions": 139,
+      "total_clicks": 5.0,
+      "cpc": 62.38,
+      "cpm": 2243.96
+    },
+    {
+      "name": "Campaign_751",
+      "total_impressions": 154,
+      "total_clicks": 8.0,
+      "cpc": 42.22,
+      "cpm": 2193.44
+    },
+    {
+      "name": "Campaign_758",
+      "total_impressions": 167,
+      "total_clicks": 9.0,
+      "cpc": 44.09,
+      "cpm": 2376.35
+    },
+    {
+      "name": "Campaign_775",
+      "total_impressions": 134,
+      "total_clicks": 4.0,
+      "cpc": 71.99,
+      "cpm": 2148.88
+    },
+    {
+      "name": "Campaign_763",
+      "total_impressions": 155,
+      "total_clicks": 2.0,
+      "cpc": 175.75,
+      "cpm": 2267.68
+    },
+    {
+      "name": "Campaign_588",
+      "total_impressions": 140,
+      "total_clicks": 9.0,
+      "cpc": 37.03,
+      "cpm": 2380.71
+    },
+    {
+      "name": "Campaign_356",
+      "total_impressions": 131,
+      "total_clicks": 2.0,
+      "cpc": 150.31,
+      "cpm": 2294.81
+    },
+    {
+      "name": "Campaign_1011",
+      "total_impressions": 138,
+      "total_clicks": 7.0,
+      "cpc": 43.7,
+      "cpm": 2216.52
+    },
+    {
+      "name": "Campaign_374",
+      "total_impressions": 149,
+      "total_clicks": 11.0,
+      "cpc": 32.42,
+      "cpm": 2393.42
+    },
+    {
+      "name": "Campaign_452",
+      "total_impressions": 132,
+      "total_clicks": 8.0,
+      "cpc": 37.94,
+      "cpm": 2299.55
+    },
+    {
+      "name": "Campaign_251",
+      "total_impressions": 156,
+      "total_clicks": 9.0,
+      "cpc": 39.66,
+      "cpm": 2287.95
+    },
+    {
+      "name": "Campaign_367",
+      "total_impressions": 138,
+      "total_clicks": 6.0,
+      "cpc": 55.76,
+      "cpm": 2424.49
+    },
+    {
+      "name": "Campaign_976",
+      "total_impressions": 142,
+      "total_clicks": 4.0,
+      "cpc": 78.66,
+      "cpm": 2215.85
+    },
+    {
+      "name": "Campaign_335",
+      "total_impressions": 146,
+      "total_clicks": 6.0,
+      "cpc": 54.15,
+      "cpm": 2225.34
+    },
+    {
+      "name": "Campaign_846",
+      "total_impressions": 155,
+      "total_clicks": 15.0,
+      "cpc": 23.36,
+      "cpm": 2260.65
+    },
+    {
+      "name": "Campaign_271",
+      "total_impressions": 128,
+      "total_clicks": 3.0,
+      "cpc": 98.86,
+      "cpm": 2317.11
+    },
+    {
+      "name": "Campaign_522",
+      "total_impressions": 156,
+      "total_clicks": 9.0,
+      "cpc": 39.03,
+      "cpm": 2251.6
+    },
+    {
+      "name": "Campaign_515",
+      "total_impressions": 145,
+      "total_clicks": 9.0,
+      "cpc": 34.83,
+      "cpm": 2162.14
+    },
+    {
+      "name": "Campaign_417",
+      "total_impressions": 121,
+      "total_clicks": 4.0,
+      "cpc": 69.12,
+      "cpm": 2285.04
+    },
+    {
+      "name": "Campaign_402",
+      "total_impressions": 134,
+      "total_clicks": 4.0,
+      "cpc": 81.18,
+      "cpm": 2423.13
+    },
+    {
+      "name": "Campaign_648",
+      "total_impressions": 151,
+      "total_clicks": 6.0,
+      "cpc": 63.92,
+      "cpm": 2539.87
+    },
+    {
+      "name": "Campaign_870",
+      "total_impressions": 153,
+      "total_clicks": 12.0,
+      "cpc": 28.68,
+      "cpm": 2249.54
+    },
+    {
+      "name": "Campaign_752",
+      "total_impressions": 152,
+      "total_clicks": 14.0,
+      "cpc": 25.71,
+      "cpm": 2367.57
+    },
+    {
+      "name": "Campaign_265",
+      "total_impressions": 110,
+      "total_clicks": 4.0,
+      "cpc": 63.3,
+      "cpm": 2301.73
+    },
+    {
+      "name": "Campaign_516",
+      "total_impressions": 143,
+      "total_clicks": 6.0,
+      "cpc": 57.8,
+      "cpm": 2425.24
+    },
+    {
+      "name": "Campaign_932",
+      "total_impressions": 181,
+      "total_clicks": 9.0,
+      "cpc": 48.27,
+      "cpm": 2400.39
+    },
+    {
+      "name": "Campaign_586",
+      "total_impressions": 141,
+      "total_clicks": 8.0,
+      "cpc": 41.46,
+      "cpm": 2352.48
+    },
+    {
+      "name": "Campaign_727",
+      "total_impressions": 140,
+      "total_clicks": 7.0,
+      "cpc": 44.82,
+      "cpm": 2241.07
+    },
+    {
+      "name": "Campaign_942",
+      "total_impressions": 140,
+      "total_clicks": 10.0,
+      "cpc": 30.31,
+      "cpm": 2165.21
+    },
+    {
+      "name": "Campaign_982",
+      "total_impressions": 136,
+      "total_clicks": 8.0,
+      "cpc": 37.14,
+      "cpm": 2184.41
+    },
+    {
+      "name": "Campaign_836",
+      "total_impressions": 140,
+      "total_clicks": 5.0,
+      "cpc": 67.67,
+      "cpm": 2416.71
+    },
+    {
+      "name": "Campaign_377",
+      "total_impressions": 149,
+      "total_clicks": 3.0,
+      "cpc": 114.34,
+      "cpm": 2302.15
+    },
+    {
+      "name": "Campaign_686",
+      "total_impressions": 160,
+      "total_clicks": 8.0,
+      "cpc": 46.28,
+      "cpm": 2314.13
+    },
+    {
+      "name": "Campaign_785",
+      "total_impressions": 152,
+      "total_clicks": 7.0,
+      "cpc": 46.81,
+      "cpm": 2155.86
+    },
+    {
+      "name": "Campaign_496",
+      "total_impressions": 147,
+      "total_clicks": 6.0,
+      "cpc": 55.12,
+      "cpm": 2249.59
+    },
+    {
+      "name": "Campaign_292",
+      "total_impressions": 241,
+      "total_clicks": 13.0,
+      "cpc": 44.26,
+      "cpm": 2387.26
+    },
+    {
+      "name": "Campaign_907",
+      "total_impressions": 136,
+      "total_clicks": 7.0,
+      "cpc": 43.86,
+      "cpm": 2257.5
+    },
+    {
+      "name": "Campaign_106",
+      "total_impressions": 130,
+      "total_clicks": 3.0,
+      "cpc": 104.41,
+      "cpm": 2409.54
+    },
+    {
+      "name": "Campaign_566",
+      "total_impressions": 125,
+      "total_clicks": 4.0,
+      "cpc": 69.53,
+      "cpm": 2224.8
+    },
+    {
+      "name": "Campaign_616",
+      "total_impressions": 155,
+      "total_clicks": 5.0,
+      "cpc": 67.71,
+      "cpm": 2184.26
+    },
+    {
+      "name": "Campaign_120",
+      "total_impressions": 138,
+      "total_clicks": 6.0,
+      "cpc": 53.31,
+      "cpm": 2317.97
+    },
+    {
+      "name": "Campaign_991",
+      "total_impressions": 147,
+      "total_clicks": 8.0,
+      "cpc": 44.11,
+      "cpm": 2400.75
+    },
+    {
+      "name": "Campaign_755",
+      "total_impressions": 281,
+      "total_clicks": 14.0,
+      "cpc": 47.64,
+      "cpm": 2373.35
+    },
+    {
+      "name": "Campaign_293",
+      "total_impressions": 123,
+      "total_clicks": 5.0,
+      "cpc": 58.35,
+      "cpm": 2372.03
+    },
+    {
+      "name": "Campaign_874",
+      "total_impressions": 149,
+      "total_clicks": 11.0,
+      "cpc": 31.81,
+      "cpm": 2348.39
+    },
+    {
+      "name": "Campaign_702",
+      "total_impressions": 138,
+      "total_clicks": 4.0,
+      "cpc": 73.43,
+      "cpm": 2128.26
+    },
+    {
+      "name": "Campaign_109",
+      "total_impressions": 138,
+      "total_clicks": 9.0,
+      "cpc": 37.67,
+      "cpm": 2457.03
+    },
+    {
+      "name": "Campaign_622",
+      "total_impressions": 159,
+      "total_clicks": 4.0,
+      "cpc": 89.8,
+      "cpm": 2259.18
+    },
+    {
+      "name": "Campaign_298",
+      "total_impressions": 141,
+      "total_clicks": 7.0,
+      "cpc": 44.9,
+      "cpm": 2229.08
+    },
+    {
+      "name": "Campaign_802",
+      "total_impressions": 138,
+      "total_clicks": 10.0,
+      "cpc": 30.41,
+      "cpm": 2203.62
+    }
+  ],
+  "task4_revenue_by_country": [
+    {
+      "country": " Germany",
+      "total_revenue": 11486.2
+    },
+    {
+      "country": " Australia",
+      "total_revenue": 11472.68
+    },
+    {
+      "country": " UK",
+      "total_revenue": 10756.42
+    },
+    {
+      "country": " USA",
+      "total_revenue": 10481.41
+    },
+    {
+      "country": " India",
+      "total_revenue": 10258.93
+    }
+  ],
+  "task5_user_engagement_revenue_top20": [
+    {
+      "user_id": "671406",
+      "location": "USA",
+      "device": "Tablet",
+      "total_revenue": 19.36
+    },
+    {
+      "user_id": "45066",
+      "location": "Germany",
+      "device": "Desktop",
+      "total_revenue": 18.35
+    },
+    {
+      "user_id": "244656",
+      "location": "Germany",
+      "device": "Desktop",
+      "total_revenue": 17.98
+    },
+    {
+      "user_id": "523780",
+      "location": "USA",
+      "device": "Desktop",
+      "total_revenue": 17.72
+    },
+    {
+      "user_id": "318187",
+      "location": "India",
+      "device": "Mobile",
+      "total_revenue": 16.9
+    },
+    {
+      "user_id": "160504",
+      "location": "Australia",
+      "device": "Mobile",
+      "total_revenue": 16.63
+    },
+    {
+      "user_id": "594198",
+      "location": "Germany",
+      "device": "Desktop",
+      "total_revenue": 15.7
+    },
+    {
+      "user_id": "220038",
+      "location": "Germany",
+      "device": "Desktop",
+      "total_revenue": 15.47
+    },
+    {
+      "user_id": "248836",
+      "location": "Germany",
+      "device": "Desktop",
+      "total_revenue": 15.33
+    },
+    {
+      "user_id": "514856",
+      "location": "Australia",
+      "device": "Mobile",
+      "total_revenue": 15.24
+    },
+    {
+      "user_id": "20862",
+      "location": "Australia",
+      "device": "Desktop",
+      "total_revenue": 15.19
+    },
+    {
+      "user_id": "556683",
+      "location": "India",
+      "device": "Desktop",
+      "total_revenue": 14.12
+    },
+    {
+      "user_id": "433494",
+      "location": "USA",
+      "device": "Desktop",
+      "total_revenue": 14.03
+    },
+    {
+      "user_id": "175096",
+      "location": "UK",
+      "device": "Desktop",
+      "total_revenue": 13.98
+    },
+    {
+      "user_id": "177372",
+      "location": "Germany",
+      "device": "Mobile",
+      "total_revenue": 13.9
+    },
+    {
+      "user_id": "292881",
+      "location": "Australia",
+      "device": "Mobile",
+      "total_revenue": 13.84
+    },
+    {
+      "user_id": "278907",
+      "location": "UK",
+      "device": "Mobile",
+      "total_revenue": 13.68
+    },
+    {
+      "user_id": "194454",
+      "location": "Australia",
+      "device": "Desktop",
+      "total_revenue": 13.41
+    },
+    {
+      "user_id": "378053",
+      "location": "USA",
+      "device": "Desktop",
+      "total_revenue": 13.36
+    },
+    {
+      "user_id": "687802",
+      "location": "Australia",
+      "device": "Mobile",
+      "total_revenue": 13.36
+    }
+  ],
+  "task6_budget_consumption_over80": [],
+  "task7_ctr_by_device": [
+    {
+      "device": "Tablet",
+      "ctr": 0.0499
+    },
+    {
+      "device": "Desktop",
+      "ctr": 0.0493
+    },
+    {
+      "device": "Mobile",
+      "ctr": 0.0486
+    }
+  ]
+}
