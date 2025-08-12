@@ -1,0 +1,61 @@
+version: "3.9"
+
+networks:
+  cass_lab_net:
+
+services:
+  cassandra_lab:
+    image: cassandra:4.1
+    container_name: cassandra_lab
+    ports:
+      - "9043:9042"              
+    environment:
+      CASSANDRA_CLUSTER_NAME: "cass_lab"
+      CASSANDRA_START_RPC: "true"
+      MAX_HEAP_SIZE: "512M"
+      HEAP_NEWSIZE: "128M"
+    volumes:
+      - cassandra_lab_data:/var/lib/cassandra
+    networks:
+      - cass_lab_net
+    healthcheck:
+      test: ["CMD-SHELL", "cqlsh -e 'DESCRIBE KEYSPACES' 127.0.0.1 9042 || exit 1"]
+      interval: 20s
+      timeout: 10s
+      retries: 20
+
+  redis_lab:
+    image: redis:7
+    container_name: redis_lab
+  
+    # ports:
+    #   - "6380:6379"
+    command: ["redis-server", "--appendonly", "yes"]
+    volumes:
+      - redis_lab_data:/data
+    networks:
+      - cass_lab_net
+
+  api:
+    build: ./api
+    container_name: cass_api
+    ports:
+      - "30081:8000"             
+    depends_on:
+      cassandra_lab:
+        condition: service_healthy
+      redis_lab:
+        condition: service_started
+    environment:
+      CASS_CONTACT_POINTS: "cassandra_lab"
+      CASS_PORT: "9042"
+      CASS_KEYSPACE: "amazon"
+      REDIS_HOST: "redis_lab"
+      REDIS_PORT: "6379"
+      CACHE_TTL_SECONDS: "300"
+    networks:
+      - cass_lab_net
+
+volumes:
+  cassandra_lab_data:
+  redis_lab_data:

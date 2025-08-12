@@ -1,0 +1,57 @@
+-- Query 1: CTR per campaign per day
+
+SELECT 
+    campaign_name,
+    total_impressions,
+    total_clicks,
+    ctr
+FROM campaign_performance;
+
+-------
+
+-- Query 2: Top 5 advertisers by total ad spend in the past 30 days.
+SELECT 
+    advertiser_name,
+    total_spend
+FROM advertisers
+WHERE mnth = '2024-12'
+LIMIT 5;
+
+----------
+
+-- Query 3: Last 10 ads seen by user 465518 in the past 30 days.
+SELECT date_event, ad_id, was_clicked
+FROM user_history
+WHERE user_id = {user_uuid}
+  AND date_event >= '2024-12-01' AND date_event <= '2024-12-30'
+ORDER BY date_event DESC
+LIMIT 10
+ALLOW FILTERING;
+
+-----------
+
+-- Query 4: Top 10 users with most clicks in the last 30 days.
+
+SELECT 
+    user_id,
+    total_clicks
+FROM most_active_users
+WHERE mnth = '2024-12'
+LIMIT 10;
+
+---------
+
+-- Query 5: Top 5 advertisers by spend in USA over the last 30 days.
+
+SELECT 
+    advertiser_name,
+    total_spend
+FROM advertisers_by_regions
+WHERE mnth = '2024-12' AND country = 'USA'
+LIMIT 5;
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+{
+  "user_id": "100000",
+  "age": 32,
+  "gender": "female",
+  "location": "Australia",
+  "interests": ["Fashion", "Travel"],  
+
+  "sessions": [
+    {
+      "session_id": "sess_2024-10-28_1",               
+      "device": "Mobile",
+      "start_time": { "$date": "2024-10-28T23:18:00Z" },  
+      "ad_interactions": [
+        {
+          "event_id": "evt_001",
+          "timestamp": { "$date": "2024-10-28T23:19:12Z" },
+          "ad_slot_id": 21,
+          "campaign": {
+            "campaign_id": 1,
+            "campaign_name": "Campaign_1",
+            "advertiser_name": "Advertiser_1",
+            "start_date": { "$date": "2024-10-05T00:00:00Z" },
+            "end_date": { "$date": "2024-11-16T00:00:00Z" },
+            "budget": 183204.2,
+            "remaining_budget": 183204.2,
+            "targeting": {
+              "criteria": "Age 26-46",
+              "interest": "Fashion",
+              "country": "Germany"
+            }
+          },
+          "bid_amount": 0.0350,
+          "ad_cost": 0.0500,
+          "ad_revenue": 0.4000,
+          "was_clicked": true,
+          "click_timestamp": { "$date": "2024-10-28T23:19:20Z" }
+        },
+        {
+          "event_id": "evt_002",
+          "timestamp": { "$date": "2024-10-28T23:22:10Z" },
+          "ad_slot_id": 22,
+          "campaign": {
+            "campaign_id": 2,
+            "campaign_name": "Campaign_2",
+            "advertiser_name": "Advertiser_10",
+            "start_date": { "$date": "2024-10-03T00:00:00Z" },
+            "end_date": { "$date": "2024-11-13T00:00:00Z" },
+            "budget": 81431.52,
+            "remaining_budget": 81431.52,
+            "targeting": {
+              "criteria": "Age 27-44",
+              "interest": "Travel",
+              "country": "India"
+            }
+          },
+          "bid_amount": 0.0400,
+          "ad_cost": 0.0600,
+          "ad_revenue": 0.0000,
+          "was_clicked": false,
+          "click_timestamp": null
+        }
+      ]
+    }
+  ]
+}

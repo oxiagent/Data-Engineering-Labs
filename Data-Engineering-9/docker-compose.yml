@@ -1,0 +1,19 @@
+services:
+  tweets_consumer:
+    build: ./consumer
+    container_name: tweets_consumer
+    environment:
+      BOOTSTRAP_SERVERS: "kafka:9092"
+      TOPIC: "tweets"
+      OUTPUT_DIR: "/data/output"
+      GROUP_ID: "tweets-consumer"
+    volumes:
+      - ./out:/data/output
+    networks:
+      - data-engineering-8_kafka_net
+    restart: unless-stopped
+
+networks:
+  data-engineering-8_kafka_net:
+    external: true
+    name: data-engineering-8_kafka_net

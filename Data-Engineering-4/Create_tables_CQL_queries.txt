@@ -1,0 +1,50 @@
+
+CREATE TABLE IF NOT EXISTS campaign_performance (
+    campaign_name TEXT,
+    total_impressions INT,
+    total_clicks INT,
+    ctr FLOAT,
+    PRIMARY KEY (campaign_name)
+);
+
+-----------------------------------------------------------------------------
+
+
+CREATE TABLE advertisers (
+    mnth TEXT,                  
+    advertiser_name TEXT,
+    total_spend DOUBLE,
+    PRIMARY KEY ((mnth), total_spend, advertiser_name)
+) WITH CLUSTERING ORDER BY (total_spend DESC);
+
+-----------------------------------------------------------------------------
+
+
+CREATE TABLE user_history (
+    user_id UUID,
+    date_event DATE,
+    ad_id UUID,
+    was_clicked BOOLEAN,
+    PRIMARY KEY (user_id, date_event)
+) WITH CLUSTERING ORDER BY (date_event DESC);
+
+-----------------------------------------------------------------------------
+
+
+CREATE TABLE most_active_users (
+    mnth TEXT,
+    user_id UUID,
+    total_clicks INT,
+    PRIMARY KEY ((mnth), total_clicks, user_id)
+) WITH CLUSTERING ORDER BY (total_clicks DESC);
+
+-----------------------------------------------------------------------------
+
+
+CREATE TABLE advertisers_by_regions (
+    mnth text,
+    advertiser_name text,
+    country text,
+    total_spend double,
+    PRIMARY KEY ((mnth, country), total_spend, advertiser_name)
+) WITH CLUSTERING ORDER BY (total_spend DESC, advertiser_name ASC);

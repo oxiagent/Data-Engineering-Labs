@@ -1,0 +1,66 @@
+[
+  {
+    "session_id": "309169_Tablet_2024-12-05",
+    "device": "Tablet",
+    "start_time": "2024-12-05 19:14:20",
+    "ad_interactions": [
+      {
+        "event_id": "6de8eee2-f9a3-4604-b297-9f887c0245c6",
+        "timestamp": "2024-12-05 19:14:20",
+        "ad_slot_id": 3,
+        "campaign": {
+          "campaign_id": 172,
+          "campaign_name": "Campaign_172",
+          "advertiser_name": "Advertiser_18",
+          "start_date": "2024-10-24 00:00:00",
+          "end_date": "2024-12-15 00:00:00",
+          "budget": 448330.01,
+          "remaining_budget": 448330.01,
+          "targeting": {
+            "criteria": "Age 27-40",
+            "interest": " Health",
+            "country": " USA"
+          }
+        },
+        "bid_amount": 0.56,
+        "ad_cost": 0.43,
+        "ad_revenue": 2.36,
+        "was_clicked": true,
+        "click_timestamp": "2024-12-05 19:19:00"
+      }
+    ],
+    "clicks": 1
+  },
+  {
+    "session_id": "309169_Tablet_2024-12-03",
+    "device": "Tablet",
+    "start_time": "2024-12-03 08:59:14",
+    "ad_interactions": [
+      {
+        "event_id": "29454569-e7ae-4352-81da-9abc8b58ff58",
+        "timestamp": "2024-12-03 08:59:14",
+        "ad_slot_id": 3,
+        "campaign": {
+          "campaign_id": 150,
+          "campaign_name": "Campaign_150",
+          "advertiser_name": "Advertiser_16",
+          "start_date": "2024-10-09 00:00:00",
+          "end_date": "2024-12-04 00:00:00",
+          "budget": 455423.07,
+          "remaining_budget": 455423.07,
+          "targeting": {
+            "criteria": "Age 29-47",
+            "interest": " Finance",
+            "country": " Australia"
+          }
+        },
+        "bid_amount": 3.4,
+        "ad_cost": 3.15,
+        "ad_revenue": 8.17,
+        "was_clicked": true,
+        "click_timestamp": "2024-12-03 09:00:01"
+      }
+    ],
+    "clicks": 1
+  }
+]

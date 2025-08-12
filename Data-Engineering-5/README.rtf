@@ -1,0 +1,190 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2818
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\fswiss\fcharset0 Arial-BoldMT;\f2\fswiss\fcharset0 Helvetica;
+\f3\froman\fcharset0 Times-Roman;\f4\fnil\fcharset0 .SFNS-Regular_wdth_opsz110000_GRAD_wght2580000;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;
+\red194\green126\blue101;\red24\green26\blue30;\red109\green109\blue109;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;\csgray\c0\c0;
+\cssrgb\c80784\c56863\c47059;\cssrgb\c12157\c13725\c15686;\cssrgb\c50196\c50196\c50196;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww12720\viewh7800\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\b\fs48 \cf0 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Real-Time Ad API Caching with Redis
+\f1\fs33 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f2\b0\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf0 \expnd0\expndtw0\kerning0
+API Functionality:\
+\pard\pardeftab720\partightenfactor0
+
+\f3\b0\fs24 \cf0 - GET /campaign/\{campaign_id\}/performance\
+  Returns CTR, clicks, impressions, and ad spend for a campaign (cache TTL \'97 30 seconds).\
+- GET /advertiser/\{advertiser_id\}/spending  \
+  Returns total ad spend for an advertiser (cache TTL \'97 5 minutes).\
+- GET /user/\{user_id\}/engagements  \
+  Returns a list of ads the user has engaged with (cache TTL \'97 120 seconds).\
+\
+
+\f0\b\fs36 Technologies Used
+\f3\b0\fs24 \
+- Python 3.11\
+- FastAPI \'97 REST API\
+- MySQL \'97 \cf3 \cb4 \outl0\strokewidth0 \strokec5 ad_analytics_db\cf0 \cb1 \outl0\strokewidth0 \
+- Redis \'97 cache\
+- Docker Compose \'97 infrastructure\
+- SQLAlchemy \'97 MySQL connection\
+- Pydantic \'97 data validation\
+\
+\
+
+\f0\b\fs36 Launch
+\f3\b0\fs24 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \outl0\strokewidth0 \strokec3 Start Redis and the API: \outl0\strokewidth0 docker compose up -d --build\
+\outl0\strokewidth0 \strokec3 Check the service health: curl http://localhost:8000/health. Response: \{"redis": true, "mysql": true\}\
+\
+\
+
+\f0\b\fs36 API Usage in Screenshots
+\f3\b0\fs24 \
+\outl0\strokewidth0 \
+\pard\pardeftab720\partightenfactor0
+\cf6 \cb2 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs36 \cf0 \cb1 \outl0\strokewidth0 \strokec3 Benchmarking results
+\f3\b0\fs24 \strokec3 \uc0\u8232 The tests were conducted with 50 requests for each endpoint in two modes:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Cold cache
+\f3\b0  \'97 the cache was cleared before execution\
+\ls1\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Warm cache
+\f3\b0  \'97 data was served from Redis
+\f4\b\fs30 \cf6 \cb2 \outl0\strokewidth0 \
+\pard\tx720\pardeftab720\partightenfactor0
+
+\f3\b0\fs24 \cf0 \cb1 \
+\
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth2762\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx1080
+\clvertalc \clshdrawnil \clwWidth480\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx2160
+\clvertalc \clshdrawnil \clwWidth1440\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx3240
+\clvertalc \clshdrawnil \clwWidth1426\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth1440\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx5400
+\clvertalc \clshdrawnil \clwWidth1600\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx6480
+\clvertalc \clshdrawnil \clwWidth1586\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx7560
+\clvertalc \clshdrawnil \clwWidth1600\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qc\partightenfactor0
+
+\f0\b \cf0 \outl0\strokewidth0 \strokec3 Endpoint\cell 
+\pard\intbl\itap1\pardeftab720\qc\partightenfactor0
+\cf0 TTL\cell 
+\pard\intbl\itap1\pardeftab720\qc\partightenfactor0
+\cf0 Cold p50 (ms)\cell 
+\pard\intbl\itap1\pardeftab720\qc\partightenfactor0
+\cf0 Cold avg (ms)\cell 
+\pard\intbl\itap1\pardeftab720\qc\partightenfactor0
+\cf0 Cold p95 (ms)\cell 
+\pard\intbl\itap1\pardeftab720\qc\partightenfactor0
+\cf0 Warm p50 (ms)\cell 
+\pard\intbl\itap1\pardeftab720\qc\partightenfactor0
+\cf0 Warm avg (ms)\cell 
+\pard\intbl\itap1\pardeftab720\qc\partightenfactor0
+\cf0 Warm p95 (ms)\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth2762\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx1080
+\clvertalc \clshdrawnil \clwWidth480\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx2160
+\clvertalc \clshdrawnil \clwWidth1440\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx3240
+\clvertalc \clshdrawnil \clwWidth1426\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth1440\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx5400
+\clvertalc \clshdrawnil \clwWidth1600\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx6480
+\clvertalc \clshdrawnil \clwWidth1586\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx7560
+\clvertalc \clshdrawnil \clwWidth1600\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\b0 \cf0 /campaign/\{id\}/performance\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 30s\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 1.81\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 12.03\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 6.70\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 1.56\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 1.84\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 3.89\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth2762\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx1080
+\clvertalc \clshdrawnil \clwWidth480\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx2160
+\clvertalc \clshdrawnil \clwWidth1440\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx3240
+\clvertalc \clshdrawnil \clwWidth1426\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth1440\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx5400
+\clvertalc \clshdrawnil \clwWidth1600\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx6480
+\clvertalc \clshdrawnil \clwWidth1586\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx7560
+\clvertalc \clshdrawnil \clwWidth1600\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 /advertiser/\{id\}/spending\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 300s\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 1.76\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 3.95\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 5.98\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 1.56\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 1.77\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 3.51\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth2762\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx1080
+\clvertalc \clshdrawnil \clwWidth480\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx2160
+\clvertalc \clshdrawnil \clwWidth1440\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx3240
+\clvertalc \clshdrawnil \clwWidth1426\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth1440\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx5400
+\clvertalc \clshdrawnil \clwWidth1600\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx6480
+\clvertalc \clshdrawnil \clwWidth1586\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx7560
+\clvertalc \clshdrawnil \clwWidth1600\clftsWidth3 \clmart10 \clmarl10 \clmarb10 \clmarr10 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadt20 \clpadl20 \clpadb20 \clpadr20 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 /user/\{id\}/engagements\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 120s\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 1.68\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 11.65\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 7.23\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 2.01\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 2.17\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf0 3.50\cell \lastrow\row
+\pard\tx720\pardeftab720\partightenfactor0
+\cf0 \outl0\strokewidth0 \
+\
+\pard\tx720\pardeftab720\partightenfactor0
+\cf0 \
+}
